@@ -1,1077 +1,1077 @@
 liczba_porzadkowa,rodzaj_pojazdu,nr_boczny,linia,nastepny_przystanek,przystanek_koncowy,opoznienie/przyspieszenie,godzina_odczytu,dzien_tygodnia,opoznienie_f,godzina_i,opoznienie_i,MODEL
-1,TRAMWAJ,423,17,Fredry,Zawady,01:59,14:43,sroda,"1,983","14,00",1,MODERTRANS
-2,TRAMWAJ,264,8,Most Teatralny,Gorczyn PKM,00:37,14:44,sroda,"0,617","14,00",0,KONSTAL
-3,TRAMWAJ,620,6,Most Dworcowy,Milostowo,-00:51,14:44,sroda,"-0,850","14,00",0,MODERTRANS
-4,TRAMWAJ,542,12,Poznan Glowny,Staroleka PKM,00:44,14:45,sroda,"0,733","14,00",0,SOLARIS
-5,TRAMWAJ,918,10,Wierzbiecice,Debiec PKM,01:59,14:45,sroda,"1,983","14,00",1,MODERTRANS
-6,TRAMWAJ,162,6,Most Dworcowy,Junikowo,01:59,14:46,sroda,"1,983","14,00",1,KONSTAL
-7,TRAMWAJ,550,12,AWF,Os.Sobieskiego,03:58,14:46,sroda,"3,967","14,00",3,SOLARIS
-8,TRAMWAJ,558,9,Lakowa,Debiec PKM,00:54,14:46,sroda,"0,900","14,00",0,SOLARIS
-9,TRAMWAJ,226,7,Rondo Rataje,Polabska,03:23,14:47,sroda,"3,383","14,00",3,MODERTRANS
-10,TRAMWAJ,290,5,Rondo Rataje,Unii Lubelskiej,-00:29,14:47,sroda,"-0,483","14,00",0,KONSTAL
-11,TRAMWAJ,553,6,Rondo Rataje,Junikowo,03:01,14:47,sroda,"3,017","14,00",3,SOLARIS
-12,TRAMWAJ,428,8,Rondo Srodka,Milostowo,-00:16,14:48,sroda,"-0,267","14,00",0,MODERTRANS
-13,TRAMWAJ,545,13,Kornicka,Staroleka PKM,01:53,14:48,sroda,"1,883","14,00",1,SOLARIS
-14,TRAMWAJ,436,5,Wagrowska,Unii Lubelskiej,02:20,14:49,sroda,"2,333","14,00",2,MODERTRANS
-15,TRAMWAJ,441,1,Zegrze III,Franowo,12:45,14:49,sroda,"12,750","14,00",12,MODERTRANS
-16,TRAMWAJ,424,11,Unii Lubelskiej,Unii Lubelskiej,03:23,14:50,sroda,"3,383","14,00",3,MODERTRANS
-17,TRAMWAJ,555,13,Rondo Staroleka,Staroleka PKM,06:01,14:50,sroda,"6,017","14,00",6,SOLARIS
-18,TRAMWAJ,218,2,Rynek Wildecki,Ogrody,00:51,14:51,sroda,"0,850","14,00",0,MODERTRANS
-19,TRAMWAJ,402,1,Hetmanska Wiadukt,Franowo,02:02,14:51,sroda,"2,033","14,00",2,TATRA
-20,AUTOBUS,1018,176,Krzyzowa,Garbary PKM,01:00,14:51,sroda,"1,000","14,00",1,AUTOBUS
-21,TRAMWAJ,616,7,Rolna,Polabska,-00:14,14:52,sroda,"-0,233","14,00",0,MODERTRANS
-22,TRAMWAJ,918,10,Pamiatkowa,Debiec PKM,02:28,14:52,sroda,"2,467","14,00",2,MODERTRANS
-23,TRAMWAJ,264,8,Glogowska/Hetmanska,Gorczyn PKM,01:06,14:53,sroda,"1,100","14,00",1,KONSTAL
-24,TRAMWAJ,522,9,Traugutta,Aleje Marcinkowskiego,-00:20,14:53,sroda,"-0,333","14,00",0,SOLARIS
-25,AUTOBUS,1907,171,Robocza,Os.Wichrowe Wzgorze,04:02,14:53,sroda,"4,033","14,00",4,AUTOBUS
-26,TRAMWAJ,925,3,Rondo Nowaka-Jezioranskiego,Blazeja,-01:02,14:54,sroda,"-1,033","14,00",-1,MODERTRANS
-27,AUTOBUS,1503,169,Opalenicka,Os.Sobieskiego,-00:13,14:54,sroda,"-0,217","14,00",0,AUTOBUS
-28,AUTOBUS,1253,159,Swoboda,Port Lotniczy Lawica,-00:52,14:55,sroda,"-0,867","14,00",0,AUTOBUS
-29,AUTOBUS,1639,169,Opalenicka,Os.Kopernika,00:41,14:55,sroda,"0,683","14,00",0,AUTOBUS
-30,TRAMWAJ,224,18,Zeromskiego,Ogrody,09:52,14:56,sroda,"9,867","14,00",9,MODERTRANS
-31,AUTOBUS,1829,191,Szpitalna,Os.Kopernika,01:15,14:56,sroda,"1,250","14,00",1,AUTOBUS
-32,AUTOBUS,7015,729,Swoboda,Dopiewo/Dworzec Kolejowy,00:19,14:56,sroda,"0,317","14,00",0,AUTOBUS
-33,TRAMWAJ,432,2,Zeromskiego,Ogrody,-00:46,14:57,sroda,"-0,767","14,00",0,MODERTRANS
-34,TRAMWAJ,612,18,Rynek Jezycki,Ogrody,04:54,14:57,sroda,"4,900","14,00",4,MODERTRANS
-35,TRAMWAJ,927,7,Zeromskiego,Ogrody,01:07,14:57,sroda,"1,117","14,00",1,MODERTRANS
-36,TRAMWAJ,609,7,Most Teatralny,Polabska,08:35,14:58,sroda,"8,583","14,00",8,MODERTRANS
-37,TRAMWAJ,938,10,Most Teatralny,Debiec PKM,00:43,14:58,sroda,"0,717","14,00",0,MODERTRANS
-38,TRAMWAJ,228,11,Wielkopolska,Unii Lubelskiej,00:42,14:59,sroda,"0,700","14,00",0,MODERTRANS
-39,TRAMWAJ,519,15,Most Teatralny,Budziszynska,01:41,14:59,sroda,"1,683","14,00",1,SOLARIS
-40,TRAMWAJ,917,16,Most Teatralny,Aleje Marcinkowskiego,-01:28,14:59,sroda,"-1,467","14,00",-1,MODERTRANS
-41,TRAMWAJ,933,10,Wielkopolska,Blazeja,01:51,14:59,sroda,"1,850","14,00",1,MODERTRANS
-42,TRAMWAJ,459,7,Wielkopolska,Ogrody,00:09,15:00,sroda,"0,150","15,00",0,MODERTRANS
-65,AUTOBUS,1452,168,Zamek,Poznan Glowny,06:14,15:08,sroda,"6,233","15,00",6,AUTOBUS
-44,TRAMWAJ,538,14,Most Teatralny,Gorczyn PKM,-00:15,15:01,sroda,"-0,250","15,00",0,SOLARIS
-45,AUTOBUS,1258,182,Slaska,Gorczyn PKM,02:03,15:01,sroda,"2,050","15,00",2,AUTOBUS
-46,AUTOBUS,1643,160,Klin,Garbary PKM,-00:40,15:01,sroda,"-0,667","15,00",0,AUTOBUS
-47,TRAMWAJ,430,2,Stare Zoo,Debiec PKM,00:49,15:02,sroda,"0,817","15,00",0,MODERTRANS
-48,AUTOBUS,1257,164,Jezycka,Puszkina,00:02,15:02,sroda,"0,033","15,00",0,AUTOBUS
-49,TRAMWAJ,168,15,Baltyk,Os.Sobieskiego,00:26,15:03,sroda,"0,433","15,00",0,MODERTRANS
-50,TRAMWAJ,546,12,Poznan Glowny,Staroleka PKM,-00:22,15:03,sroda,"-0,367","15,00",0,SOLARIS
-51,AUTOBUS,1002,145,Dworzec Zachodni,Dworzec Zachodni,00:03,15:03,sroda,"0,050","15,00",0,AUTOBUS
-52,TRAMWAJ,128,7,Arciszewskiego,Ogrody,07:55,15:04,sroda,"7,917","15,00",7,KONSTAL
-53,TRAMWAJ,421,11,Glogowska/Hetmanska,Unii Lubelskiej,02:13,15:04,sroda,"2,217","15,00",2,MODERTRANS
-54,TRAMWAJ,530,5,Krauthofera,Gorczyn PKM,06:03,15:04,sroda,"6,050","15,00",6,SOLARIS
-55,TRAMWAJ,431,8,Rynek Lazarski,Gorczyn PKM,03:44,15:05,sroda,"3,733","15,00",3,MODERTRANS
-56,TRAMWAJ,553,6,Wojskowa,Junikowo,06:16,15:05,sroda,"6,267","15,00",6,SOLARIS
-57,AUTOBUS,1289,164,Wyspianskiego,Puszkina,00:13,15:05,sroda,"0,217","15,00",0,AUTOBUS
-58,TRAMWAJ,218,2,Rynek Jezycki,Ogrody,03:05,15:06,sroda,"3,083","15,00",3,MODERTRANS
-59,TRAMWAJ,921,3,Wojskowa,Budziszynska,-00:43,15:06,sroda,"-0,717","15,00",0,MODERTRANS
-60,AUTOBUS,1261,164,Matejki,Kacza,00:28,15:06,sroda,"0,467","15,00",0,AUTOBUS
-61,TRAMWAJ,112,15,Matejki,Budziszynska,00:38,15:07,sroda,"0,633","15,00",0,KONSTAL
-62,TRAMWAJ,916,16,Zamek,Os.Sobieskiego,01:13,15:07,sroda,"1,217","15,00",1,MODERTRANS
-63,AUTOBUS,1836,163,Rondo Kaponiera,Gorczyn PKM,01:06,15:07,sroda,"1,100","15,00",1,AUTOBUS
-64,TRAMWAJ,459,7,Pl.Ratajskiego,Ogrody,00:29,15:08,sroda,"0,483","15,00",0,MODERTRANS
-233,AUTOBUS,1452,168,Libelta,Poznan Glowny,01:26,18:26,sroda,"1,433","18,00",1,AUTOBUS
-66,TRAMWAJ,419,8,Pl.Ratajskiego,Gorczyn PKM,00:10,15:09,sroda,"0,167","15,00",0,MODERTRANS
-67,TRAMWAJ,539,13,Pl.Bernardynski,Staroleka PKM,01:34,15:09,sroda,"1,567","15,00",1,SOLARIS
-68,AUTOBUS,1907,171,Urzad Marszalkowski,Os.Wichrowe Wzgorze,04:26,15:09,sroda,"4,433","15,00",4,AUTOBUS
-69,AUTOBUS,1858,167,Male Garbary,Rondo Srodka,01:28,15:10,sroda,"1,467","15,00",1,AUTOBUS
-70,AUTOBUS,6138,603,Wielka,Garbary PKM,12:29,15:10,sroda,"12,483","15,00",12,AUTOBUS
-71,TRAMWAJ,455,17,Katedra,Zawady,03:00,15:11,sroda,"3,000","15,00",3,MODERTRANS
-72,AUTOBUS,1259,163,Male Garbary,Garbary PKM,00:31,15:11,sroda,"0,517","15,00",0,AUTOBUS
-73,AUTOBUS,1862,190,Wielka,Os.Sobieskiego,05:08,15:11,sroda,"5,133","15,00",5,AUTOBUS
-74,TRAMWAJ,505,13,Wroclawska,Aleje Marcinkowskiego,03:14,15:12,sroda,"3,233","15,00",3,SIEMENS
-75,AUTOBUS,1705,174,Pl.Bernardynski,Unii Lubelskiej,01:12,15:12,sroda,"1,200","15,00",1,AUTOBUS
-76,TRAMWAJ,531,6,AWF,Milostowo,00:14,15:13,sroda,"0,233","15,00",0,SOLARIS
-77,AUTOBUS,1713,174,Os.Stare Zegrze,Unii Lubelskiej,01:09,15:13,sroda,"1,150","15,00",1,AUTOBUS
-78,AUTOBUS,6057,603,Droga Debinska,Leczyca/Dworcowa,-00:08,15:13,sroda,"-0,133","15,00",0,AUTOBUS
-79,TRAMWAJ,527,5,Os.Rzeczypospolitej,Unii Lubelskiej,02:11,15:14,sroda,"2,183","15,00",2,SOLARIS
-80,AUTOBUS,1648,184,Os.Bohaterow II Wojny Swiatowej,Nowe Zoo,00:39,15:14,sroda,"0,650","15,00",0,AUTOBUS
-81,TRAMWAJ,546,12,Os.Piastowskie,Staroleka PKM,-00:16,15:15,sroda,"-0,267","15,00",0,SOLARIS
-82,TRAMWAJ,629,18,Wioslarska,Ogrody,02:21,15:15,sroda,"2,350","15,00",2,MODERTRANS
-83,AUTOBUS,1663,181,Os.Oswiecenia,Krzywoustego,01:53,15:15,sroda,"1,883","15,00",1,AUTOBUS
-84,TRAMWAJ,539,13,Rondo Rataje,Staroleka PKM,01:50,15:16,sroda,"1,833","15,00",1,SOLARIS
-85,TRAMWAJ,603,7,Rondo Rataje,Ogrody,04:10,15:16,sroda,"4,167","15,00",4,MODERTRANS
-86,TRAMWAJ,436,5,AWF,Gorczyn PKM,02:12,15:17,sroda,"2,200","15,00",2,MODERTRANS
-87,TRAMWAJ,531,6,Rondo Rataje,Milostowo,-00:40,15:17,sroda,"-0,667","15,00",0,SOLARIS
-88,AUTOBUS,1880,190,Serafitek,Bobrzanska,08:00,15:17,sroda,"8,000","15,00",8,AUTOBUS
-89,TRAMWAJ,517,6,Wierzbiecice,Milostowo,-01:27,15:18,sroda,"-1,450","15,00",-1,SOLARIS
-90,TRAMWAJ,522,9,Polwiejska,Debiec PKM,00:30,15:18,sroda,"0,500","15,00",0,SOLARIS
-91,TRAMWAJ,917,16,Rondo Kaponiera,Os.Sobieskiego,-00:42,15:18,sroda,"-0,700","15,00",0,MODERTRANS
-92,TRAMWAJ,432,17,Most Teatralny,Zawady,00:29,15:19,sroda,"0,483","15,00",0,MODERTRANS
-93,AUTOBUS,1456,170,Dojazd Biocentrum,Polabska,01:48,15:19,sroda,"1,800","15,00",1,AUTOBUS
-94,AUTOBUS,1846,182,Uniwersytet Przyrodniczy,Gorczyn PKM,02:19,15:19,sroda,"2,317","15,00",2,AUTOBUS
-95,AUTOBUS,1257,164,Strzeszyn Grecki,Puszkina,01:17,15:20,sroda,"1,283","15,00",1,AUTOBUS
-96,AUTOBUS,1461,170,Tolstoja,Puszkina,01:48,15:20,sroda,"1,800","15,00",1,AUTOBUS
-97,AUTOBUS,1687,183,Truskawiecka,Szarych Szeregow,-02:21,15:20,sroda,"-2,350","15,00",-2,AUTOBUS
-98,AUTOBUS,1458,146,Bialczanska,Stary Strzeszyn,-00:31,15:21,sroda,"-0,517","15,00",0,AUTOBUS
-1049,AUTOBUS,1252,168,Strzeszynska,Strzeszyn PKM,01:20,21:02,piatek,"1,333","21,00",1,AUTOBUS
-100,AUTOBUS,1276,190,Wiedenska,Os.Sobieskiego,10:58,15:22,sroda,"10,967","15,00",10,AUTOBUS
-101,TRAMWAJ,934,3,Naramowice,Budziszynska,00:14,15:23,sroda,"0,233","15,00",0,MODERTRANS
-102,AUTOBUS,1483,146,Bronisza,Stary Strzeszyn,00:48,15:23,sroda,"0,800","15,00",0,AUTOBUS
-103,AUTOBUS,1882,198,UAM Wydzial Fizyki,UAM Os.Rozany Potok,03:22,15:23,sroda,"3,367","15,00",3,AUTOBUS
-104,TRAMWAJ,925,3,Os.Lokietka,Blazeja,04:33,15:24,sroda,"4,550","15,00",4,MODERTRANS
-105,AUTOBUS,1008,169,Luzycka,Os.Sobieskiego,01:05,15:24,sroda,"1,083","15,00",1,AUTOBUS
-106,AUTOBUS,1271,182,Os.Kosmonautow,Os.Wichrowe Wzgorze,04:52,15:25,sroda,"4,867","15,00",4,AUTOBUS
-107,AUTOBUS,1685,169,Os.Lokietka,Os.Kopernika,06:32,15:25,sroda,"6,533","15,00",6,AUTOBUS
-108,AUTOBUS,1888,322,Serbska,Czerwonak/Cmentarz,-00:40,15:25,sroda,"-0,667","15,00",0,AUTOBUS
-109,TRAMWAJ,531,6,Sw.Michala,Milostowo,01:33,15:26,sroda,"1,550","15,00",1,SOLARIS
-110,TRAMWAJ,609,7,Murawa,Ogrody,00:13,15:26,sroda,"0,217","15,00",0,MODERTRANS
-111,TRAMWAJ,930,10,Kmieca,Blazeja,02:12,15:26,sroda,"2,200","15,00",2,MODERTRANS
-112,TRAMWAJ,455,17,Rondo Srodka,Ogrody,00:57,15:27,sroda,"0,950","15,00",0,MODERTRANS
-113,TRAMWAJ,610,18,Rondo Rataje,Ogrody,03:23,15:27,sroda,"3,383","15,00",3,MODERTRANS
-114,AUTOBUS,1660,157,Rondo Srodka,Rondo Srodka,02:48,15:27,sroda,"2,800","15,00",2,AUTOBUS
-115,AUTOBUS,1657,181,Rondo Rataje,Rondo Rataje,01:21,15:28,sroda,"1,350","15,00",1,AUTOBUS
-116,AUTOBUS,1849,196,Rondo Rataje,Rondo Rataje,11:20,15:28,sroda,"11,333","15,00",11,AUTOBUS
-117,TRAMWAJ,525,6,Rondo Rataje,Junikowo,04:28,15:29,sroda,"4,467","15,00",4,SOLARIS
-118,TRAMWAJ,552,13,Rondo Rataje,Aleje Marcinkowskiego,01:52,15:29,sroda,"1,867","15,00",1,SOLARIS
-119,TRAMWAJ,290,5,Wioslarska,Gorczyn PKM,01:23,15:30,sroda,"1,383","15,00",1,KONSTAL
-120,TRAMWAJ,545,13,Rondo Rataje,Aleje Marcinkowskiego,-00:08,15:30,sroda,"-0,133","15,00",0,SOLARIS
-121,TRAMWAJ,628,7,Rondo Rataje,Polabska,07:08,15:30,sroda,"7,133","15,00",7,MODERTRANS
-122,TRAMWAJ,927,18,Rondo Rataje,Franowo,-00:32,15:30,sroda,"-0,533","15,00",0,MODERTRANS
-123,TRAMWAJ,116,1,Rondo Staroleka,Franowo,00:48,15:31,sroda,"0,800","15,00",0,KONSTAL
-124,TRAMWAJ,511,12,Staroleka Mala,Staroleka PKM,00:56,15:31,sroda,"0,933","15,00",0,SIEMENS
-125,TRAMWAJ,625,18,Rondo Staroleka,Franowo,06:33,15:31,sroda,"6,550","15,00",6,MODERTRANS
-126,TRAMWAJ,98,1,Rondo Staroleka,Junikowo,00:43,15:32,sroda,"0,717","15,00",0,KONSTAL
-127,TRAMWAJ,624,18,Rondo Staroleka,Ogrody,03:07,15:32,sroda,"3,117","15,00",3,MODERTRANS
-128,TRAMWAJ,608,18,Zegrze II,Ogrody,01:01,15:33,sroda,"1,017","15,00",1,MODERTRANS
-129,AUTOBUS,1758,152,Os.Orla Bialego II,Rondo Rataje,-00:08,15:33,sroda,"-0,133","15,00",0,AUTOBUS
-130,AUTOBUS,1769,152,Os.Orla Bialego,Darzybor,03:52,15:33,sroda,"3,867","15,00",3,AUTOBUS
-131,TRAMWAJ,402,1,Os.Czecha,Junikowo,00:33,15:34,sroda,"0,550","15,00",0,TATRA
-132,TRAMWAJ,408,1,Szwedzka,Franowo,02:29,15:34,sroda,"2,483","15,00",2,TATRA
-133,AUTOBUS,1690,162,Orle Gniazdo,Rondo Rataje,-00:17,15:34,sroda,"-0,283","15,00",0,AUTOBUS
-134,AUTOBUS,1880,190,Orle Gniazdo,Os.Sobieskiego,01:14,15:34,sroda,"1,233","15,00",1,AUTOBUS
-135,AUTOBUS,1645,166,Szwajcarska Szpital,Zieliniec,03:25,15:35,sroda,"3,417","15,00",3,AUTOBUS
-136,AUTOBUS,1663,181,Szwedzka,Krzywoustego,03:29,15:35,sroda,"3,483","15,00",3,AUTOBUS
-137,TRAMWAJ,620,6,Rondo Srodka,Junikowo,-01:10,15:36,sroda,"-1,167","15,00",-1,MODERTRANS
-138,AUTOBUS,1661,157,Kopiec Wolnosci,Rondo Srodka,-00:51,15:36,sroda,"-0,850","15,00",0,AUTOBUS
-139,AUTOBUS,1869,320,Koronkarska,Rondo Srodka,00:10,15:36,sroda,"0,167","15,00",0,AUTOBUS
-140,TRAMWAJ,218,17,Pl.Wielkopolski,Zawady,02:34,15:37,sroda,"2,567","15,00",2,MODERTRANS
-141,TRAMWAJ,424,11,Nad Wierzbakiem,Piatkowska,02:28,15:37,sroda,"2,467","15,00",2,MODERTRANS
-142,AUTOBUS,6124,603,Mostowa,Garbary PKM,01:10,15:37,sroda,"1,167","15,00",1,AUTOBUS
-143,AUTOBUS,1282,193,Os.Winiary,Os.Sobieskiego,04:35,15:38,sroda,"4,583","15,00",4,AUTOBUS
-144,AUTOBUS,1461,170,Wrzoska Szpitale,Polabska,-01:00,15:38,sroda,"-1,000","15,00",-1,AUTOBUS
-145,AUTOBUS,1484,191,Niestachowska,Os.Kopernika,05:16,15:38,sroda,"5,267","15,00",5,AUTOBUS
-146,TRAMWAJ,417,2,Zeromskiego,Ogrody,00:09,15:39,sroda,"0,150","15,00",0,MODERTRANS
-147,AUTOBUS,1264,163,Polna Szpital,Garbary PKM,04:59,15:39,sroda,"4,983","15,00",4,AUTOBUS
-148,AUTOBUS,1272,177,Szpitalna,Junikowo,02:37,15:39,sroda,"2,617","15,00",2,AUTOBUS
-149,AUTOBUS,1887,182,Szpitalna,Os.Wichrowe Wzgorze,02:28,15:39,sroda,"2,467","15,00",2,AUTOBUS
-150,AUTOBUS,1639,169,Naramowice,Os.Sobieskiego,-01:09,16:18,sroda,"-1,150","16,00",-1,AUTOBUS
-151,TRAMWAJ,938,10,Jasna Rola,Debiec PKM,00:06,16:18,sroda,"0,100","16,00",0,MODERTRANS
-152,AUTOBUS,1903,190,Wilczak,Bobrzanska,-01:28,16:19,sroda,"-1,467","16,00",-1,AUTOBUS
-153,AUTOBUS,1638,185,Serbska,Rondo Srodka,03:14,16:19,sroda,"3,233","16,00",3,AUTOBUS
-154,AUTOBUS,1642,178,Rondo Solidarnosci,Szarych Szeregow,00:37,16:19,sroda,"0,617","16,00",0,AUTOBUS
-155,AUTOBUS,1482,191,Aleje Solidarnosci,Os.Kopernika,01:20,16:20,sroda,"1,333","16,00",1,AUTOBUS
-156,TRAMWAJ,156,15,Lechicka Poznan Plaza,Budziszynska,-00:07,16:20,sroda,"-0,117","16,00",0,KONSTAL
-157,AUTOBUS,1280,190,Os.Chrobrego,Os.Sobieskiego,12:55,16:20,sroda,"12,917","16,00",12,AUTOBUS
-158,AUTOBUS,1644,185,Wojciechowskiego,Rondo Srodka,01:54,16:21,sroda,"1,900","16,00",1,AUTOBUS
-159,AUTOBUS,1862,190,Suszki,Bobrzanska,00:57,16:21,sroda,"0,950","16,00",0,AUTOBUS
-160,AUTOBUS,1880,190,Wloscianska,Os.Sobieskiego,02:00,16:21,sroda,"2,000","16,00",2,AUTOBUS
-161,TRAMWAJ,228,11,Lutycka Szpital,Piatkowska,-00:44,16:22,sroda,"-0,733","16,00",0,MODERTRANS
-162,AUTOBUS,1633,183,Aleje Solidarnosci,Rondo Srodka,04:37,16:22,sroda,"4,617","16,00",4,AUTOBUS
-163,TRAMWAJ,156,15,Slowianska,Budziszynska,00:07,16:22,sroda,"0,117","16,00",0,KONSTAL
-164,TRAMWAJ,543,14,Aleje Solidarnosci,Os.Sobieskiego,01:26,16:22,sroda,"1,433","16,00",1,SOLARIS
-165,TRAMWAJ,138,15,Slowianska,Os.Sobieskiego,06:28,16:23,sroda,"6,467","16,00",6,KONSTAL
-166,TRAMWAJ,450,11,Wielkopolska,Piatkowska,01:55,16:23,sroda,"1,917","16,00",1,MODERTRANS
-167,TRAMWAJ,613,7,Poznanska,Polabska,03:26,16:23,sroda,"3,433","16,00",3,MODERTRANS
-168,TRAMWAJ,914,16,Rondo Kaponiera,Aleje Marcinkowskiego,01:45,16:24,sroda,"1,750","16,00",1,MODERTRANS
-169,TRAMWAJ,516,14,Dworzec Zachodni,Gorczyn PKM,-00:13,16:24,sroda,"-0,217","16,00",0,SOLARIS
-170,TRAMWAJ,928,3,Baltyk,Budziszynska,00:23,16:24,sroda,"0,383","16,00",0,MODERTRANS
-43,AUTOBUS,1878,168,Urzad Marszalkowski,Strzeszyn PKM,01:03,15:00,sroda,"1,050","15,00",1,AUTOBUS
-172,TRAMWAJ,432,2,Uniwersytet Ekonomiczny,Debiec PKM,00:49,16:25,sroda,"0,817","16,00",0,MODERTRANS
-173,TRAMWAJ,88,11,Most Dworcowy,Unii Lubelskiej,02:01,16:25,sroda,"2,017","16,00",2,MODERTRANS
-174,TRAMWAJ,148,18,Most Teatralny,Ogrody,06:00,16:26,sroda,"6,000","16,00",6,KONSTAL
-175,TRAMWAJ,198,12,Aleje Solidarnosci,Os.Sobieskiego,-00:53,16:26,sroda,"-0,883","16,00",0,MODERTRANS
-176,TRAMWAJ,920,16,Aleje Solidarnosci,Os.Sobieskiego,-00:15,16:27,sroda,"-0,250","16,00",0,MODERTRANS
-177,AUTOBUS,1455,170,Os.Zwyciestwa,Polabska,-01:13,16:27,sroda,"-1,217","16,00",-1,AUTOBUS
-178,TRAMWAJ,138,15,Lechicka Poznan Plaza,Os.Sobieskiego,05:23,16:27,sroda,"5,383","16,00",5,KONSTAL
-179,TRAMWAJ,533,14,Lechicka Poznan Plaza,Gorczyn PKM,00:28,16:28,sroda,"0,467","16,00",0,SOLARIS
-180,TRAMWAJ,916,16,Aleje Solidarnosci,Aleje Marcinkowskiego,02:40,16:28,sroda,"2,667","16,00",2,MODERTRANS
-181,AUTOBUS,8317,832,Os.Sobieskiego Szkola,Os.Sobieskiego,08:50,16:28,sroda,"8,833","16,00",8,AUTOBUS
-182,TRAMWAJ,937,10,Traugutta,Debiec PKM,04:33,16:45,sroda,"4,550","16,00",4,MODERTRANS
-183,TRAMWAJ,434,11,Traugutta,Unii Lubelskiej,-01:14,16:45,sroda,"-1,233","16,00",-1,MODERTRANS
-184,TRAMWAJ,620,6,Most Dworcowy,Milostowo,00:11,16:45,sroda,"0,183","16,00",0,MODERTRANS
-185,TRAMWAJ,162,6,Most Dworcowy,Junikowo,00:56,16:46,sroda,"0,933","16,00",0,KONSTAL
-186,TRAMWAJ,927,18,Most Dworcowy,Ogrody,01:44,16:46,sroda,"1,733","16,00",1,MODERTRANS
-187,AUTOBUS,1919,171,Zamek,Os.Wichrowe Wzgorze,-00:04,16:46,sroda,"-0,067","16,00",0,AUTOBUS
-188,TRAMWAJ,182,17,Fredry,Ogrody,03:08,16:46,sroda,"3,133","16,00",3,MODERTRANS
-189,TRAMWAJ,923,10,Most Teatralny,Blazeja,01:25,16:47,sroda,"1,417","16,00",1,MODERTRANS
-190,TRAMWAJ,448,8,Rondo Kaponiera,Milostowo,01:21,16:47,sroda,"1,350","16,00",1,MODERTRANS
-191,TRAMWAJ,168,12,Most Teatralny,Os.Sobieskiego,04:38,16:48,sroda,"4,633","16,00",4,MODERTRANS
-192,TRAMWAJ,511,15,Baltyk,Budziszynska,-01:40,16:48,sroda,"-1,667","16,00",-1,SIEMENS
-193,TRAMWAJ,226,18,Most Dworcowy,Franowo,01:04,16:48,sroda,"1,067","16,00",1,MODERTRANS
-194,AUTOBUS,1863,159,Szylinga,Port Lotniczy Lawica,01:26,16:49,sroda,"1,433","16,00",1,AUTOBUS
-195,TRAMWAJ,940,3,Rondo Kaponiera,Blazeja,-00:47,16:49,sroda,"-0,783","16,00",0,MODERTRANS
-196,TRAMWAJ,190,8,Most Dworcowy,Gorczyn PKM,04:56,16:49,sroda,"4,933","16,00",4,KONSTAL
-197,TRAMWAJ,456,5,Poznan Glowny,Unii Lubelskiej,-00:13,16:50,sroda,"-0,217","16,00",0,MODERTRANS
-198,TRAMWAJ,605,6,Rondo Nowaka-Jezioranskiego,Milostowo,-00:29,16:50,sroda,"-0,483","16,00",0,MODERTRANS
-199,TRAMWAJ,446,1,Grochowska,Junikowo,02:23,16:50,sroda,"2,383","16,00",2,MODERTRANS
-200,AUTOBUS,1029,145,Marcelinska,Dworzec Zachodni,01:55,16:51,sroda,"1,917","16,00",1,AUTOBUS
-201,AUTOBUS,1478,148,Swoboda,Rondo Kaponiera,-02:10,16:51,sroda,"-2,167","16,00",-2,AUTOBUS
-202,AUTOBUS,1282,193,Jasna,Gorczyn PKM,-00:04,16:51,sroda,"-0,067","16,00",0,AUTOBUS
-203,AUTOBUS,8325,834,Ogrody,Ogrody,07:25,16:52,sroda,"7,417","16,00",7,AUTOBUS
-204,AUTOBUS,1492,121,Polska,Meissnera,-00:47,16:52,sroda,"-0,783","16,00",0,AUTOBUS
-205,AUTOBUS,7015,729,Ogrody,Ogrody,-00:32,16:52,sroda,"-0,533","16,00",0,AUTOBUS
-206,AUTOBUS,1482,191,Szpitalna,Os.Kopernika,12:37,16:52,sroda,"12,617","16,00",12,AUTOBUS
-207,AUTOBUS,1287,182,Promienista,Gorczyn PKM,00:09,16:53,sroda,"0,150","16,00",0,AUTOBUS
-208,TRAMWAJ,400,5,Sielska,Gorczyn PKM,02:06,16:53,sroda,"2,100","16,00",2,TATRA
-209,TRAMWAJ,513,9,Debiec PKM,Debiec PKM,04:08,16:54,sroda,"4,133","16,00",4,SIEMENS
-210,TRAMWAJ,628,7,Rolna,Ogrody,03:05,16:54,sroda,"3,083","16,00",3,MODERTRANS
-211,AUTOBUS,1712,174,Os.Bohaterow II Wojny Swiatowej,Unii Lubelskiej,15:44,16:54,sroda,"15,733","16,00",15,AUTOBUS
-212,AUTOBUS,1702,174,Os.Bohaterow II Wojny Swiatowej,Unii Lubelskiej,01:24,16:55,sroda,"1,400","16,00",1,AUTOBUS
-213,TRAMWAJ,312,12,Os.Piastowskie,Os.Sobieskiego,00:45,16:55,sroda,"0,750","16,00",0,KONSTAL
-214,AUTOBUS,1648,184,Wioslarska,Rondo Rataje,03:10,16:55,sroda,"3,167","16,00",3,AUTOBUS
-215,AUTOBUS,1672,166,Rondo Rataje,Zieliniec,00:57,16:55,sroda,"0,950","16,00",0,AUTOBUS
-216,TRAMWAJ,552,13,Rondo Rataje,Staroleka PKM,01:53,16:56,sroda,"1,883","16,00",1,SOLARIS
-217,TRAMWAJ,544,13,Most sw.Rocha,Aleje Marcinkowskiego,-00:07,16:56,sroda,"-0,117","16,00",0,SOLARIS
-218,TRAMWAJ,545,13,Kornicka,Staroleka PKM,01:29,16:57,sroda,"1,483","16,00",1,SOLARIS
-219,AUTOBUS,1688,184,Rondo Srodka,Nowe Zoo,08:13,16:57,sroda,"8,217","16,00",8,AUTOBUS
-220,TRAMWAJ,614,6,Rondo Srodka,Junikowo,-00:58,16:57,sroda,"-0,967","16,00",0,MODERTRANS
-221,TRAMWAJ,604,6,Termalna,Milostowo,02:32,16:58,sroda,"2,533","16,00",2,MODERTRANS
-222,AUTOBUS,1638,185,Zawady,Os.Sobieskiego,-00:48,16:58,sroda,"-0,800","16,00",0,AUTOBUS
-223,AUTOBUS,1633,183,Smolna,Szarych Szeregow,01:17,16:58,sroda,"1,283","16,00",1,AUTOBUS
-224,AUTOBUS,1885,322,Chemiczna,Czerwonak/Cmentarz,07:10,16:59,sroda,"7,167","16,00",7,AUTOBUS
-225,AUTOBUS,1690,162,Torowa Wiadukt,Rondo Rataje,02:16,16:59,sroda,"2,267","16,00",2,AUTOBUS
-226,AUTOBUS,1646,181,Wiatraczna,Krzywoustego,01:32,16:59,sroda,"1,533","16,00",1,AUTOBUS
-227,AUTOBUS,1658,166,Pilsudskiego,Rondo Rataje,04:31,17:00,sroda,"4,517","17,00",4,AUTOBUS
-228,TRAMWAJ,312,12,Rondo Rataje,Os.Sobieskiego,01:49,17:00,sroda,"1,817","17,00",1,KONSTAL
-229,TRAMWAJ,522,9,Lakowa,Aleje Marcinkowskiego,-00:30,17:03,sroda,"-0,500","17,00",0,SOLARIS
-230,TRAMWAJ,510,9,Aleje Marcinkowskiego,Aleje Marcinkowskiego,-01:31,18:25,sroda,"-1,517","18,00",-1,SIEMENS
-231,TRAMWAJ,136,7,Pl.Ratajskiego,Polabska,-00:06,18:25,sroda,"-0,100","18,00",0,KONSTAL
-232,AUTOBUS,1643,160,Solna,Garbary PKM,-00:14,18:25,sroda,"-0,233","18,00",0,AUTOBUS
-171,AUTOBUS,1821,168,Poznan Glowny,Poznan Glowny,00:35,16:25,sroda,"0,583","16,00",0,AUTOBUS
-234,TRAMWAJ,925,3,Zniwna,Blazeja,-01:11,18:26,sroda,"-1,183","18,00",-1,MODERTRANS
-235,AUTOBUS,1861,322,Trojpole,Piatkowska,00:22,18:26,sroda,"0,367","18,00",0,AUTOBUS
-236,AUTOBUS,1846,182,Os.Slowianskie,Os.Wichrowe Wzgorze,06:02,18:27,sroda,"6,033","18,00",6,AUTOBUS
-237,TRAMWAJ,920,16,Slowianska,Aleje Marcinkowskiego,-00:50,18:27,sroda,"-0,833","18,00",0,MODERTRANS
-238,AUTOBUS,1480,191,Os.Slowianskie,Os.Kopernika,03:16,18:27,sroda,"3,267","18,00",3,AUTOBUS
-239,TRAMWAJ,533,14,Slowianska,Os.Sobieskiego,-01:24,18:28,sroda,"-1,400","18,00",-1,SOLARIS
-240,TRAMWAJ,421,11,Wielkopolska,Unii Lubelskiej,00:31,18:28,sroda,"0,517","18,00",0,MODERTRANS
-241,AUTOBUS,1821,160,Nad Wierzbakiem,Stary Strzeszyn,-01:05,18:28,sroda,"-1,083","18,00",-1,AUTOBUS
-242,AUTOBUS,1251,164,Koscielna,Kacza,02:38,18:29,sroda,"2,633","18,00",2,AUTOBUS
-243,AUTOBUS,1816,159,Szylinga,Port Lotniczy Lawica,-00:43,18:29,sroda,"-0,717","18,00",0,AUTOBUS
-244,TRAMWAJ,134,14,Rynek Lazarski,Gorczyn PKM,01:06,18:29,sroda,"1,100","18,00",1,KONSTAL
-245,TRAMWAJ,416,11,Rynek Lazarski,Piatkowska,00:15,18:30,sroda,"0,250","18,00",0,MODERTRANS
-246,TRAMWAJ,98,1,Arciszewskiego,Franowo,-00:06,18:30,sroda,"-0,100","18,00",0,KONSTAL
-247,TRAMWAJ,608,7,Rondo Nowaka-Jezioranskiego,Ogrody,-01:08,18:30,sroda,"-1,133","18,00",-1,MODERTRANS
-248,TRAMWAJ,604,6,Rondo Nowaka-Jezioranskiego,Milostowo,-00:21,18:30,sroda,"-0,350","18,00",0,MODERTRANS
-249,TRAMWAJ,407,15,Grochowska,Budziszynska,04:19,18:31,sroda,"4,317","18,00",4,TATRA
-250,TRAMWAJ,921,3,Grochowska,Junikowo,-00:07,18:31,sroda,"-0,117","18,00",0,MODERTRANS
-251,AUTOBUS,1819,182,Promienista,Gorczyn PKM,-00:56,18:31,sroda,"-0,933","18,00",0,AUTOBUS
-252,AUTOBUS,1820,163,Sciegiennego,Garbary PKM,-00:13,18:31,sroda,"-0,217","18,00",0,AUTOBUS
-253,AUTOBUS,1003,175,Rakoniewicka,Debiec PKM,00:30,18:32,sroda,"0,500","18,00",0,AUTOBUS
-254,AUTOBUS,1011,149,Kotowicza,Debiec PKM,01:01,18:32,sroda,"1,017","18,00",1,AUTOBUS
-255,AUTOBUS,7004,701,Swierczewo,Komorniki/Jeziorna,-01:45,18:32,sroda,"-1,750","18,00",-1,AUTOBUS
-256,AUTOBUS,1404,180,Fabianowo,Gorczyn PKM,-01:36,18:33,sroda,"-1,600","18,00",-1,AUTOBUS
-257,AUTOBUS,7010,710,Ostatnia,Gorczyn PKM,02:40,18:33,sroda,"2,667","18,00",2,AUTOBUS
-258,AUTOBUS,1405,180,Rudnicze,Sycowska Centrum Handlowe,01:23,18:33,sroda,"1,383","18,00",1,AUTOBUS
-259,AUTOBUS,7007,729,Zlotowska Dzialki,Dopiewo/Dworzec Kolejowy,-00:23,18:34,sroda,"-0,383","18,00",0,AUTOBUS
-260,AUTOBUS,1477,148,Perzycka,Lawica,01:51,18:34,sroda,"1,850","18,00",1,AUTOBUS
-261,AUTOBUS,1863,159,Port Lotniczy Lawica,Port Lotniczy Lawica,04:27,18:35,sroda,"4,450","18,00",4,AUTOBUS
-262,AUTOBUS,1267,177,Lesnych Skrzatow,Rondo Kaponiera,-00:01,18:35,sroda,"-0,017","18,00",0,AUTOBUS
-263,AUTOBUS,1838,191,Rycerska,Os.Kopernika,04:38,18:35,sroda,"4,633","18,00",4,AUTOBUS
-264,TRAMWAJ,517,6,Wegorka,Junikowo,-00:43,18:35,sroda,"-0,717","18,00",0,SOLARIS
-265,AUTOBUS,1257,164,Sciegiennego,Puszkina,-00:52,18:36,sroda,"-0,867","18,00",0,AUTOBUS
-266,TRAMWAJ,134,14,Gorczyn PKM,Gorczyn PKM,-00:02,18:36,sroda,"-0,033","18,00",0,KONSTAL
-267,TRAMWAJ,454,11,Glogowska/Hetmanska,Piatkowska,-01:25,18:36,sroda,"-1,417","18,00",-1,MODERTRANS
-268,TRAMWAJ,264,8,Rynek Lazarski,Milostowo,00:17,18:37,sroda,"0,283","18,00",0,KONSTAL
-269,TRAMWAJ,558,9,Wspolna,Debiec PKM,-01:35,18:37,sroda,"-1,583","18,00",-1,SOLARIS
-270,AUTOBUS,1907,171,IPN,Os.Debina,01:28,18:37,sroda,"1,467","18,00",1,AUTOBUS
-271,TRAMWAJ,508,13,Staroleka PKM,Staroleka PKM,-01:01,18:37,sroda,"-1,017","18,00",-1,SIEMENS
-272,AUTOBUS,1762,189,Pinczowska,Staroleka PKM,-00:33,18:38,sroda,"-0,550","18,00",0,AUTOBUS
-273,AUTOBUS,1406,194,Zaklikowska,Unii Lubelskiej,00:06,18:38,sroda,"0,100","18,00",0,AUTOBUS
-274,AUTOBUS,1764,194,Czernichowska,Staroleka PKM,-00:45,18:38,sroda,"-0,750","18,00",0,AUTOBUS
-275,AUTOBUS,1842,158,Dziedzicka,Staroleka PKM,00:36,18:39,sroda,"0,600","18,00",0,AUTOBUS
-276,AUTOBUS,1690,162,Ostrowska,Rondo Rataje,03:09,18:39,sroda,"3,150","18,00",3,AUTOBUS
-277,AUTOBUS,4313,431,Os.Lecha I ,Rondo Rataje,03:30,18:39,sroda,"3,500","18,00",3,AUTOBUS
-278,AUTOBUS,1656,152,Inflancka,Rondo Rataje,02:26,18:40,sroda,"2,433","18,00",2,AUTOBUS
-279,AUTOBUS,1704,174,Os.Armii Krajowej,Os.Sobieskiego,02:02,18:40,sroda,"2,033","18,00",2,AUTOBUS
-280,TRAMWAJ,548,13,Wioslarska,Aleje Marcinkowskiego,-00:39,18:40,sroda,"-0,650","18,00",0,SOLARIS
-281,TRAMWAJ,505,13,Os.Piastowskie,Aleje Marcinkowskiego,00:38,19:11,sroda,"0,633","19,00",0,SIEMENS
-282,AUTOBUS,1757,152,Os.Stare Zegrze,Darzybor,02:36,19:11,sroda,"2,600","19,00",2,AUTOBUS
-283,AUTOBUS,1712,174,Sarbinowska,Unii Lubelskiej,-01:21,19:12,sroda,"-1,350","19,00",-1,AUTOBUS
-284,AUTOBUS,1764,189,Falista,Staroleka PKM,-00:26,19:12,sroda,"-0,433","19,00",0,AUTOBUS
-285,TRAMWAJ,456,5,Rondo Staroleka,Gorczyn PKM,01:24,19:12,sroda,"1,400","19,00",1,MODERTRANS
-286,TRAMWAJ,927,7,Rondo Staroleka,Ogrody,-00:53,19:13,sroda,"-0,883","19,00",0,MODERTRANS
-287,TRAMWAJ,558,9,Rondo Staroleka,Franowo,-01:04,19:13,sroda,"-1,067","19,00",-1,SOLARIS
-288,TRAMWAJ,522,9,Rondo Staroleka,Franowo,04:58,19:13,sroda,"4,967","19,00",4,SOLARIS
-289,TRAMWAJ,605,6,Rondo Zegrze ,Franowo,04:28,19:14,sroda,"4,467","19,00",4,MODERTRANS
-290,TRAMWAJ,450,11,Rondo Zegrze ,Unii Lubelskiej,00:15,19:14,sroda,"0,250","19,00",0,MODERTRANS
-291,TRAMWAJ,545,13,Rondo Zegrze,Franowo,04:12,19:15,sroda,"4,200","19,00",4,SOLARIS
-292,TRAMWAJ,98,1,Rondo Zegrze,Glogowska/Hetmanska,-01:03,19:15,sroda,"-1,050","19,00",-1,KONSTAL
-293,AUTOBUS,1632,162,Inflancka,Rondo Rataje,00:34,19:15,sroda,"0,567","19,00",0,AUTOBUS
-294,AUTOBUS,1903,190,Orle Gniazdo,Bobrzanska,01:52,19:16,sroda,"1,867","19,00",1,AUTOBUS
-295,TRAMWAJ,431,8,Termalna,Milostowo,03:23,19:16,sroda,"3,383","19,00",3,MODERTRANS
-296,AUTOBUS,1869,320,Koronkarska,Rondo Srodka,00:07,19:17,sroda,"0,117","19,00",0,AUTOBUS
-297,TRAMWAJ,442,17,Male Garbary,Ogrody,00:24,19:18,sroda,"0,400","19,00",0,MODERTRANS
-298,TRAMWAJ,615,7,Katedra,Ogrody,-00:27,19:18,sroda,"-0,450","19,00",0,MODERTRANS
-299,AUTOBUS,1676,160,Solna,Stary Strzeszyn,00:12,19:18,sroda,"0,200","19,00",0,AUTOBUS
-300,TRAMWAJ,510,9,Aleje Marcinkowskiego,Aleje Marcinkowskiego,-01:47,19:19,sroda,"-1,783","19,00",-1,SIEMENS
-301,TRAMWAJ,927,7,Pl.Wielkopolski,Franowo,-01:26,22:55,sroda,"-1,433","22,00",-1,MODERTRANS
-302,TRAMWAJ,457,14,Slowianska,Os.Sobieskiego,02:02,22:56,sroda,"2,033","22,00",2,MODERTRANS
-303,AUTOBUS,1863,159,Poznan Glowny,Poznan Glowny,02:23,22:56,sroda,"2,383","22,00",2,AUTOBUS
-304,AUTOBUS,1816,218,Most Dworcowy,Franowo,-03:35,22:57,sroda,"-3,583","22,00",-3,AUTOBUS
-305,AUTOBUS,1836,163,Solna,Garbary PKM,00:34,22:57,sroda,"0,567","22,00",0,AUTOBUS
-306,TRAMWAJ,936,3,Wielkopolska,Franowo,00:27,22:57,sroda,"0,450","22,00",0,MODERTRANS
-307,TRAMWAJ,433,11,Wielkopolska,Staroleka PKM,-00:05,22:58,sroda,"-0,083","22,00",0,MODERTRANS
-308,TRAMWAJ,911,16,Most Dworcowy,Glogowska/Hetmanska,-00:32,22:58,sroda,"-0,533","22,00",0,MODERTRANS
-309,TRAMWAJ,430,2,Wierzbiecice,Staroleka PKM,-00:37,22:58,sroda,"-0,617","22,00",0,MODERTRANS
-310,TRAMWAJ,447,12,Dworzec Zachodni,Os.Sobieskiego,-01:29,22:59,sroda,"-1,483","22,00",-1,MODERTRANS
-311,TRAMWAJ,517,6,Matejki,Franowo,-00:08,22:59,sroda,"-0,133","22,00",0,SOLARIS
-312,AUTOBUS,1479,148,Szylinga,Rondo Kaponiera,-00:26,22:59,sroda,"-0,433","22,00",0,AUTOBUS
-313,TRAMWAJ,417,17,Polna  ,Staroleka PKM,-00:08,23:00,sroda,"-0,133","23,00",0,MODERTRANS
-314,AUTOBUS,1001,182,Zeromskiego,Gorczyn PKM,-00:28,23:00,sroda,"-0,467","23,00",0,AUTOBUS
-315,AUTOBUS,1269,177,Swoboda,Junikowo,00:44,23:00,sroda,"0,733","23,00",0,AUTOBUS
-316,TRAMWAJ,511,15,Grochowska,Budziszynska,-00:52,23:00,sroda,"-0,867","23,00",0,SIEMENS
-317,TRAMWAJ,940,3,Drzewieckiego,Franowo,-00:30,23:01,sroda,"-0,500","23,00",0,MODERTRANS
-318,TRAMWAJ,446,1,Stadion Miejski,Glogowska/Hetmanska,-01:09,23:01,sroda,"-1,150","23,00",-1,MODERTRANS
-319,TRAMWAJ,553,6,Grotkowska,Junikowo,00:18,23:01,sroda,"0,300","23,00",0,SOLARIS
-320,AUTOBUS,7038,716,Junikowo PKM,Junikowo,03:21,23:02,sroda,"3,350","23,00",3,AUTOBUS
-321,AUTOBUS,1203,180,Wolowska,Sycowska Centrum Handlowe,00:19,23:02,sroda,"0,317","23,00",0,AUTOBUS
-322,AUTOBUS,1003,175,Swierczewo,Gorczyn PKM,02:06,23:02,sroda,"2,100","23,00",2,AUTOBUS
-323,AUTOBUS,1688,152,Os.Orla Bialego II,Darzybor,-00:16,23:03,sroda,"-0,267","23,00",0,AUTOBUS
-324,TRAMWAJ,525,6,Zegrze III,Franowo,-00:11,23:03,sroda,"-0,183","23,00",0,SOLARIS
-325,TRAMWAJ,611,7,Piasnicka Rynek,Franowo,-01:44,23:03,sroda,"-1,733","23,00",-1,MODERTRANS
-326,AUTOBUS,1658,184,Szwajcarska Centrum Handlowe,Rondo Rataje,01:04,23:03,sroda,"1,067","23,00",1,AUTOBUS
-327,TRAMWAJ,559,15,Franowo,Franowo,03:21,23:04,sroda,"3,350","23,00",3,SOLARIS
-328,AUTOBUS,1650,166,Franowo,Zieliniec,-00:11,23:04,sroda,"-0,183","23,00",0,AUTOBUS
-329,TRAMWAJ,613,18,Szwajcarska,Franowo,-00:46,23:04,sroda,"-0,767","23,00",0,MODERTRANS
-330,TRAMWAJ,629,18,Rondo Staroleka,Franowo,-00:01,23:05,sroda,"-0,017","23,00",0,MODERTRANS
-331,AUTOBUS,1687,181,Pilsudskiego,Krzywoustego,00:40,23:05,sroda,"0,667","23,00",0,AUTOBUS
-332,AUTOBUS,5053,501,Rondo Rataje,Rondo Rataje,01:09,23:05,sroda,"1,150","23,00",1,AUTOBUS
-333,AUTOBUS,1637,196,Krzesiny Szkola,Rondo Rataje,00:26,23:05,sroda,"0,433","23,00",0,AUTOBUS
-334,AUTOBUS,6053,603,Malinowa,Leczyca/Dworcowa,01:17,23:06,sroda,"1,283","23,00",1,AUTOBUS
-335,AUTOBUS,1910,223,Rynek Lazarski,Kacza,02:29,23:06,sroda,"2,483","23,00",2,AUTOBUS
-336,AUTOBUS,1270,215,Poznan Glowny,Os.Debina,04:51,23:07,sroda,"4,850","23,00",4,AUTOBUS
-337,AUTOBUS,1025,169,Rondo Kaponiera,Os.Kopernika,01:05,23:07,sroda,"1,083","23,00",1,AUTOBUS
-338,TRAMWAJ,551,15,Slowianska,Franowo,-00:21,23:07,sroda,"-0,350","23,00",0,SOLARIS
-339,TRAMWAJ,457,14,Kurpinskiego,Glogowska/Hetmanska,-00:08,23:08,sroda,"-0,133","23,00",0,MODERTRANS
-340,AUTOBUS,9117,905,Szymanowskiego,Os.Sobieskiego,03:30,23:08,sroda,"3,500","23,00",3,AUTOBUS
-341,AUTOBUS,1901,348,UAM Kampus,Os.Sobieskiego,-00:29,23:08,sroda,"-0,483","23,00",0,AUTOBUS
-342,AUTOBUS,1884,911,Makow Polnych,Biedrusko/Park,02:15,23:09,sroda,"2,250","23,00",2,AUTOBUS
-343,AUTOBUS,1858,911,Naramowice,Rondo Srodka,05:54,23:09,sroda,"5,900","23,00",5,AUTOBUS
-344,AUTOBUS,1013,169,Os.Wichrowe Wzgorze,Os.Kopernika,03:51,23:09,sroda,"3,850","23,00",3,AUTOBUS
-345,AUTOBUS,1844,218,Os.Pod Lipami,Os.Sobieskiego,02:25,23:10,sroda,"2,417","23,00",2,AUTOBUS
-346,TRAMWAJ,929,3,Zniwna,Franowo,-01:17,23:10,sroda,"-1,283","23,00",-1,MODERTRANS
-347,TRAMWAJ,539,14,Rondo Kaponiera,Gorczyn PKM,01:24,12:42,czwartek,"1,400","12,00",1,SOLARIS
-348,TRAMWAJ,534,15,Most Teatralny,Os.Sobieskiego,00:08,12:42,czwartek,"0,133","12,00",0,SOLARIS
-349,TRAMWAJ,915,16,Most Teatralny,Aleje Marcinkowskiego,-01:10,12:43,czwartek,"-1,167","12,00",-1,MODERTRANS
-350,TRAMWAJ,616,18,Most Teatralny,Franowo,00:11,12:43,czwartek,"0,183","12,00",0,MODERTRANS
-351,AUTOBUS,1859,159,Szylinga,Port Lotniczy Lawica,-00:57,12:43,czwartek,"-0,950","12,00",0,AUTOBUS
-352,TRAMWAJ,442,11,Rondo Kaponiera,Piatkowska,00:49,12:43,czwartek,"0,817","12,00",0,MODERTRANS
-353,AUTOBUS,1506,169,Baltyk,Os.Kopernika,-00:28,12:44,czwartek,"-0,467","12,00",0,AUTOBUS
-354,TRAMWAJ,551,12,Rondo Kaponiera,Os.Sobieskiego,-01:08,12:44,czwartek,"-1,133","12,00",-1,SOLARIS
-355,TRAMWAJ,630,8,Dworzec Zachodni,Milostowo,-01:16,12:45,czwartek,"-1,267","12,00",-1,MODERTRANS
-356,AUTOBUS,1261,164,Matejki,Kacza,-01:49,12:45,czwartek,"-1,817","12,00",-1,AUTOBUS
-357,AUTOBUS,1268,177,Rondo Kaponiera,Rondo Kaponiera,00:14,12:45,czwartek,"0,233","12,00",0,AUTOBUS
-358,AUTOBUS,1822,163,Polna Szpital,Gorczyn PKM,02:41,12:46,czwartek,"2,683","12,00",2,AUTOBUS
-359,AUTOBUS,1479,148,Szpitalna,Lawica,03:00,12:46,czwartek,"3,000","12,00",3,AUTOBUS
-360,TRAMWAJ,606,7,Bukowska,Polabska,00:05,12:46,czwartek,"0,083","12,00",0,MODERTRANS
-361,AUTOBUS,1814,191,Sw.Wawrzynca,Os.Kopernika,00:29,12:47,czwartek,"0,483","12,00",0,AUTOBUS
-362,AUTOBUS,1289,164,Nad Wierzbakiem,Puszkina,01:46,12:47,czwartek,"1,767","12,00",1,AUTOBUS
-363,TRAMWAJ,429,11,Poznanska,Unii Lubelskiej,-01:09,12:47,czwartek,"-1,150","12,00",-1,MODERTRANS
-364,AUTOBUS,1907,177,Urzad Marszalkowski,Os.Wichrowe Wzgorze,-00:44,12:47,czwartek,"-0,733","12,00",0,AUTOBUS
-365,AUTOBUS,1255,163,Libelta,Gorczyn PKM,00:16,12:48,czwartek,"0,267","12,00",0,AUTOBUS
-366,TRAMWAJ,522,13,Aleje Marcinkowskiego,Aleje Marcinkowskiego,00:56,12:48,czwartek,"0,933","12,00",0,SOLARIS
-367,AUTOBUS,1021,176,AWF,Os.Debina,00:59,12:48,czwartek,"0,983","12,00",0,AUTOBUS
-368,AUTOBUS,1880,190,Pl.Bernardynski,Bobrzanska,03:30,12:49,czwartek,"3,500","12,00",3,AUTOBUS
-369,AUTOBUS,1862,190,Wielka,Os.Sobieskiego,-00:30,12:49,czwartek,"-0,500","12,00",0,AUTOBUS
-370,AUTOBUS,1012,160,Solna,Stary Strzeszyn,00:45,12:49,czwartek,"0,750","12,00",0,AUTOBUS
-371,TRAMWAJ,615,7,Katedra,Polabska,00:45,12:49,czwartek,"0,750","12,00",0,MODERTRANS
-372,TRAMWAJ,430,8,Sw.Michala,Milostowo,00:13,12:50,czwartek,"0,217","12,00",0,MODERTRANS
-373,TRAMWAJ,418,8,Krancowa,Gorczyn PKM,02:15,12:50,czwartek,"2,250","12,00",2,MODERTRANS
-374,AUTOBUS,1682,157,Bozeny,Rondo Srodka,00:21,12:50,czwartek,"0,350","12,00",0,AUTOBUS
-375,AUTOBUS,1660,166,Antoninek PKM,Zieliniec,02:17,12:51,czwartek,"2,283","12,00",2,AUTOBUS
-376,AUTOBUS,1671,157,Browarna,Mogilenska,-00:52,12:51,czwartek,"-0,867","12,00",0,AUTOBUS
-377,AUTOBUS,1769,152,Piwna,Rondo Rataje,02:14,12:51,czwartek,"2,233","12,00",2,AUTOBUS
-378,AUTOBUS,1645,166,Franowo,Rondo Rataje,02:42,12:51,czwartek,"2,700","12,00",2,AUTOBUS
-379,AUTOBUS,1656,152,Szwajcarska Szpital,Darzybor,03:39,12:52,czwartek,"3,650","12,00",3,AUTOBUS
-380,AUTOBUS,1690,196,Os.Czecha,Rondo Rataje,01:44,12:52,czwartek,"1,733","12,00",1,AUTOBUS
-381,TRAMWAJ,454,5,Rondo Staroleka,Gorczyn PKM,00:11,12:58,czwartek,"0,183","12,00",0,MODERTRANS
-382,TRAMWAJ,546,12,Bystra,Staroleka PKM,03:31,12:59,czwartek,"3,517","12,00",3,SOLARIS
-383,TRAMWAJ,548,13,Rondo Staroleka,Staroleka PKM,-00:05,12:59,czwartek,"-0,083","12,00",0,SOLARIS
-384,AUTOBUS,1703,174,Os.Rzeczypospolitej,Os.Sobieskiego,02:00,12:59,czwartek,"2,000","12,00",2,AUTOBUS
-385,TRAMWAJ,443,12,Os.Piastowskie,Os.Sobieskiego,01:42,13:00,czwartek,"1,700","13,00",1,MODERTRANS
-386,AUTOBUS,1629,166,Pilsudskiego,Zieliniec,-00:20,13:06,czwartek,"-0,333","13,00",0,AUTOBUS
-387,AUTOBUS,1758,152,Inflancka,Darzybor,01:10,13:07,czwartek,"1,167","13,00",1,AUTOBUS
-388,AUTOBUS,1280,190,Os.Jagiellonskie,Os.Sobieskiego,-00:12,13:07,czwartek,"-0,200","13,00",0,AUTOBUS
-389,AUTOBUS,5053,502,Rondo Rataje,Rondo Rataje,-01:08,13:07,czwartek,"-1,133","13,00",-1,AUTOBUS
-390,AUTOBUS,1703,174,Serafitek,Os.Sobieskiego,03:19,13:07,czwartek,"3,317","13,00",3,AUTOBUS
-391,TRAMWAJ,629,6,AWF,Junikowo,-01:10,13:08,czwartek,"-1,167","13,00",-1,MODERTRANS
-392,TRAMWAJ,553,6,Baraniaka,Milostowo,01:19,13:08,czwartek,"1,317","13,00",1,SOLARIS
-393,AUTOBUS,1681,157,Baraniaka,Mogilenska,00:25,13:08,czwartek,"0,417","13,00",0,AUTOBUS
-394,AUTOBUS,1652,183,Rondo Srodka,Rondo Srodka,-01:25,13:09,czwartek,"-1,417","13,00",-1,AUTOBUS
-395,AUTOBUS,1636,185,Koronkarska,Rondo Srodka,03:03,13:09,czwartek,"3,050","13,00",3,AUTOBUS
-396,AUTOBUS,1626,178,Chemiczna,Szarych Szeregow,00:15,13:10,czwartek,"0,250","13,00",0,AUTOBUS
-397,TRAMWAJ,934,10,Serbska,Blazeja,00:44,13:10,czwartek,"0,733","13,00",0,MODERTRANS
-398,AUTOBUS,1647,169,Os.Wichrowe Wzgorze,Os.Kopernika,02:46,13:10,czwartek,"2,767","13,00",2,AUTOBUS
-399,TRAMWAJ,932,3,Os.Lokietka,Blazeja,05:43,13:10,czwartek,"5,717","13,00",5,MODERTRANS
-400,AUTOBUS,1480,191,Umultowska,Os.Kopernika,-01:24,13:11,czwartek,"-1,400","13,00",-1,AUTOBUS
-401,AUTOBUS,1458,146,Kurpinskiego,Stary Strzeszyn,-00:46,13:11,czwartek,"-0,767","13,00",0,AUTOBUS
-402,AUTOBUS,1683,185,Wojciechowskiego,Os.Sobieskiego,-00:15,13:11,czwartek,"-0,250","13,00",0,AUTOBUS
-403,AUTOBUS,1202,193,Suszki,Gorczyn PKM,01:14,13:12,czwartek,"1,233","13,00",1,AUTOBUS
-404,AUTOBUS,1008,169,Os.Chrobrego,Os.Kopernika,02:05,13:12,czwartek,"2,083","13,00",2,AUTOBUS
-405,AUTOBUS,1501,169,Wieza RTV,Os.Sobieskiego,00:21,13:12,czwartek,"0,350","13,00",0,AUTOBUS
-406,AUTOBUS,1642,178,Strozynskiego,Szarych Szeregow,02:37,13:13,czwartek,"2,617","13,00",2,AUTOBUS
-407,AUTOBUS,1648,185,Wieza RTV,Rondo Srodka,01:02,13:13,czwartek,"1,033","13,00",1,AUTOBUS
-408,AUTOBUS,1276,190,Wiedenska,Bobrzanska,00:29,13:13,czwartek,"0,483","13,00",0,AUTOBUS
-409,AUTOBUS,1012,160,Kosowska,Stary Strzeszyn,02:35,13:14,czwartek,"2,583","13,00",2,AUTOBUS
-410,AUTOBUS,1453,146,Instytut Technologiczno-Przyrodniczy,Boranta,00:17,13:14,czwartek,"0,283","13,00",0,AUTOBUS
-411,AUTOBUS,1486,156,Lupowska,Ogrody,01:42,13:15,czwartek,"1,700","13,00",1,AUTOBUS
-412,AUTOBUS,1687,183,Lutycka I,Szarych Szeregow,-00:50,13:15,czwartek,"-0,833","13,00",0,AUTOBUS
-413,TRAMWAJ,442,11,Uniwersytet Przyrodniczy,Unii Lubelskiej,-01:15,13:16,czwartek,"-1,250","13,00",-1,MODERTRANS
-414,AUTOBUS,1257,164,Golecinska,Puszkina,06:21,13:16,czwartek,"6,350","13,00",6,AUTOBUS
-415,AUTOBUS,1289,164,Wojska Polskiego,Kacza,00:10,13:16,czwartek,"0,167","13,00",0,AUTOBUS
-416,AUTOBUS,1819,182,Wojska Polskiego,Os.Wichrowe Wzgorze,01:28,13:16,czwartek,"1,467","13,00",1,AUTOBUS
-417,AUTOBUS,1846,182,Uniwersytet Przyrodniczy,Gorczyn PKM,00:06,13:17,czwartek,"0,100","13,00",0,AUTOBUS
-418,AUTOBUS,1407,124,Stary Strzeszyn,Safony,00:53,13:17,czwartek,"0,883","13,00",0,AUTOBUS
-419,AUTOBUS,1459,170,Literacka,Puszkina,01:39,13:17,czwartek,"1,650","13,00",1,AUTOBUS
-420,AUTOBUS,1634,169,Sciegiennego,Os.Kopernika,00:23,13:18,czwartek,"0,383","13,00",0,AUTOBUS
-421,TRAMWAJ,418,8,Sielska,Gorczyn PKM,01:46,13:18,czwartek,"1,767","13,00",1,MODERTRANS
-422,TRAMWAJ,433,11,Kolejowa,Unii Lubelskiej,00:37,13:18,czwartek,"0,617","13,00",0,MODERTRANS
-423,AUTOBUS,1253,164,Chociszewskiego,Puszkina,04:06,13:18,czwartek,"4,100","13,00",4,AUTOBUS
-424,AUTOBUS,1031,179,Palacza,Kacza,02:34,13:19,czwartek,"2,567","13,00",2,AUTOBUS
-425,AUTOBUS,1634,169,Sciegiennego,Os.Kopernika,00:53,13:19,czwartek,"0,883","13,00",0,AUTOBUS
-426,TRAMWAJ,413,1,Wegorka,Junikowo,02:42,13:20,czwartek,"2,700","13,00",2,TATRA
-427,TRAMWAJ,88,1,Budziszynska,Junikowo,05:34,13:20,czwartek,"5,567","13,00",5,MODERTRANS
-428,TRAMWAJ,559,6,Cmentarna,Junikowo,01:23,13:20,czwartek,"1,383","13,00",1,SOLARIS
-429,AUTOBUS,1262,177,Malwowa I,Rondo Kaponiera,01:27,13:21,czwartek,"1,450","13,00",1,AUTOBUS
-430,AUTOBUS,1268,177,Malwowa I,Junikowo,00:14,13:21,czwartek,"0,233","13,00",0,AUTOBUS
-431,AUTOBUS,1863,159,Kopciuszka,Port Lotniczy Lawica,03:03,13:21,czwartek,"3,050","13,00",3,AUTOBUS
-432,TRAMWAJ,162,7,Zeromskiego,Ogrody,02:25,13:21,czwartek,"2,417","13,00",2,KONSTAL
-433,TRAMWAJ,112,17,Zeromskiego,Ogrody,-00:37,13:22,czwartek,"-0,617","13,00",0,KONSTAL
-434,TRAMWAJ,336,2,Polna,Ogrody,03:59,13:22,czwartek,"3,983","13,00",3,MODERTRANS
-435,TRAMWAJ,613,18,Rynek Jezycki,Franowo,-00:34,13:22,czwartek,"-0,567","13,00",0,MODERTRANS
-436,TRAMWAJ,916,16,Rondo Kaponiera,Aleje Marcinkowskiego,00:37,13:23,czwartek,"0,617","13,00",0,MODERTRANS
-437,TRAMWAJ,535,14,Most Teatralny,Gorczyn PKM,-00:01,13:23,czwartek,"-0,017","13,00",0,SOLARIS
-438,TRAMWAJ,442,11,Most Teatralny,Unii Lubelskiej,-00:07,13:23,czwartek,"-0,117","13,00",0,MODERTRANS
-439,AUTOBUS,1014,160,Nowowiejskiego,Stary Strzeszyn,01:30,13:24,czwartek,"1,500","13,00",1,AUTOBUS
-440,AUTOBUS,1647,169,Urzad Marszalkowski,Os.Kopernika,02:16,13:24,czwartek,"2,267","13,00",2,AUTOBUS
-441,AUTOBUS,1286,163,Male Garbary,Garbary PKM,01:48,13:24,czwartek,"1,800","13,00",1,AUTOBUS
-442,AUTOBUS,1007,176,Grochowe Laki,Os.Debina,00:39,13:24,czwartek,"0,650","13,00",0,AUTOBUS
-443,AUTOBUS,1280,190,Winogrady,Os.Sobieskiego,-01:00,13:25,czwartek,"-1,000","13,00",-1,AUTOBUS
-444,AUTOBUS,1873,167,Wilczak,Radojewo,-01:41,13:25,czwartek,"-1,683","13,00",-1,AUTOBUS
-445,AUTOBUS,1703,174,Wojtowska,Os.Sobieskiego,02:47,13:25,czwartek,"2,783","13,00",2,AUTOBUS
-446,TRAMWAJ,431,7,Polabska,Polabska,02:34,13:26,czwartek,"2,567","13,00",2,MODERTRANS
-447,AUTOBUS,1633,183,Polabska,Szarych Szeregow,-00:32,13:26,czwartek,"-0,533","13,00",0,AUTOBUS
-448,TRAMWAJ,929,10,Naramowice,Blazeja,-00:08,13:26,czwartek,"-0,133","13,00",0,MODERTRANS
-449,AUTOBUS,1483,146,Bronisza,Stary Strzeszyn,00:26,13:27,czwartek,"0,433","13,00",0,AUTOBUS
-450,AUTOBUS,1765,188,UAM Os.Rozany Potok,Os.Sobieskiego,11:53,13:27,czwartek,"11,883","13,00",11,AUTOBUS
-451,AUTOBUS,1867,198,UAM Wydzial Geografii,UAM Os.Rozany Potok,-01:30,13:27,czwartek,"-1,500","13,00",-1,AUTOBUS
-452,AUTOBUS,1712,174,Os.Batorego,Unii Lubelskiej,-00:32,13:28,czwartek,"-0,533","13,00",0,AUTOBUS
-453,TRAMWAJ,530,14,Kurpinskiego,Os.Sobieskiego,02:59,13:28,czwartek,"2,983","13,00",2,SOLARIS
-454,TRAMWAJ,917,16,Szymanowskiego,Os.Sobieskiego,01:40,13:29,czwartek,"1,667","13,00",1,MODERTRANS
-455,AUTOBUS,1638,185,Kurpinskiego,Os.Sobieskiego,-01:34,13:29,czwartek,"-1,567","13,00",-1,AUTOBUS
-456,TRAMWAJ,116,12,Lechicka Poznan Plaza,Staroleka PKM,00:52,13:31,czwartek,"0,867","13,00",0,KONSTAL
-457,AUTOBUS,1873,167,Naramowice,Radojewo,-00:36,13:32,czwartek,"-0,600","13,00",0,AUTOBUS
-458,TRAMWAJ,544,6,Kornicka,Junikowo,01:35,13:32,czwartek,"1,583","13,00",1,SOLARIS
-459,TRAMWAJ,619,7,Baraniaka,Polabska,02:20,13:32,czwartek,"2,333","13,00",2,MODERTRANS
-460,TRAMWAJ,128,8,Rondo Srodka,Milostowo,04:44,13:32,czwartek,"4,733","13,00",4,KONSTAL
-461,TRAMWAJ,630,8,Rondo Srodka,Gorczyn PKM,00:31,13:33,czwartek,"0,517","13,00",0,MODERTRANS
-462,AUTOBUS,1652,183,Zawady,Szarych Szeregow,-00:20,13:33,czwartek,"-0,333","13,00",0,AUTOBUS
-463,TRAMWAJ,550,13,Rondo Rataje,Aleje Marcinkowskiego,01:04,13:33,czwartek,"1,067","13,00",1,SOLARIS
-464,AUTOBUS,1713,174,Rondo Rataje,Os.Sobieskiego,01:22,13:33,czwartek,"1,367","13,00",1,AUTOBUS
-465,AUTOBUS,1680,184,Rondo Rataje,Rondo Rataje,04:44,13:34,czwartek,"4,733","13,00",4,AUTOBUS
-466,TRAMWAJ,516,13,Rondo Rataje,Aleje Marcinkowskiego,-00:08,13:34,czwartek,"-0,133","13,00",0,SOLARIS
-467,TRAMWAJ,206,18,Os.Piastowskie,Franowo,03:13,13:34,czwartek,"3,217","13,00",3,KONSTAL
-468,TRAMWAJ,541,12,Os.Piastowskie,Os.Sobieskiego,00:09,13:35,czwartek,"0,150","13,00",0,SOLARIS
-469,TRAMWAJ,415,5,Rondo Staroleka,Gorczyn PKM,00:41,13:35,czwartek,"0,683","13,00",0,MODERTRANS
-470,TRAMWAJ,614,18,Rondo Zegrze,Ogrody,00:19,13:35,czwartek,"0,317","13,00",0,MODERTRANS
-471,AUTOBUS,1656,152,Os.Stare Zegrze,Rondo Rataje,01:57,13:36,czwartek,"1,950","13,00",1,AUTOBUS
-472,TRAMWAJ,402,1,Zegrze II ,Junikowo,00:25,13:37,czwartek,"0,417","13,00",0,TATRA
-473,AUTOBUS,1660,166,Inflancka,Rondo Rataje,04:12,13:37,czwartek,"4,200","13,00",4,AUTOBUS
-474,AUTOBUS,1689,181,Orle Gniazdo,Krzywoustego,02:34,13:37,czwartek,"2,567","13,00",2,AUTOBUS
-475,AUTOBUS,1631,154,Os.Czecha,Splawie,04:23,13:37,czwartek,"4,383","13,00",4,AUTOBUS
-476,TRAMWAJ,616,18,Szwedzka,Ogrody,00:42,13:37,czwartek,"0,700","13,00",0,MODERTRANS
-477,AUTOBUS,1685,181,Szwajcarska Szpital,Rondo Rataje,02:09,13:38,czwartek,"2,150","13,00",2,AUTOBUS
-478,AUTOBUS,1857,162,Strzyzowska,Rondo Rataje,08:03,13:38,czwartek,"8,050","13,00",8,AUTOBUS
-479,AUTOBUS,1401,189,Szydlowiecka,Staroleka PKM,00:52,13:38,czwartek,"0,867","13,00",0,AUTOBUS
-480,TRAMWAJ,429,11,Rondo Staroleka,Piatkowska,-00:03,13:39,czwartek,"-0,050","13,00",0,MODERTRANS
-481,TRAMWAJ,522,13,Os.Rzeczypospolitej,Aleje Marcinkowskiego,02:11,13:39,czwartek,"2,183","13,00",2,SOLARIS
-482,TRAMWAJ,605,7,Os.Piastowskie,Polabska,02:46,13:39,czwartek,"2,767","13,00",2,MODERTRANS
-483,TRAMWAJ,415,5,Wioslarska,Gorczyn PKM,01:23,13:39,czwartek,"1,383","13,00",1,MODERTRANS
-484,AUTOBUS,1645,166,Os.Oswiecenia,Zieliniec,02:11,13:40,czwartek,"2,183","13,00",2,AUTOBUS
-485,AUTOBUS,1656,152,Pilsudskiego,Rondo Rataje,-00:08,13:40,czwartek,"-0,133","13,00",0,AUTOBUS
-486,AUTOBUS,1769,152,Os.Stare Zegrze,Darzybor,04:14,13:40,czwartek,"4,233","13,00",4,AUTOBUS
-487,AUTOBUS,1710,174,Os.Stare Zegrze,Unii Lubelskiej,-00:57,13:41,czwartek,"-0,950","13,00",0,AUTOBUS
-488,TRAMWAJ,505,9,Debiec PKM,Debiec PKM,01:29,13:41,czwartek,"1,483","13,00",1,SIEMENS
-489,AUTOBUS,1909,171,IPN,Os.Wichrowe Wzgorze,-00:41,13:42,czwartek,"-0,683","13,00",0,AUTOBUS
-490,AUTOBUS,1007,176,Piastowska,Os.Debina,-00:18,13:42,czwartek,"-0,300","13,00",0,AUTOBUS
-491,TRAMWAJ,98,2,Wspolna,Debiec PKM,-02:07,13:42,czwartek,"-2,117","13,00",-2,KONSTAL
-492,TRAMWAJ,442,11,Traugutta,Unii Lubelskiej,00:58,13:42,czwartek,"0,967","13,00",0,MODERTRANS
-493,TRAMWAJ,519,14,Park Wilsona,Os.Sobieskiego,01:28,13:43,czwartek,"1,467","13,00",1,SOLARIS
-494,AUTOBUS,1289,164,Arciszewskiego,Kacza,01:18,13:43,czwartek,"1,300","13,00",1,AUTOBUS
-495,AUTOBUS,1258,182,Arciszewskiego,Os.Wichrowe Wzgorze,01:59,13:43,czwartek,"1,983","13,00",1,AUTOBUS
-496,AUTOBUS,1846,182,Kordeckiego,Gorczyn PKM,02:06,13:43,czwartek,"2,100","13,00",2,AUTOBUS
-497,AUTOBUS,1634,169,Sciegiennego,Os.Sobieskiego,-00:28,13:44,czwartek,"-0,467","13,00",0,AUTOBUS
-498,AUTOBUS,7034,705,Ostatnia,Konarzewo/Petla,-00:19,13:44,czwartek,"-0,317","13,00",0,AUTOBUS
-499,AUTOBUS,1019,149,Kepinska,Gorczyn PKM,-00:15,13:44,czwartek,"-0,250","13,00",0,AUTOBUS
-500,AUTOBUS,6057,611,Bedzinska,Sycowska Centrum Handlowe,01:11,13:44,czwartek,"1,183","13,00",1,AUTOBUS
-501,AUTOBUS,1659,154,Brnenska,Rondo Rataje,00:55,16:39,czwartek,"0,917","16,00",0,AUTOBUS
-502,AUTOBUS,1260,190,Brnenska,Os.Sobieskiego,02:35,16:39,czwartek,"2,583","16,00",2,AUTOBUS
-503,AUTOBUS,1632,181,Wiatraczna,Krzywoustego,01:37,16:40,czwartek,"1,617","16,00",1,AUTOBUS
-504,AUTOBUS,1857,196,Wiatraczna,Rondo Rataje,09:53,16:40,czwartek,"9,883","16,00",9,AUTOBUS
-505,AUTOBUS,1709,174,Os.Armii Krajowej,Os.Sobieskiego,01:42,16:40,czwartek,"1,700","16,00",1,AUTOBUS
-506,AUTOBUS,1686,184,Os.Orla Bialego II,Nowe Zoo,-00:01,16:41,czwartek,"-0,017","16,00",0,AUTOBUS
-507,AUTOBUS,1672,184,Os.Stare Zegrze,Rondo Rataje,18:11,16:41,czwartek,"18,183","16,00",18,AUTOBUS
-508,TRAMWAJ,532,13,Rondo Staroleka,Staroleka PKM,03:10,16:41,czwartek,"3,167","16,00",3,SOLARIS
-509,TRAMWAJ,410,5,Os.Rzeczypospolitej,Unii Lubelskiej,00:11,16:41,czwartek,"0,183","16,00",0,TATRA
-510,TRAMWAJ,182,18,Rondo Rataje,Franowo,02:34,16:42,czwartek,"2,567","16,00",2,MODERTRANS
-511,TRAMWAJ,541,12,Serafitek,Os.Sobieskiego,02:16,16:42,czwartek,"2,267","16,00",2,SOLARIS
-512,AUTOBUS,1872,190,Serafitek,Bobrzanska,03:01,16:42,czwartek,"3,017","16,00",3,AUTOBUS
-513,AUTOBUS,1704,174,Most sw.Rocha,Os.Sobieskiego,02:39,16:42,czwartek,"2,650","16,00",2,AUTOBUS
-514,TRAMWAJ,550,13,Pl.Bernardynski,Aleje Marcinkowskiego,00:30,16:43,czwartek,"0,500","16,00",0,SOLARIS
-515,AUTOBUS,1007,176,Grobla,Os.Debina,00:24,16:43,czwartek,"0,400","16,00",0,AUTOBUS
-516,TRAMWAJ,627,7,Pl.Wielkopolski,Polabska,08:00,16:43,czwartek,"8,000","16,00",8,MODERTRANS
-517,TRAMWAJ,920,16,Ratajczaka,Os.Sobieskiego,00:01,16:43,czwartek,"0,017","16,00",0,MODERTRANS
-518,TRAMWAJ,449,17,Pl.Ratajskiego,Zawady,-00:20,16:44,czwartek,"-0,333","16,00",0,MODERTRANS
-519,TRAMWAJ,336,17,Most Teatralny,Ogrody,-00:13,16:44,czwartek,"-0,217","16,00",0,MODERTRANS
-520,TRAMWAJ,916,16,Rondo Kaponiera,Aleje Marcinkowskiego,00:57,16:44,czwartek,"0,950","16,00",0,MODERTRANS
-521,AUTOBUS,1820,163,Rondo Kaponiera,Garbary PKM,04:30,16:44,czwartek,"4,500","16,00",4,AUTOBUS
-522,TRAMWAJ,931,3,Matejki,Budziszynska,00:40,16:45,czwartek,"0,667","16,00",0,MODERTRANS
-523,TRAMWAJ,399,12,Poznan Glowny,Staroleka PKM,01:16,16:45,czwartek,"1,267","16,00",1,TATRA
-524,TRAMWAJ,519,14,Park Wilsona,Gorczyn PKM,-00:58,16:45,czwartek,"-0,967","16,00",0,SOLARIS
-525,TRAMWAJ,553,6,Baltyk,Milostowo,01:12,16:45,czwartek,"1,200","16,00",1,SOLARIS
-526,AUTOBUS,1279,164,Matejki,Kacza,10:36,16:46,czwartek,"10,600","16,00",10,AUTOBUS
-527,TRAMWAJ,455,5,Park Wilsona,Unii Lubelskiej,01:52,16:46,czwartek,"1,867","16,00",1,MODERTRANS
-528,TRAMWAJ,513,9,Traugutta,Debiec PKM,01:59,16:46,czwartek,"1,983","16,00",1,SIEMENS
-529,TRAMWAJ,88,1,Traugutta,Junikowo,00:14,16:46,czwartek,"0,233","16,00",0,MODERTRANS
-530,TRAMWAJ,457,2,Pamiatkowa,Ogrody,-00:32,16:47,czwartek,"-0,533","16,00",0,MODERTRANS
-531,TRAMWAJ,926,10,Wierzbiecice,Blazeja,-00:20,16:47,czwartek,"-0,333","16,00",0,MODERTRANS
-532,AUTOBUS,1913,171,Niedzialkowskiego,Os.Debina,03:59,16:47,czwartek,"3,983","16,00",3,AUTOBUS
-533,TRAMWAJ,548,13,Most sw.Rocha,Staroleka PKM,-00:36,16:48,czwartek,"-0,600","16,00",0,SOLARIS
-534,AUTOBUS,1893,167,Male Garbary,Radojewo,03:01,16:48,czwartek,"3,017","16,00",3,AUTOBUS
-535,TRAMWAJ,218,6,Rondo Srodka,Junikowo,00:59,16:48,czwartek,"0,983","16,00",0,MODERTRANS
-536,TRAMWAJ,549,6,Rondo Srodka,Milostowo,05:42,16:48,czwartek,"5,700","16,00",5,SOLARIS
-537,TRAMWAJ,630,8,Termalna,Gorczyn PKM,-00:06,16:49,czwartek,"-0,100","16,00",0,MODERTRANS
-538,AUTOBUS,1628,184,Termalna,Rondo Rataje,03:00,16:49,czwartek,"3,000","16,00",3,AUTOBUS
-539,AUTOBUS,1758,152,Kobylepole,Darzybor,04:07,16:49,czwartek,"4,117","16,00",4,AUTOBUS
-540,AUTOBUS,1876,425,Kobylepole,Franowo,01:40,16:50,czwartek,"1,667","16,00",1,AUTOBUS
-541,TRAMWAJ,603,1,Szwedzka,Junikowo,-00:19,16:50,czwartek,"-0,317","16,00",0,MODERTRANS
-542,AUTOBUS,1660,166,Kurlandzka,Rondo Rataje,04:00,16:50,czwartek,"4,000","16,00",4,AUTOBUS
-543,AUTOBUS,1637,162,Os.Tysiaclecia,Rondo Rataje,04:13,16:50,czwartek,"4,217","16,00",4,AUTOBUS
-544,AUTOBUS,1661,154,Os.Czecha,Rondo Rataje,-02:13,16:51,czwartek,"-2,217","16,00",-2,AUTOBUS
-545,AUTOBUS,5024,511,Strzyzowska,Rondo Rataje,02:45,16:51,czwartek,"2,750","16,00",2,AUTOBUS
-546,AUTOBUS,4315,431,Rodawska,Kleszczewo/Park,00:43,16:51,czwartek,"0,717","16,00",0,AUTOBUS
-547,AUTOBUS,1887,196,Splawska,Rondo Rataje,06:28,16:51,czwartek,"6,467","16,00",6,AUTOBUS
-548,AUTOBUS,5097,501,Os.Jagiellonskie,Rondo Rataje,-01:20,16:52,czwartek,"-1,333","16,00",-1,AUTOBUS
-549,TRAMWAJ,525,13,Staroleka Mala,Aleje Marcinkowskiego,-00:04,16:52,czwartek,"-0,067","16,00",0,SOLARIS
-550,TRAMWAJ,502,14,HCP,Gorczyn PKM,00:07,16:52,czwartek,"0,117","16,00",0,SIEMENS
-551,AUTOBUS,1010,149,Debiec PKM,Debiec PKM,01:34,16:53,czwartek,"1,567","16,00",1,AUTOBUS
-552,AUTOBUS,1001,176,Lozowa,Garbary PKM,-00:21,16:53,czwartek,"-0,350","16,00",0,AUTOBUS
-553,AUTOBUS,1024,176,Os.Debina,Os.Debina,02:49,16:53,czwartek,"2,817","16,00",2,AUTOBUS
-554,AUTOBUS,1009,175,Korfantego,Gorczyn PKM,01:17,16:53,czwartek,"1,283","16,00",1,AUTOBUS
-555,AUTOBUS,1003,175,Swierczewo,Debiec PKM,00:53,16:54,czwartek,"0,883","16,00",0,AUTOBUS
-556,AUTOBUS,6054,616,Ostatnia,Gorczyn PKM,05:15,16:54,czwartek,"5,250","16,00",5,AUTOBUS
-557,AUTOBUS,1127,179,Os.Kopernika,Debiec PKM,06:58,16:54,czwartek,"6,967","16,00",6,AUTOBUS
-558,AUTOBUS,1202,193,Trebacka,Os.Sobieskiego,09:33,16:55,czwartek,"9,550","16,00",9,AUTOBUS
-559,AUTOBUS,1285,193,Stadion Miejski,Os.Sobieskiego,19:44,16:55,czwartek,"19,733","16,00",19,AUTOBUS
-560,AUTOBUS,1029,145,Jugoslowianska,Kacza,02:07,16:55,czwartek,"2,117","16,00",2,AUTOBUS
-561,TRAMWAJ,450,1,Wegorka,Junikowo,04:03,16:55,czwartek,"4,050","16,00",4,MODERTRANS
-562,AUTOBUS,1277,163,Marszalkowska,Garbary PKM,01:36,16:56,czwartek,"1,600","16,00",1,AUTOBUS
-563,AUTOBUS,1480,191,Swoboda,Os.Sobieskiego,-00:15,16:56,czwartek,"-0,250","16,00",0,AUTOBUS
-564,AUTOBUS,1269,177,Jasna,Junikowo,00:58,16:56,czwartek,"0,967","16,00",0,AUTOBUS
-565,AUTOBUS,1203,193,Os.Kopernika,Gorczyn PKM,06:16,16:57,czwartek,"6,267","16,00",6,AUTOBUS
-566,AUTOBUS,8048,812,Buzanska,Grzebienisko/Petla,-00:43,16:57,czwartek,"-0,717","16,00",0,AUTOBUS
-567,AUTOBUS,1475,186,Polska,Kiekrz,00:48,16:57,czwartek,"0,800","16,00",0,AUTOBUS
-568,AUTOBUS,1688,160,Lubienska,Garbary PKM,12:21,16:58,czwartek,"12,350","16,00",12,AUTOBUS
-569,AUTOBUS,1626,178,Legowskiego,Szarych Szeregow,03:07,16:58,czwartek,"3,117","16,00",3,AUTOBUS
-570,TRAMWAJ,932,3,Ostroroga,Budziszynska,00:06,16:59,czwartek,"0,100","16,00",0,MODERTRANS
-571,AUTOBUS,1027,145,Rondo Nowaka-Jezioranskiego,Kacza,00:42,16:59,czwartek,"0,700","16,00",0,AUTOBUS
-572,AUTOBUS,1492,121,Piekna,Ogrody,00:29,17:00,czwartek,"0,483","17,00",0,AUTOBUS
-573,TRAMWAJ,98,2,Zeromskiego,Ogrody,02:41,17:00,czwartek,"2,683","17,00",2,KONSTAL
-574,TRAMWAJ,915,16,Most Teatralny,Aleje Marcinkowskiego,-01:04,17:00,czwartek,"-1,067","17,00",-1,MODERTRANS
-575,TRAMWAJ,126,14,Most Teatralny,Gorczyn PKM,00:34,17:00,czwartek,"0,567","17,00",0,KONSTAL
-576,TRAMWAJ,920,16,Lechicka Poznan Plaza,Os.Sobieskiego,03:20,17:01,czwartek,"3,333","17,00",3,MODERTRANS
-577,AUTOBUS,1115,170,Aleje Solidarnosci,Puszkina,00:31,17:01,czwartek,"0,517","17,00",0,AUTOBUS
-578,TRAMWAJ,546,15,Slowianska,Budziszynska,00:23,17:01,czwartek,"0,383","17,00",0,SOLARIS
-579,AUTOBUS,1908,190,Os.Chrobrego,Os.Sobieskiego,09:39,17:02,czwartek,"9,650","17,00",9,AUTOBUS
-580,AUTOBUS,1458,146,Stoinskiego,Stary Strzeszyn,-01:43,17:02,czwartek,"-1,717","17,00",-1,AUTOBUS
-581,AUTOBUS,1713,174,Stoinskiego,Unii Lubelskiej,00:07,17:02,czwartek,"0,117","17,00",0,AUTOBUS
-582,AUTOBUS,1015,169,Naramowice,Os.Sobieskiego,01:52,17:03,czwartek,"1,867","17,00",1,AUTOBUS
-583,AUTOBUS,1630,178,Chemiczna,Rondo Srodka,02:07,17:03,czwartek,"2,117","17,00",2,AUTOBUS
-584,TRAMWAJ,544,6,Lomzynska,Milostowo,05:06,17:03,czwartek,"5,100","17,00",5,SOLARIS
-585,AUTOBUS,1686,184,Chartowo,Nowe Zoo,00:56,17:04,czwartek,"0,933","17,00",0,AUTOBUS
-586,TRAMWAJ,617,18,Rondo Zegrze,Ogrody,-00:28,17:04,czwartek,"-0,467","17,00",0,MODERTRANS
-587,TRAMWAJ,144,18,Rondo Rataje,Ogrody,00:13,17:04,czwartek,"0,217","17,00",0,KONSTAL
-588,AUTOBUS,1650,152,Rondo Rataje,Rondo Rataje,-00:02,17:05,czwartek,"-0,033","17,00",0,AUTOBUS
-589,AUTOBUS,1710,174,Rondo Rataje,Os.Sobieskiego,02:26,17:05,czwartek,"2,433","17,00",2,AUTOBUS
-590,TRAMWAJ,525,13,Rondo Rataje,Aleje Marcinkowskiego,03:13,17:05,czwartek,"3,217","17,00",3,SOLARIS
-591,TRAMWAJ,615,7,Rondo Rataje,Polabska,01:57,17:05,czwartek,"1,950","17,00",1,MODERTRANS
-592,AUTOBUS,1857,196,Rondo Rataje,Rondo Rataje,01:47,17:06,czwartek,"1,783","17,00",1,AUTOBUS
-593,TRAMWAJ,629,6,Rondo Rataje,Junikowo,01:27,17:06,czwartek,"1,450","17,00",1,MODERTRANS
-594,TRAMWAJ,522,13,Rondo Rataje,Staroleka PKM,-02:05,17:06,czwartek,"-2,083","17,00",-2,SOLARIS
-595,TRAMWAJ,601,6,Rondo Rataje,Milostowo,-00:52,17:06,czwartek,"-0,867","17,00",0,MODERTRANS
-596,TRAMWAJ,534,12,Rondo Rataje,Os.Sobieskiego,-00:35,17:07,czwartek,"-0,583","17,00",0,SOLARIS
-597,TRAMWAJ,504,13,Rondo Rataje,Aleje Marcinkowskiego,01:39,17:07,czwartek,"1,650","17,00",1,SIEMENS
-598,TRAMWAJ,518,9,Aleje Marcinkowskiego,Aleje Marcinkowskiego,-00:16,17:07,czwartek,"-0,267","17,00",0,SOLARIS
-599,TRAMWAJ,915,16,Aleje Marcinkowskiego,Aleje Marcinkowskiego,-00:34,17:08,czwartek,"-0,567","17,00",0,MODERTRANS
-600,AUTOBUS,1506,169,Urzad Wojewodzki,Os.Sobieskiego,-01:12,17:08,czwartek,"-1,200","17,00",-1,AUTOBUS
-601,AUTOBUS,1763,184,Rondo Srodka,Rondo Rataje,00:45,07:30,piatek,"0,750","7,00",0,AUTOBUS
-602,TRAMWAJ,425,17,Rondo Srodka,Zawady,-00:19,07:30,piatek,"-0,317","7,00",0,MODERTRANS
-603,TRAMWAJ,608,6,Krancowa,Milostowo,03:18,07:31,piatek,"3,300","7,00",3,MODERTRANS
-604,TRAMWAJ,915,6,Most Teatralny,Aleje Marcinkowskiego,-00:45,07:31,piatek,"-0,750","7,00",0,MODERTRANS
-605,TRAMWAJ,424,11,Most Teatralny,Unii Lubelskiej,00:03,07:32,piatek,"0,050","7,00",0,MODERTRANS
-606,TRAMWAJ,456,17,Fredry,Zawady,-00:19,07:32,piatek,"-0,317","7,00",0,MODERTRANS
-607,AUTOBUS,1874,171,Urzad Wojewodzki,Os.Wichrowe Wzgorze,00:54,07:32,piatek,"0,900","7,00",0,AUTOBUS
-608,TRAMWAJ,604,6,Poznan Glowny,Milostowo,05:29,07:33,piatek,"5,483","7,00",5,MODERTRANS
-609,TRAMWAJ,134,5,Dworzec Zachodni,Gorczyn PKM,02:07,07:33,piatek,"2,117","7,00",2,KONSTAL
-610,TRAMWAJ,527,6,Most Dworcowy,Junikowo,00:05,07:33,piatek,"0,083","7,00",0,SOLARIS
-611,TRAMWAJ,630,8,Most Dworcowy,Milostowo,00:58,07:33,piatek,"0,967","7,00",0,MODERTRANS
-612,TRAMWAJ,916,10,Rondo Kaponiera,Blazeja,-00:06,07:34,piatek,"-0,100","7,00",0,MODERTRANS
-613,AUTOBUS,1871,159,Szylinga,Port Lotniczy Lawica,00:54,07:34,piatek,"0,900","7,00",0,AUTOBUS
-614,TRAMWAJ,558,9,Pl.Wiosny Ludow,Aleje Marcinkowskiego,00:14,07:34,piatek,"0,233","7,00",0,SOLARIS
-615,TRAMWAJ,530,12,Polwiejska,Os.Sobieskiego,-00:16,07:34,piatek,"-0,267","7,00",0,SOLARIS
-616,TRAMWAJ,402,5,Serafitek,Gorczyn PKM,02:06,07:35,piatek,"2,100","7,00",2,TATRA
-617,TRAMWAJ,555,13,Wioslarska,Staroleka PKM,00:02,07:35,piatek,"0,033","7,00",0,SOLARIS
-618,AUTOBUS,4317,431,Rondo Rataje,Rondo Rataje,13:26,07:35,piatek,"13,433","7,00",13,AUTOBUS
-619,AUTOBUS,1629,166,Rondo Rataje,Zieliniec,00:43,07:36,piatek,"0,717","7,00",0,AUTOBUS
-620,TRAMWAJ,142,18,Rondo Rataje,Ogrody,02:37,07:36,piatek,"2,617","7,00",2,KONSTAL
-621,TRAMWAJ,551,13,Rondo Rataje,Staroleka PKM,00:09,07:36,piatek,"0,150","7,00",0,SOLARIS
-622,AUTOBUS,1872,190,Os.Jagiellonskie,Os.Sobieskiego,01:32,07:37,piatek,"1,533","7,00",1,AUTOBUS
-623,AUTOBUS,1690,162,Os.Oswiecenia,Rondo Rataje,07:03,07:37,piatek,"7,050","7,00",7,AUTOBUS
-624,AUTOBUS,1645,166,Inflancka,Rondo Rataje,05:01,07:37,piatek,"5,017","7,00",5,AUTOBUS
-625,AUTOBUS,1689,181,Wiatraczna,Krzywoustego,-00:30,07:37,piatek,"-0,500","7,00",0,AUTOBUS
-626,AUTOBUS,1659,154,Wiatraczna,Rondo Rataje,01:31,07:38,piatek,"1,517","7,00",1,AUTOBUS
-627,AUTOBUS,1857,196,Torowa Wiadukt,Rondo Rataje,02:07,07:38,piatek,"2,117","7,00",2,AUTOBUS
-628,TRAMWAJ,310,1,Zegrze III,Franowo,02:13,07:38,piatek,"2,217","7,00",2,KONSTAL
-629,TRAMWAJ,224,7,Rondo Staroleka,Polabska,02:14,07:39,piatek,"2,233","7,00",2,MODERTRANS
-630,TRAMWAJ,455,18,Rondo Staroleka,Franowo,02:59,07:39,piatek,"2,983","7,00",2,MODERTRANS
-631,TRAMWAJ,312,12,Rondo Staroleka,Staroleka PKM,00:17,07:39,piatek,"0,283","7,00",0,KONSTAL
-632,TRAMWAJ,603,6,Poznan Glowny,Milostowo,01:59,07:40,piatek,"1,983","7,00",1,MODERTRANS
-633,TRAMWAJ,607,18,Wierzbiecice,Franowo,-01:50,07:40,piatek,"-1,833","7,00",-1,MODERTRANS
-634,TRAMWAJ,934,10,Most Dworcowy,Blazeja,00:30,07:41,piatek,"0,500","7,00",0,MODERTRANS
-635,TRAMWAJ,933,3,Rondo Kaponiera,Blazeja,03:10,07:44,piatek,"3,167","7,00",3,MODERTRANS
-636,TRAMWAJ,525,14,Dworzec Zachodni,Gorczyn PKM,-00:24,07:44,piatek,"-0,400","7,00",0,SOLARIS
-99,AUTOBUS,1824,168,Tulodzieckiej,Poznan Glowny,00:10,15:21,sroda,"0,167","15,00",0,AUTOBUS
-638,TRAMWAJ,552,15,Baltyk,Os.Sobieskiego,02:31,07:44,piatek,"2,517","7,00",2,SOLARIS
-639,TRAMWAJ,611,6,Poznan Glowny,Junikowo,01:44,07:45,piatek,"1,733","7,00",1,MODERTRANS
-640,TRAMWAJ,549,5,Polwiejska,Unii Lubelskiej,02:15,07:45,piatek,"2,250","7,00",2,SOLARIS
-641,TRAMWAJ,546,13,Politechnika,Staroleka PKM,01:24,07:45,piatek,"1,400","7,00",1,SOLARIS
-642,TRAMWAJ,532,13,Politechnika,Aleje Marcinkowskiego,01:28,07:45,piatek,"1,467","7,00",1,SOLARIS
-643,AUTOBUS,1637,196,Pilsudskiego,Rondo Rataje,00:28,07:46,piatek,"0,467","7,00",0,AUTOBUS
-644,TRAMWAJ,166,5,Os.Piastowskie,Gorczyn PKM,00:04,07:47,piatek,"0,067","7,00",0,MODERTRANS
-645,TRAMWAJ,610,7,Rondo Staroleka,Ogrody,-00:05,07:47,piatek,"-0,083","7,00",0,MODERTRANS
-646,TRAMWAJ,504,9,Rynek Wildecki,Aleje Marcinkowskiego,00:17,07:47,piatek,"0,283","7,00",0,SIEMENS
-647,TRAMWAJ,935,10,Most Dworcowy,Debiec PKM,-00:49,07:48,piatek,"-0,817","7,00",0,MODERTRANS
-648,TRAMWAJ,420,8,Most Teatralny,Milostowo,00:48,07:48,piatek,"0,800","7,00",0,MODERTRANS
-649,TRAMWAJ,244,17,Rynek Jezycki,Ogrody,01:57,07:48,piatek,"1,950","7,00",1,KONSTAL
-650,TRAMWAJ,613,7,Poznanska,Polabska,-01:34,07:49,piatek,"-1,567","7,00",-1,MODERTRANS
-651,TRAMWAJ,543,14,Slowianska,Os.Sobieskiego,00:35,07:49,piatek,"0,583","7,00",0,SOLARIS
-652,TRAMWAJ,911,3,Most Teatralny,Budziszynska,00:18,07:50,piatek,"0,300","7,00",0,MODERTRANS
-653,TRAMWAJ,526,15,Matejki,Os.Sobieskiego,02:05,07:50,piatek,"2,083","7,00",2,SOLARIS
-654,TRAMWAJ,522,6,Rondo Nowaka-Jezioranskiego,Milostowo,-00:22,07:50,piatek,"-0,367","7,00",0,SOLARIS
-655,AUTOBUS,1277,163,Sciegiennego,Gorczyn PKM,04:23,07:51,piatek,"4,383","7,00",4,AUTOBUS
-656,AUTOBUS,1282,193,Stadion Miejski,Os.Sobieskiego,01:51,07:51,piatek,"1,850","7,00",1,AUTOBUS
-657,AUTOBUS,1492,121,Ogrody,Ogrody,01:58,07:53,piatek,"1,967","7,00",1,AUTOBUS
-658,TRAMWAJ,126,17,Zeromskiego,Zawady,-00:14,07:54,piatek,"-0,233","7,00",0,KONSTAL
-659,AUTOBUS,1829,191,Zeromskiego,Os.Kopernika,04:34,07:54,piatek,"4,567","7,00",4,AUTOBUS
-660,AUTOBUS,1286,182,Niestachowska,Gorczyn PKM,01:24,07:54,piatek,"1,400","7,00",1,AUTOBUS
-661,TRAMWAJ,448,2,Polna,Ogrody,-00:28,07:55,piatek,"-0,467","7,00",0,MODERTRANS
-662,TRAMWAJ,940,10,Rondo Kaponiera,Blazeja,00:57,07:55,piatek,"0,950","7,00",0,MODERTRANS
-663,AUTOBUS,1706,174,Opienskiego,Os.Sobieskiego,03:15,07:55,piatek,"3,250","7,00",3,AUTOBUS
-664,AUTOBUS,1886,198,Os.Batorego,UAM Os.Rozany Potok,01:20,07:56,piatek,"1,333","7,00",1,AUTOBUS
-665,AUTOBUS,9101,905,Szymanowskiego,Os.Sobieskiego,04:08,07:56,piatek,"4,133","7,00",4,AUTOBUS
-666,AUTOBUS,9107,907,Mateckiego,Chludowo/Szkola,04:05,07:57,piatek,"4,083","7,00",4,AUTOBUS
-667,AUTOBUS,1453,146,Mateckiego,Boranta,02:26,07:57,piatek,"2,433","7,00",2,AUTOBUS
-668,AUTOBUS,1253,164,Literacka,Kacza,01:06,07:57,piatek,"1,100","7,00",1,AUTOBUS
-669,AUTOBUS,1461,170,Literacka,Puszkina,01:48,07:58,piatek,"1,800","7,00",1,AUTOBUS
-670,AUTOBUS,1476,156,Ogrody,Ogrody,04:24,07:58,piatek,"4,400","7,00",4,AUTOBUS
-671,AUTOBUS,1814,191,Nad Wierzbakiem,Os.Kopernika,02:15,07:58,piatek,"2,250","7,00",2,AUTOBUS
-672,AUTOBUS,1893,167,Serbska,Rondo Srodka,01:41,07:59,piatek,"1,683","7,00",1,AUTOBUS
-673,AUTOBUS,1637,196,Torowa Wiadukt,Rondo Rataje,-01:11,07:59,piatek,"-1,183","7,00",-1,AUTOBUS
-674,AUTOBUS,1665,154,Luganska,Rondo Rataje,01:28,07:59,piatek,"1,467","7,00",1,AUTOBUS
-675,AUTOBUS,1005,179,Opolska,Debiec PKM,-00:36,08:00,piatek,"-0,600","8,00",0,AUTOBUS
-676,AUTOBUS,1675,173,Gnieznienska,Rondo Srodka,01:40,08:01,piatek,"1,667","8,00",1,AUTOBUS
-677,AUTOBUS,1652,183,Chemiczna,Szarych Szeregow,02:24,08:01,piatek,"2,400","8,00",2,AUTOBUS
-678,TRAMWAJ,218,8,Rondo Srodka,Gorczyn PKM,00:00,08:01,piatek,"0,000","8,00",0,MODERTRANS
-679,TRAMWAJ,629,7,Katedra,Polabska,00:30,08:01,piatek,"0,500","8,00",0,MODERTRANS
-680,AUTOBUS,1702,174,Male Garbary,Os.Sobieskiego,02:00,08:02,piatek,"2,000","8,00",2,AUTOBUS
-681,AUTOBUS,1873,190,Wielka,Os.Sobieskiego,-01:08,08:02,piatek,"-1,133","8,00",-1,AUTOBUS
-682,TRAMWAJ,542,13,Wroclawska,Aleje Marcinkowskiego,-00:09,08:02,piatek,"-0,150","8,00",0,SOLARIS
-683,TRAMWAJ,522,6,AWF,Milostowo,-00:37,08:02,piatek,"-0,617","8,00",0,SOLARIS
-684,TRAMWAJ,198,18,Wierzbiecice,Ogrody,01:22,08:03,piatek,"1,367","8,00",1,MODERTRANS
-685,TRAMWAJ,226,2,Sw.Czeslawa,Ogrody,00:52,08:03,piatek,"0,867","8,00",0,MODERTRANS
-686,TRAMWAJ,457,2,Rynek Wildecki,Debiec PKM,01:07,08:03,piatek,"1,117","8,00",1,MODERTRANS
-687,TRAMWAJ,502,9,Kosinskiego,Debiec PKM,02:17,08:03,piatek,"2,283","8,00",2,SIEMENS
-688,TRAMWAJ,936,10,Kosinskiego,Blazeja,-00:05,08:04,piatek,"-0,083","8,00",0,MODERTRANS
-689,TRAMWAJ,432,11,Traugutta,Piatkowska,00:13,08:04,piatek,"0,217","8,00",0,MODERTRANS
-690,TRAMWAJ,935,10,Wspolna,Debiec PKM,-00:37,08:04,piatek,"-0,617","8,00",0,MODERTRANS
-691,AUTOBUS,1001,176,IPN,Garbary PKM,02:29,08:04,piatek,"2,483","8,00",2,AUTOBUS
-692,AUTOBUS,1018,176,Piastowska,Os.Debina,06:27,08:05,piatek,"6,450","8,00",6,AUTOBUS
-693,TRAMWAJ,551,13,Rondo Staroleka,Aleje Marcinkowskiego,-00:09,08:05,piatek,"-0,150","8,00",0,SOLARIS
-694,TRAMWAJ,445,1,Rondo Staroleka,Junikowo,03:17,08:05,piatek,"3,283","8,00",3,MODERTRANS
-695,TRAMWAJ,168,5,Os.Rzeczypospolitej,Gorczyn PKM,00:14,08:05,piatek,"0,233","8,00",0,MODERTRANS
-696,TRAMWAJ,545,12,Os.Rzeczypospolitej,Staroleka PKM,-00:21,08:06,piatek,"-0,350","8,00",0,SOLARIS
-697,AUTOBUS,1769,152,Rondo Rataje,Rondo Rataje,01:40,08:06,piatek,"1,667","8,00",1,AUTOBUS
-698,TRAMWAJ,505,13,Politechnika,Aleje Marcinkowskiego,01:38,08:06,piatek,"1,633","8,00",1,SIEMENS
-699,AUTOBUS,1757,184,Baraniaka,Termy Maltanskie,-00:04,08:06,piatek,"-0,067","8,00",0,AUTOBUS
-700,TRAMWAJ,162,6,Rondo Srodka,Junikowo,00:01,08:07,piatek,"0,017","8,00",0,KONSTAL
-701,TRAMWAJ,526,15,Most Teatralny,Junikowo,-00:33,17:51,sobota,"-0,550","17,00",0,SOLARIS
-702,TRAMWAJ,613,7,Fredry,Ogrody,-00:44,17:51,sobota,"-0,733","17,00",0,MODERTRANS
-703,TRAMWAJ,938,3,Rondo Nowaka-Jezioranskiego,Blazeja,01:58,17:52,sobota,"1,967","17,00",1,MODERTRANS
-704,AUTOBUS,1281,191,Stadion Miejski,Os.Kopernika,00:51,17:52,sobota,"0,850","17,00",0,AUTOBUS
-705,TRAMWAJ,928,3,Rondo Skubiszewskiego,Junikowo,01:06,17:52,sobota,"1,100","17,00",1,MODERTRANS
-706,AUTOBUS,1003,149,Kepinska,Debiec PKM,01:15,17:53,sobota,"1,250","17,00",1,AUTOBUS
-707,AUTOBUS,1022,179,Opolska,Debiec PKM,10:48,17:53,sobota,"10,800","17,00",10,AUTOBUS
-708,TRAMWAJ,436,2,Debiec PKM,Debiec PKM,-01:02,17:53,sobota,"-1,033","17,00",-1,MODERTRANS
-709,AUTOBUS,1019,176,IPN,Os.Debina,00:15,17:53,sobota,"0,250","17,00",0,AUTOBUS
-710,TRAMWAJ,505,9,Rynek Wildecki,Debiec PKM,00:17,17:54,sobota,"0,283","17,00",0,SIEMENS
-711,TRAMWAJ,915,16,Zamek,Os.Sobieskiego,-00:29,17:54,sobota,"-0,483","17,00",0,MODERTRANS
-712,AUTOBUS,1702,169,Urzad Marszalkowski,Os.Sobieskiego,03:43,17:54,sobota,"3,717","17,00",3,AUTOBUS
-1060,AUTOBUS,1453,168,Rzepeckiej,Poznan Glowny,00:09,21:03,piatek,"0,150","21,00",0,AUTOBUS
-714,AUTOBUS,1274,182,Maczka,Gorczyn PKM,00:18,17:55,sobota,"0,300","17,00",0,AUTOBUS
-715,AUTOBUS,1277,191,Os.Slowianskie,Os.Kopernika,06:41,17:55,sobota,"6,683","17,00",6,AUTOBUS
-716,AUTOBUS,1408,170,Dojazd,Puszkina,00:35,17:55,sobota,"0,583","17,00",0,AUTOBUS
-717,AUTOBUS,1763,178,Strozynskiego,Szarych Szeregow,-00:53,17:55,sobota,"-0,883","17,00",0,AUTOBUS
-718,TRAMWAJ,459,15,Kurpinskiego,Os.Sobieskiego,00:29,17:56,sobota,"0,483","17,00",0,MODERTRANS
-719,TRAMWAJ,935,10,Wlodarska,Debiec PKM,01:03,17:56,sobota,"1,050","17,00",1,MODERTRANS
-720,AUTOBUS,1681,185,Baltycka,Rondo Srodka,03:52,17:56,sobota,"3,867","17,00",3,AUTOBUS
-721,TRAMWAJ,434,8,Termalna,Gorczyn PKM,00:17,17:56,sobota,"0,283","17,00",0,MODERTRANS
-722,AUTOBUS,1765,157,Dymka,Mogilenska,00:51,17:57,sobota,"0,850","17,00",0,AUTOBUS
-723,AUTOBUS,1655,167,Rondo Srodka,Rondo Srodka,01:52,17:57,sobota,"1,867","17,00",1,AUTOBUS
-724,TRAMWAJ,453,17,Male Garbary,Ogrody,00:38,17:58,sobota,"0,633","17,00",0,MODERTRANS
-725,AUTOBUS,1707,174,Male Garbary,Os.Sobieskiego,01:11,17:58,sobota,"1,183","17,00",1,AUTOBUS
-726,AUTOBUS,1912,171,Armii Poznan,Os.Wichrowe Wzgorze,-02:57,17:58,sobota,"-2,950","17,00",-2,AUTOBUS
-727,TRAMWAJ,919,16,Most Teatralny,Aleje Marcinkowskiego,-01:19,17:58,sobota,"-1,317","17,00",-1,MODERTRANS
-728,AUTOBUS,1288,164,Slaska,Puszkina,00:26,17:59,sobota,"0,433","17,00",0,AUTOBUS
-729,TRAMWAJ,425,2,Polna,Ogrody,01:29,17:59,sobota,"1,483","17,00",1,MODERTRANS
-730,TRAMWAJ,454,17,Polna,Zawady,-00:09,17:59,sobota,"-0,150","17,00",0,MODERTRANS
-731,TRAMWAJ,399,1,Piasnicka Rynek,Junikowo,01:32,17:59,sobota,"1,533","17,00",1,TATRA
-732,TRAMWAJ,627,18,Zegrze II,Franowo,02:44,18:00,sobota,"2,733","18,00",2,MODERTRANS
-733,AUTOBUS,1669,184,Os.Bohaterow II Wojny Swiatowej,Rondo Rataje,07:42,18:00,sobota,"7,700","18,00",7,AUTOBUS
-734,TRAMWAJ,550,12,Rondo Staroleka,Os.Sobieskiego,00:01,18:00,sobota,"0,017","18,00",0,SOLARIS
-735,TRAMWAJ,447,2,Pamiatkowa,Ogrody,-01:05,18:01,sobota,"-1,083","18,00",-1,MODERTRANS
-736,AUTOBUS,1024,145,Ulanska,Kacza,01:46,18:01,sobota,"1,767","18,00",1,AUTOBUS
-737,AUTOBUS,1680,154,Szczepankowo,Splawie,-00:56,18:01,sobota,"-0,933","18,00",0,AUTOBUS
-738,AUTOBUS,1650,162,Rodawska,Rondo Rataje,00:37,18:02,sobota,"0,617","18,00",0,AUTOBUS
-739,AUTOBUS,1877,190,Bobrzanska,Bobrzanska,08:33,18:02,sobota,"8,550","18,00",8,AUTOBUS
-740,AUTOBUS,1686,152,Zelazna,Darzybor,00:04,18:02,sobota,"0,067","18,00",0,AUTOBUS
-741,AUTOBUS,1764,157,Zelazna,Rondo Srodka,-00:39,18:03,sobota,"-0,650","18,00",0,AUTOBUS
-742,AUTOBUS,1675,183,Hlonda,Rondo Srodka,00:35,19:31,sobota,"0,583","19,00",0,AUTOBUS
-743,AUTOBUS,1870,190,Winogrady,Rondo Srodka,02:37,19:31,sobota,"2,617","19,00",2,AUTOBUS
-744,TRAMWAJ,441,17,Male Garbary,Zawady,00:55,19:32,sobota,"0,917","19,00",0,MODERTRANS
-745,TRAMWAJ,508,9,Rozana,Debiec PKM,00:32,19:32,sobota,"0,533","19,00",0,SIEMENS
-746,TRAMWAJ,924,10,Pamiatkowa,Blazeja,-01:19,19:32,sobota,"-1,317","19,00",-1,MODERTRANS
-747,TRAMWAJ,504,13,Bystra,Staroleka PKM,-00:55,19:33,sobota,"-0,917","19,00",0,SIEMENS
-748,AUTOBUS,1670,154,Os.Jagiellonskie,Rondo Rataje,05:14,19:33,sobota,"5,233","19,00",5,AUTOBUS
-749,AUTOBUS,1686,162,Wiatraczna,Rondo Rataje,01:36,19:34,sobota,"1,600","19,00",1,AUTOBUS
-750,AUTOBUS,1874,190,Bobrzanska,Bobrzanska,02:49,19:34,sobota,"2,817","19,00",2,AUTOBUS
-751,TRAMWAJ,525,6,Rondo Rataje,Junikowo,-00:21,19:34,sobota,"-0,350","19,00",0,SOLARIS
-752,TRAMWAJ,911,16,Rondo Kaponiera,Os.Sobieskiego,-00:25,19:35,sobota,"-0,417","19,00",0,MODERTRANS
-753,TRAMWAJ,548,14,Most Teatralny,Gorczyn PKM,-00:29,19:35,sobota,"-0,483","19,00",0,SOLARIS
-754,AUTOBUS,1289,164,Jezycka,Kacza,02:32,19:35,sobota,"2,533","19,00",2,AUTOBUS
-755,AUTOBUS,1681,185,Rynek Wschodni,Rondo Srodka,05:50,19:36,sobota,"5,833","19,00",5,AUTOBUS
-756,AUTOBUS,1652,178,Chemiczna,Szarych Szeregow,-00:16,19:37,sobota,"-0,267","19,00",0,AUTOBUS
-757,AUTOBUS,1673,173,Bogucin Baltycka,Janikowo,00:55,19:38,sobota,"0,917","19,00",0,AUTOBUS
-758,AUTOBUS,1879,158,Ozarowska,Sypniewo,00:17,19:39,sobota,"0,283","19,00",0,AUTOBUS
-759,AUTOBUS,1772,194,Staszowska,Staroleka PKM,00:27,19:40,sobota,"0,450","19,00",0,AUTOBUS
-760,AUTOBUS,1017,179,Druzynowa,Debiec PKM,06:39,19:40,sobota,"6,650","19,00",6,AUTOBUS
-761,AUTOBUS,1460,156,Kolobrzeska,Ogrody,-00:23,19:41,sobota,"-0,383","19,00",0,AUTOBUS
-762,AUTOBUS,1278,177,Malechowska,Junikowo,00:14,19:42,sobota,"0,233","19,00",0,AUTOBUS
-763,AUTOBUS,1260,182,Palacza,Os.Wichrowe Wzgorze,01:55,19:42,sobota,"1,917","19,00",1,AUTOBUS
-764,TRAMWAJ,508,9,Debiec PKM,Debiec PKM,00:34,19:43,sobota,"0,567","19,00",0,SIEMENS
-765,TRAMWAJ,459,15,Kurpinskiego,Budziszynska,00:31,19:43,sobota,"0,517","19,00",0,MODERTRANS
-766,TRAMWAJ,421,11,Os.Winiary,Pamiatkowa,03:11,19:43,sobota,"3,183","19,00",3,MODERTRANS
-767,TRAMWAJ,935,10,Armii Poznan,Debiec PKM,01:22,19:44,sobota,"1,367","19,00",1,MODERTRANS
-768,TRAMWAJ,434,8,Male Garbary,Gorczyn PKM,00:22,19:44,sobota,"0,367","19,00",0,MODERTRANS
-769,AUTOBUS,1689,181,Pilsudskiego,Rondo Rataje,02:28,19:45,sobota,"2,467","19,00",2,AUTOBUS
-770,AUTOBUS,1650,196,Inflancka,Rondo Rataje,-00:49,19:46,sobota,"-0,817","19,00",0,AUTOBUS
-771,AUTOBUS,1670,154,Os.Jagiellonskie,Splawie,00:51,19:48,sobota,"0,850","19,00",0,AUTOBUS
-772,TRAMWAJ,446,7,Rondo Rataje,Ogrody,01:12,19:48,sobota,"1,200","19,00",1,MODERTRANS
-773,TRAMWAJ,429,18,Os.Rzeczypospolitej,Franowo,-01:32,19:48,sobota,"-1,533","19,00",-1,MODERTRANS
-774,TRAMWAJ,413,1,Rondo Staroleka,Junikowo,01:15,19:49,sobota,"1,250","19,00",1,TATRA
-775,TRAMWAJ,551,14,Park Wilsona,Os.Sobieskiego,01:14,19:49,sobota,"1,233","19,00",1,SOLARIS
-776,AUTOBUS,1867,159,Polna Szpital,Port Lotniczy Lawica,00:47,19:50,sobota,"0,783","19,00",0,AUTOBUS
-777,AUTOBUS,1014,160,Nad Wierzbakiem,Stary Strzeszyn,03:56,19:51,sobota,"3,933","19,00",3,AUTOBUS
-778,AUTOBUS,1646,183,Polabska,Rondo Srodka,01:00,19:51,sobota,"1,000","19,00",1,AUTOBUS
-779,AUTOBUS,1274,182,Os.Slowianskie,Gorczyn PKM,-00:34,19:52,sobota,"-0,567","19,00",0,AUTOBUS
-780,AUTOBUS,1673,173,Studzienna,Rondo Srodka,00:38,19:56,sobota,"0,633","19,00",0,AUTOBUS
-781,TRAMWAJ,913,16,Slowianska,Aleje Marcinkowskiego,-01:26,16:55,niedziela,"-1,433","16,00",-1,MODERTRANS
-782,TRAMWAJ,424,2,Kraszewskiego,Debiec PKM,01:28,16:56,niedziela,"1,467","16,00",1,MODERTRANS
-783,AUTOBUS,1655,154,Torowa Wiadukt,Splawie,00:00,16:56,niedziela,"0,000","16,00",0,AUTOBUS
-784,AUTOBUS,1685,184,Os.Rusa,Rondo Rataje,02:17,17:03,niedziela,"2,283","17,00",2,AUTOBUS
-785,TRAMWAJ,518,6,Termalna,Milostowo,-01:02,17:03,niedziela,"-1,033","17,00",-1,SOLARIS
-786,AUTOBUS,1673,173,Studzienna,Janikowo,01:22,17:03,niedziela,"1,367","17,00",1,AUTOBUS
-787,AUTOBUS,1646,167,Rondo Srodka,Rondo Srodka,-01:15,17:04,niedziela,"-1,250","17,00",-1,AUTOBUS
-788,TRAMWAJ,441,11,Wielkopolska,Piatkowska,02:57,17:04,niedziela,"2,950","17,00",2,MODERTRANS
-789,AUTOBUS,1259,191,Koscielna Tunel,Os.Sobieskiego,-00:05,17:04,niedziela,"-0,083","17,00",0,AUTOBUS
-790,TRAMWAJ,556,15,Baltyk,Os.Sobieskiego,00:10,17:04,niedziela,"0,167","17,00",0,SOLARIS
-791,AUTOBUS,1257,164,Sczanieckiej,Puszkina,-00:28,17:05,niedziela,"-0,467","17,00",0,AUTOBUS
-792,AUTOBUS,1027,179,Druzynowa,Debiec PKM,-00:19,17:05,niedziela,"-0,317","17,00",0,AUTOBUS
-793,AUTOBUS,1893,158,Staroleka Wielka,Sypniewo,-00:36,17:05,niedziela,"-0,600","17,00",0,AUTOBUS
-794,TRAMWAJ,507,13,Staroleka Mala,Aleje Marcinkowskiego,-00:28,17:06,niedziela,"-0,467","17,00",0,SIEMENS
-795,TRAMWAJ,459,1,Rondo Staroleka,Junikowo,00:03,17:06,niedziela,"0,050","17,00",0,MODERTRANS
-796,AUTOBUS,5052,501,Os.Lecha I,Blazejewo/Os.Przylesie,02:08,17:06,niedziela,"2,133","17,00",2,AUTOBUS
-797,AUTOBUS,1687,185,Serbska,Rondo Srodka,00:46,17:07,niedziela,"0,767","17,00",0,AUTOBUS
-798,AUTOBUS,1689,178,Os.Wichrowe Wzgorze,Rondo Srodka,00:49,17:07,niedziela,"0,817","17,00",0,AUTOBUS
-799,AUTOBUS,1254,164,Hezjoda,Puszkina,-00:31,17:08,niedziela,"-0,517","17,00",0,AUTOBUS
-800,AUTOBUS,7008,729,Swoboda,Dopiewo/Dworzec Kolejowy,00:43,17:08,niedziela,"0,717","17,00",0,AUTOBUS
-801,AUTOBUS,1859,182,Szpitalna,Os.Wichrowe Wzgorze,-00:27,17:08,niedziela,"-0,450","17,00",0,AUTOBUS
-802,AUTOBUS,1480,156,Polska,Krzyzowniki,01:29,17:08,niedziela,"1,483","17,00",1,AUTOBUS
-803,TRAMWAJ,433,1,Rondo Nowaka-Jezioranskiego,Franowo,00:52,17:09,niedziela,"0,867","17,00",0,MODERTRANS
-804,AUTOBUS,1002,149,Ostatnia,Debiec PKM,-00:04,17:09,niedziela,"-0,067","17,00",0,AUTOBUS
-805,AUTOBUS,6063,611,Debiec PKM,Debiec PKM,01:06,17:09,niedziela,"1,100","17,00",1,AUTOBUS
-806,AUTOBUS,1903,171,Lozowa,Os.Wichrowe Wzgorze,00:35,17:10,niedziela,"0,583","17,00",0,AUTOBUS
-807,AUTOBUS,1019,176,Rolna,Os.Debina,02:18,17:10,niedziela,"2,300","17,00",2,AUTOBUS
-808,TRAMWAJ,521,6,Rondo Srodka,Junikowo,00:44,17:10,niedziela,"0,733","17,00",0,SOLARIS
-809,AUTOBUS,1660,184,Chartowo,Nowe Zoo,00:29,17:10,niedziela,"0,483","17,00",0,AUTOBUS
-810,AUTOBUS,1680,152,Dymka,Rondo Rataje,00:07,17:11,niedziela,"0,117","17,00",0,AUTOBUS
-811,TRAMWAJ,613,18,Rondo Staroleka,Franowo,-01:07,17:11,niedziela,"-1,117","17,00",-1,MODERTRANS
-812,TRAMWAJ,513,9,Polwiejska,Aleje Marcinkowskiego,-00:55,17:11,niedziela,"-0,917","17,00",0,SIEMENS
-813,TRAMWAJ,430,2,Rondo Kaponiera,Ogrody,-01:24,17:11,niedziela,"-1,400","17,00",-1,MODERTRANS
-814,TRAMWAJ,556,15,Slowianska,Os.Sobieskiego,01:07,17:12,niedziela,"1,117","17,00",1,SOLARIS
-815,TRAMWAJ,441,11,Bonin,Piatkowska,03:00,17:12,niedziela,"3,000","17,00",3,MODERTRANS
-816,AUTOBUS,1675,183,Wrzoska Szpitale,Szarych Szeregow,-01:17,17:12,niedziela,"-1,283","17,00",-1,AUTOBUS
-817,AUTOBUS,1762,173,Glowna,Rondo Srodka,-00:03,17:12,niedziela,"-0,050","17,00",0,AUTOBUS
-818,TRAMWAJ,518,6,Milostowo,Milostowo,-01:03,17:13,niedziela,"-1,050","17,00",-1,SOLARIS
-819,AUTOBUS,1765,157,Swiatopelka,Rondo Srodka,-00:15,17:13,niedziela,"-0,250","17,00",0,AUTOBUS
-820,AUTOBUS,1654,196,Krzesiny Wiadukt,Rondo Rataje,00:03,17:13,niedziela,"0,050","17,00",0,AUTOBUS
-821,AUTOBUS,1639,152,Slezanska,Darzybor,-00:35,17:13,niedziela,"-0,583","17,00",0,AUTOBUS
-822,TRAMWAJ,447,5,Rondo Rataje,Unii Lubelskiej,01:44,17:14,niedziela,"1,733","17,00",1,MODERTRANS
-823,AUTOBUS,1893,158,Gluszyna Szkola,Sypniewo,-00:09,17:14,niedziela,"-0,150","17,00",0,AUTOBUS
-824,TRAMWAJ,446,14,Most Teatralny,Gorczyn PKM,-01:09,17:15,niedziela,"-1,150","17,00",-1,MODERTRANS
-825,AUTOBUS,1264,164,Nad Wierzbakiem,Kacza,02:52,17:15,niedziela,"2,867","17,00",2,AUTOBUS
-826,TRAMWAJ,434,11,Solacz,Glogowska/Hetmanska,-00:09,17:15,niedziela,"-0,150","17,00",0,MODERTRANS
-827,TRAMWAJ,621,7,Most Teatralny,Polabska,-00:45,17:15,niedziela,"-0,750","17,00",0,MODERTRANS
-828,TRAMWAJ,526,12,Wierzbiecice,Os.Sobieskiego,01:15,17:16,niedziela,"1,250","17,00",1,SOLARIS
-829,TRAMWAJ,931,10,Sw.Czeslawa,Blazeja,-01:09,17:16,niedziela,"-1,150","17,00",-1,MODERTRANS
-830,TRAMWAJ,429,8,Dworzec Zachodni,Gorczyn PKM,02:19,17:16,niedziela,"2,317","17,00",2,MODERTRANS
-831,AUTOBUS,1255,163,Stadion Miejski,Gorczyn PKM,03:13,13:15,poniedzialek,"3,217","13,00",3,AUTOBUS
-832,TRAMWAJ,517,15,Drzewieckiego,Os.Sobieskiego,-00:12,13:15,poniedzialek,"-0,200","13,00",0,SOLARIS
-833,TRAMWAJ,410,1,Stadion Miejski,Junikowo,04:12,13:15,poniedzialek,"4,200","13,00",4,TATRA
-834,AUTOBUS,1501,169,Teczowa,Os.Sobieskiego,01:02,13:15,poniedzialek,"1,033","13,00",1,AUTOBUS
-835,AUTOBUS,1266,164,Sciegiennego,Puszkina,09:15,13:15,poniedzialek,"9,250","13,00",9,AUTOBUS
-836,TRAMWAJ,929,10,Most Dworcowy,Blazeja,-00:06,15:21,wtorek,"-0,100","15,00",0,MODERTRANS
-837,TRAMWAJ,422,8,Park Wilsona,Gorczyn PKM,02:22,15:22,wtorek,"2,367","15,00",2,MODERTRANS
-838,AUTOBUS,1012,145,Park Wilsona,Dworzec Zachodni,01:51,15:22,wtorek,"1,850","15,00",1,AUTOBUS
-839,AUTOBUS,1256,164,Palmiarnia,Puszkina,01:32,15:22,wtorek,"1,533","15,00",1,AUTOBUS
-840,AUTOBUS,1268,164,Koscielna  ,Puszkina,06:48,15:22,wtorek,"6,800","15,00",6,AUTOBUS
-841,AUTOBUS,1254,164,Matejki,Kacza,03:01,15:23,wtorek,"3,017","15,00",3,AUTOBUS
-842,AUTOBUS,1117,148,Polna Szpital,Lawica,03:31,15:23,wtorek,"3,517","15,00",3,AUTOBUS
-843,AUTOBUS,1022,145,Szamotulska,Kacza,01:54,15:23,wtorek,"1,900","15,00",1,AUTOBUS
-844,AUTOBUS,1280,177,Bulgarska/Polska,Junikowo,05:51,15:23,wtorek,"5,850","15,00",5,AUTOBUS
-845,AUTOBUS,1204,193,Szpitalna,Os.Sobieskiego,02:09,15:24,wtorek,"2,150","15,00",2,AUTOBUS
-846,AUTOBUS,1405,121,Ogrody,Ogrody,-00:45,15:24,wtorek,"-0,750","15,00",0,AUTOBUS
-847,TRAMWAJ,420,2,Zeromskiego,Debiec PKM,-00:04,15:24,wtorek,"-0,067","15,00",0,MODERTRANS
-848,AUTOBUS,1117,148,Grodziska,Lawica,02:59,15:25,wtorek,"2,983","15,00",2,AUTOBUS
-849,TRAMWAJ,608,8,Rondo Kaponiera,Gorczyn PKM,01:36,15:25,wtorek,"1,600","15,00",1,MODERTRANS
-850,TRAMWAJ,456,15,Most Teatralny,Os.Sobieskiego,00:24,15:25,wtorek,"0,400","15,00",0,MODERTRANS
-851,TRAMWAJ,136,17,Most Teatralny,Ogrody,01:00,15:25,wtorek,"1,000","15,00",1,KONSTAL
-937,AUTOBUS,1452,168,Zamek,Strzeszyn PKM,00:02,19:06,piatek,"0,033","19,00",0,AUTOBUS
-853,AUTOBUS,1657,160,Nowowiejskiego,Stary Strzeszyn,00:45,15:26,wtorek,"0,750","15,00",0,AUTOBUS
-854,TRAMWAJ,425,17,Pl.Wielkopolski,Zawady,00:03,15:26,wtorek,"0,050","15,00",0,MODERTRANS
-855,TRAMWAJ,512,9,Aleje Marcinkowskiego,Aleje Marcinkowskiego,00:09,15:26,wtorek,"0,150","15,00",0,SIEMENS
-856,AUTOBUS,1707,174,AWF,Unii Lubelskiej,-02:17,15:27,wtorek,"-2,283","15,00",-2,AUTOBUS
-857,TRAMWAJ,513,13,Pl.Bernardynski,Aleje Marcinkowskiego,09:13,15:27,wtorek,"9,217","15,00",9,SIEMENS
-858,TRAMWAJ,605,7,Kornicka,Ogrody,-00:21,15:27,wtorek,"-0,350","15,00",0,MODERTRANS
-859,AUTOBUS,1634,178,Hlonda,Szarych Szeregow,01:42,15:28,wtorek,"1,700","15,00",1,AUTOBUS
-860,AUTOBUS,1681,185,Glowna,Os.Sobieskiego,00:40,15:28,wtorek,"0,667","15,00",0,AUTOBUS
-861,AUTOBUS,1663,185,Baltycka,Rondo Srodka,04:27,15:28,wtorek,"4,450","15,00",4,AUTOBUS
-862,AUTOBUS,1843,173,Gnieznienska,Janikowo,01:05,15:28,wtorek,"1,083","15,00",1,AUTOBUS
-863,AUTOBUS,1644,173,Urwista,Rondo Srodka,-00:36,15:29,wtorek,"-0,600","15,00",0,AUTOBUS
-864,AUTOBUS,1686,166,Swiatopelka,Rondo Rataje,-00:13,15:29,wtorek,"-0,217","15,00",0,AUTOBUS
-865,AUTOBUS,1480,156,Pilotow,Ogrody,00:00,15:29,wtorek,"0,000","15,00",0,AUTOBUS
-866,AUTOBUS,8030,821,Przelot,Ogrody,02:30,15:30,wtorek,"2,500","15,00",2,AUTOBUS
-867,AUTOBUS,1457,186,Polska,Kiekrz,01:57,15:30,wtorek,"1,950","15,00",1,AUTOBUS
-868,AUTOBUS,1886,159,Bulgarska/Polska,Port Lotniczy Lawica,08:27,15:30,wtorek,"8,450","15,00",8,AUTOBUS
-869,AUTOBUS,1123,148,Os.Bajkowe,Rondo Kaponiera,00:59,15:31,wtorek,"0,983","15,00",0,AUTOBUS
-870,AUTOBUS,1476,156,Miedzyzdrojska,Krzyzowniki,02:48,15:31,wtorek,"2,800","15,00",2,AUTOBUS
-871,AUTOBUS,1267,177,Gerberowa,Rondo Kaponiera,00:34,15:31,wtorek,"0,567","15,00",0,AUTOBUS
-872,AUTOBUS,1022,145,Stadion Miejski,Kacza,-00:15,15:32,wtorek,"-0,250","15,00",0,AUTOBUS
-873,TRAMWAJ,410,1,Grochowska,Franowo,00:18,15:32,wtorek,"0,300","15,00",0,TATRA
-874,TRAMWAJ,939,3,Drzewieckiego,Budziszynska,00:51,15:32,wtorek,"0,850","15,00",0,MODERTRANS
-875,AUTOBUS,1705,169,Szylinga,Os.Sobieskiego,03:28,15:32,wtorek,"3,467","15,00",3,AUTOBUS
-876,AUTOBUS,1462,191,Koscielna Tunel,Os.Kopernika,02:49,15:33,wtorek,"2,817","15,00",2,AUTOBUS
-877,TRAMWAJ,168,15,Most Teatralny,Budziszynska,00:20,15:34,wtorek,"0,333","15,00",0,MODERTRANS
-878,TRAMWAJ,166,12,Slowianska,Staroleka PKM,00:20,15:34,wtorek,"0,333","15,00",0,MODERTRANS
-879,TRAMWAJ,914,16,Lechicka Poznan Plaza,Aleje Marcinkowskiego,00:08,15:34,wtorek,"0,133","15,00",0,MODERTRANS
-880,AUTOBUS,1706,174,Szymanowskiego,Os.Sobieskiego,05:32,15:35,wtorek,"5,533","15,00",5,AUTOBUS
-881,AUTOBUS,1252,191,Opienskiego,Os.Kopernika,-00:11,15:35,wtorek,"-0,183","15,00",0,AUTOBUS
-882,AUTOBUS,9110,905,Os.Zygmunta Starego,Chludowo/Szkola,01:46,15:35,wtorek,"1,767","15,00",1,AUTOBUS
-883,AUTOBUS,1757,188,Szymanowskiego,Os.Sobieskiego,03:59,15:36,wtorek,"3,983","15,00",3,AUTOBUS
-884,AUTOBUS,1853,348,Os.Batorego,Przebedowo/Petla,03:23,15:36,wtorek,"3,383","15,00",3,AUTOBUS
-885,AUTOBUS,1851,198,UAM Kampus,Os.Sobieskiego,-00:34,15:39,wtorek,"-0,567","15,00",0,AUTOBUS
-886,AUTOBUS,1492,124,Stary Strzeszyn,Safony,00:57,15:57,wtorek,"0,950","15,00",0,AUTOBUS
-887,AUTOBUS,1865,159,Jasna,Poznan Glowny,01:41,15:57,wtorek,"1,683","15,00",1,AUTOBUS
-888,AUTOBUS,1644,173,Urwista,Janikowo,-00:13,15:57,wtorek,"-0,217","15,00",0,AUTOBUS
-889,AUTOBUS,1843,173,Rynek Wschodni,Rondo Srodka,04:50,15:57,wtorek,"4,833","15,00",4,AUTOBUS
-890,AUTOBUS,1651,162,Rodawska,Rondo Srodka,00:56,15:57,wtorek,"0,933","15,00",0,AUTOBUS
-891,AUTOBUS,1403,189,Warowna,Staroleka PKM,01:12,15:57,wtorek,"1,200","15,00",1,AUTOBUS
-892,AUTOBUS,1408,189,Rondo Minikowo,Staroleka PKM,00:06,15:57,wtorek,"0,100","15,00",0,AUTOBUS
-893,AUTOBUS,1762,194,Radomska,Unii Lubelskiej,-00:42,15:57,wtorek,"-0,700","15,00",0,AUTOBUS
-894,AUTOBUS,1766,194,Zaklikowska,Staroleka PKM,01:18,15:57,wtorek,"1,300","15,00",1,AUTOBUS
-895,AUTOBUS,1823,158,Klimontowska,Sypniewo,-00:23,15:57,wtorek,"-0,383","15,00",0,AUTOBUS
-896,AUTOBUS,1882,158,Klimontowska,Staroleka PKM,01:31,15:57,wtorek,"1,517","15,00",1,AUTOBUS
-897,TRAMWAJ,538,13,Pl.Bernardynski,Aleje Marcinkowskiego,06:40,15:58,wtorek,"6,667","15,00",6,SOLARIS
-898,TRAMWAJ,521,13,Most Sw.Rocha,Staroleka PKM,05:47,15:58,wtorek,"5,783","15,00",5,SOLARIS
-899,TRAMWAJ,502,9,Aleje Marcinkowskiego,Aleje Marcinkowskiego,02:08,15:58,wtorek,"2,133","15,00",2,SIEMENS
-900,TRAMWAJ,534,13,Wroclawska,Staroleka PKM,00:58,15:58,wtorek,"0,967","15,00",0,SOLARIS
-901,TRAMWAJ,112,8,Pl.Wielkopolski,Milostowo,05:03,15:58,wtorek,"5,050","15,00",5,KONSTAL
-902,TRAMWAJ,446,8,Pl.Wielkopolski,Gorczyn PKM,00:37,15:58,wtorek,"0,617","15,00",0,MODERTRANS
-903,AUTOBUS,1476,156,Kolobrzeska,Ogrody,00:52,15:58,wtorek,"0,867","15,00",0,AUTOBUS
-904,AUTOBUS,1405,121,Piekna,Ogrody,-00:20,16:01,wtorek,"-0,333","16,00",0,AUTOBUS
-905,AUTOBUS,1480,186,Buzanska,Kiekrz,01:30,16:01,wtorek,"1,500","16,00",1,AUTOBUS
-906,AUTOBUS,1115,186,Ogrody,Ogrody,02:14,16:01,wtorek,"2,233","16,00",2,AUTOBUS
-907,AUTOBUS,1124,170,Wrzoska Szpitale,Polabska,01:03,16:01,wtorek,"1,050","16,00",1,AUTOBUS
-908,TRAMWAJ,912,16,Lechicka Poznan Plaza,Aleje Marcinkowskiego,00:02,16:04,wtorek,"0,033","16,00",0,MODERTRANS
-909,AUTOBUS,1401,180,Sycowska II,Gorczyn PKM,01:53,16:07,wtorek,"1,883","16,00",1,AUTOBUS
-910,AUTOBUS,1480,186,Kolobrzeska,Kiekrz,01:10,16:07,wtorek,"1,167","16,00",1,AUTOBUS
-911,AUTOBUS,1457,186,Stobnicka,Ogrody,00:20,16:07,wtorek,"0,333","16,00",0,AUTOBUS
-912,AUTOBUS,1757,188,Jaskowiaka,Os.Sobieskiego,00:07,16:07,wtorek,"0,117","16,00",0,AUTOBUS
-913,TRAMWAJ,552,14,Os.Sobieskiego,Os.Sobieskiego,00:27,16:08,wtorek,"0,450","16,00",0,SOLARIS
-914,AUTOBUS,9116,902,Szeligowskiego,Suchy Las/Teren Aktywnej Edukacji i Sportu,02:49,16:08,wtorek,"2,817","16,00",2,AUTOBUS
-915,TRAMWAJ,416,17,Fredry,Zawady,-00:22,19:05,piatek,"-0,367","19,00",0,MODERTRANS
-916,TRAMWAJ,930,3,Most Teatralny,Franowo,00:27,19:05,piatek,"0,450","19,00",0,MODERTRANS
-917,TRAMWAJ,441,12,Most Teatralny,Staroleka PKM,00:36,19:05,piatek,"0,600","19,00",0,MODERTRANS
-852,AUTOBUS,1453,168,Urzad Marszalkowski,Strzeszyn PKM,-00:32,15:26,wtorek,"-0,533","15,00",0,AUTOBUS
-919,AUTOBUS,1278,182,Maczka,Os.Wichrowe Wzgorze,02:29,19:05,piatek,"2,483","19,00",2,AUTOBUS
-920,AUTOBUS,1258,164,Slaska,Kacza,00:01,19:05,piatek,"0,017","19,00",0,AUTOBUS
-921,AUTOBUS,1251,164,Uniwersytet Przyrodniczy,Puszkina,02:10,19:05,piatek,"2,167","19,00",2,AUTOBUS
-922,TRAMWAJ,431,11,Solacz,Unii Lubelskiej,00:23,19:05,piatek,"0,383","19,00",0,MODERTRANS
-923,AUTOBUS,1202,193,Witosa Kladka,Gorczyn PKM,01:04,19:05,piatek,"1,067","19,00",1,AUTOBUS
-924,AUTOBUS,1863,170,Dojazd Biocentrum,Puszkina,-00:47,19:05,piatek,"-0,783","19,00",0,AUTOBUS
-925,TRAMWAJ,526,15,Aleje Solidarnosci,Budziszynska,-00:20,19:06,piatek,"-0,333","19,00",0,SOLARIS
-926,TRAMWAJ,310,12,Kurpinskiego,Staroleka PKM,-00:10,19:06,piatek,"-0,167","19,00",0,KONSTAL
-927,AUTOBUS,1701,169,Naramowice,Os.Kopernika,02:52,19:06,piatek,"2,867","19,00",2,AUTOBUS
-928,AUTOBUS,1846,182,Rondo Solidarnosci,Gorczyn PKM,00:48,19:06,piatek,"0,800","19,00",0,AUTOBUS
-929,AUTOBUS,1626,183,Polabska,Szarych Szeregow,01:02,19:06,piatek,"1,033","19,00",1,AUTOBUS
-930,AUTOBUS,1651,174,Male Garbary,Unii Lubelskiej,03:13,19:06,piatek,"3,217","19,00",3,AUTOBUS
-931,AUTOBUS,1833,163,Garbary PKM,Garbary PKM,00:54,19:06,piatek,"0,900","19,00",0,AUTOBUS
-932,TRAMWAJ,446,8,Male Garbary,Milostowo,00:31:09,19:06,piatek,"0,517","19,00",0,MODERTRANS
-933,TRAMWAJ,336,7,Katedra,Staroleka PKM,00:18,19:06,piatek,"0,300","19,00",0,MODERTRANS
-934,TRAMWAJ,427,8,Pl.Ratajskiego,Gorczyn PKM,00:52:00,19:06,piatek,"0,867","19,00",0,MODERTRANS
-935,TRAMWAJ,418,8,Pl.Wielkopolski,Milostowo,01:40,19:06,piatek,"1,667","19,00",1,MODERTRANS
-936,TRAMWAJ,416,17,Pl.Ratajskiego,Zawady,-00:46,19:06,piatek,"-0,767","19,00",0,MODERTRANS
-713,AUTOBUS,1637,168,Slowianska,Strzeszyn PKM,-00:35,17:54,sobota,"-0,583","17,00",0,AUTOBUS
-938,TRAMWAJ,88,11,Most Dworcowy,Piatkowska,01:27,19:07,piatek,"1,450","19,00",1,MODERTRANS
-939,TRAMWAJ,918,14,Rynek Lazarski,Franowo,-00:27,19:07,piatek,"-0,450","19,00",0,MODERTRANS
-940,TRAMWAJ,455,14,Rynek Lazarski,Os.Sobieskiego,00:13,19:07,piatek,"0,217","19,00",0,MODERTRANS
-941,TRAMWAJ,519,14,Krauthofera,Gorczyn PKM,02:25,19:07,piatek,"2,417","19,00",2,SOLARIS
-942,TRAMWAJ,206,15,Glogowska/Hetmanska,Glogowska/Hetmanska,03:30,19:07,piatek,"3,500","19,00",3,KONSTAL
-943,TRAMWAJ,421,8,Sielska,Gorczyn PKM,01:36,19:07,piatek,"1,600","19,00",1,MODERTRANS
-944,TRAMWAJ,234,5,Gorczyn PKM,Gorczyn PKM,04:41,19:07,piatek,"4,683","19,00",4,MODERTRANS
-945,AUTOBUS,1842,182,Palacza,Gorczyn PKM,-00:09,19:07,piatek,"-0,150","19,00",0,AUTOBUS
-946,AUTOBUS,1279,164,Sciegiennego,Kacza,06:00,19:07,piatek,"6,000","19,00",6,AUTOBUS
-947,TRAMWAJ,410,1,Drzewieckiego,Junikowo,02:09,19:07,piatek,"2,150","19,00",2,TATRA
-948,AUTOBUS,1462,145,Stadion Miejski,Kacza,-00:26,19:07,piatek,"-0,433","19,00",0,AUTOBUS
-949,AUTOBUS,1903,159,Bulgarska/Polska,Port Lotniczy Lawica,00:01,19:07,piatek,"0,017","19,00",0,AUTOBUS
-950,TRAMWAJ,198,17,Os.Rzeczypospolitej,Staroleka PKM,08:59,19:07,piatek,"8,983","19,00",8,MODERTRANS
-951,TRAMWAJ,434,2,Os.Rzeczypospolitej,Staroleka PKM,07:04,19:07,piatek,"7,067","19,00",7,MODERTRANS
-952,TRAMWAJ,604,7,Os.Piastowskie,Ogrody,13:46,19:07,piatek,"13,767","19,00",13,MODERTRANS
-953,TRAMWAJ,544,13,Os.Piastowskie,Staroleka PKM,08:09,19:07,piatek,"8,150","19,00",8,SOLARIS
-954,TRAMWAJ,453,5,Os.Piastowskie,Unii Lubelskiej,12:13,19:07,piatek,"12,217","19,00",12,MODERTRANS
-955,TRAMWAJ,503,12,Rondo Rataje,Os.Sobieskiego,00:25,19:08,piatek,"0,417","19,00",0,SIEMENS
-956,TRAMWAJ,312,6,Os.Piastowskie,Staroleka PKM,04:20,19:08,piatek,"4,333","19,00",4,KONSTAL
-957,TRAMWAJ,541,13,Wioslarska,Franowo,05:58,19:08,piatek,"5,967","19,00",5,SOLARIS
-958,TRAMWAJ,314,15,Wioslarska,Staroleka PKM,09:10,19:08,piatek,"9,167","19,00",9,KONSTAL
-959,TRAMWAJ,934,10,Wioslarska,Franowo,-04:38,19:08,piatek,"-4,633","19,00",-4,MODERTRANS
-960,TRAMWAJ,611,6,Wioslarska,Franowo,04:44,19:08,piatek,"4,733","19,00",4,MODERTRANS
-961,TRAMWAJ,625,7,Rondo Rataje,Polabska,05:42,19:08,piatek,"5,700","19,00",5,MODERTRANS
-962,AUTOBUS,1668,152,Rondo Rataje,Darzybor,04:55,19:08,piatek,"4,917","19,00",4,AUTOBUS
-963,TRAMWAJ,174,12,Rondo Rataje,Staroleka PKM,04:22,19:08,piatek,"4,367","19,00",4,KONSTAL
-964,TRAMWAJ,550,13,Rondo Rataje,Staroleka PKM,02:39,19:08,piatek,"2,650","19,00",2,SOLARIS
-965,TRAMWAJ,548,12,Rondo Rataje,Franowo,-00:22,19:08,piatek,"-0,367","19,00",0,SOLARIS
-966,AUTOBUS,1660,162,Rondo Rataje,Rondo Rataje,00:08,19:08,piatek,"0,133","19,00",0,AUTOBUS
-967,TRAMWAJ,619,7,Rondo Rataje,Ogrody,02:08,19:08,piatek,"2,133","19,00",2,MODERTRANS
-968,TRAMWAJ,510,13,Politechnika,Aleje Marcinkowskiego,01:08,19:08,piatek,"1,133","19,00",1,SIEMENS
-969,TRAMWAJ,533,6,Rondo Srodka,Junikowo,-00:44,19:08,piatek,"-0,733","19,00",0,SOLARIS
-970,TRAMWAJ,185,1683,Zawady,Rondo Srodka,01:44,19:08,piatek,"1,733","19,00",1,MODERTRANS
-971,AUTOBUS,1859,178,Hlonda,Szarych Szeregow,04:06,19:08,piatek,"4,100","19,00",4,AUTOBUS
-972,AUTOBUS,1691,185,Glowna,Os.Sobieskiego,01:39,19:08,piatek,"1,650","19,00",1,AUTOBUS
-973,AUTOBUS,1680,173,Gnieznienska,Janikowo,01:58,19:08,piatek,"1,967","19,00",1,AUTOBUS
-974,TRAMWAJ,607,18,Os.Czecha,Ogrody,00:26,19:09,piatek,"0,433","19,00",0,MODERTRANS
-975,AUTOBUS,1658,181,Blizniat,Rondo Rataje,00:59,19:09,piatek,"0,983","19,00",0,AUTOBUS
-976,AUTOBUS,1661,181,Dymka,Krzywoustego,-00:28,19:09,piatek,"-0,467","19,00",0,AUTOBUS
-977,AUTOBUS,4316,435,Torowa Wiadukt,Tulce/Kosciol,00:09,19:09,piatek,"0,150","19,00",0,AUTOBUS
-978,AUTOBUS,1769,152,Inflancka,Rondo Rataje,01:46,19:09,piatek,"1,767","19,00",1,AUTOBUS
-979,AUTOBUS,1672,166,Os.Oswiecenia,Rondo Rataje,05:01,19:09,piatek,"5,017","19,00",5,AUTOBUS
-980,AUTOBUS,1633,154,Rondo Rataje,Rondo Rataje,00:27,19:09,piatek,"0,450","19,00",0,AUTOBUS
-981,TRAMWAJ,609,18,Rondo Rataje,Franowo,01:19,19:09,piatek,"1,317","19,00",1,MODERTRANS
-982,AUTOBUS,1908,190,Os.Jagiellonskie,Bobrzanska,02:10,19:09,piatek,"2,167","19,00",2,AUTOBUS
-983,AUTOBUS,1637,154,Rondo Rataje,Splawie,00:12,19:09,piatek,"0,200","19,00",0,AUTOBUS
-984,AUTOBUS,1712,174,Os.Armii Krajowej,Unii Lubelskiej,02:11,19:09,piatek,"2,183","19,00",2,AUTOBUS
-985,TRAMWAJ,502,13,Os.Rzeczypospolitej,Aleje Marcinkowskiego,00:26,19:09,piatek,"0,433","19,00",0,SIEMENS
-986,TRAMWAJ,140,1,Rondo Staroleka,Staroleka PKM,02:21,19:09,piatek,"2,350","19,00",2,MODERTRANS
-987,TRAMWAJ,538,13,Staroleka Mala,Franowo,00:29,19:09,piatek,"0,483","19,00",0,SOLARIS
-988,AUTOBUS,4302,432,Os.Lecha I,Rondo Rataje,04:25,19:10,piatek,"4,417","19,00",4,AUTOBUS
-989,AUTOBUS,5012,512,Sanocka,Zerniki/Wies,02:26,19:10,piatek,"2,433","19,00",2,AUTOBUS
-990,AUTOBUS,1646,196,Pokrzywno,Rondo Rataje,00:35,19:10,piatek,"0,583","19,00",0,AUTOBUS
-991,TRAMWAJ,933,3,Rondo Nowaka-Jezioranskiego,Blazeja,00:16,19:10,piatek,"0,267","19,00",0,MODERTRANS
-992,TRAMWAJ,931,3,Grochowska,Budziszynska,01:06,19:10,piatek,"1,100","19,00",1,MODERTRANS
-993,AUTOBUS,1878,182,Brzask,Os.Wichrowe Wzgorze,01:04,19:10,piatek,"1,067","19,00",1,AUTOBUS
-994,AUTOBUS,1479,191,Bulgarska/Polska,Os.Kopernika,-01:07,19:10,piatek,"-1,117","19,00",-1,AUTOBUS
-995,AUTOBUS,1275,182,Szpitalna,Gorczyn PKM,00:36,19:10,piatek,"0,600","19,00",0,AUTOBUS
-996,AUTOBUS,1457,156,Ogrody,Krzyzowniki,00:13,19:10,piatek,"0,217","19,00",0,AUTOBUS
-997,AUTOBUS,1863,170,Golecinska,Puszkina,-00:45,19:10,piatek,"-0,750","19,00",0,AUTOBUS
-998,AUTOBUS,1252,164,Golecinska,Puszkina,02:07,19:10,piatek,"2,117","19,00",2,AUTOBUS
-999,AUTOBUS,8318,837,Kontryma,Ogrody,01:19,19:10,piatek,"1,317","19,00",1,AUTOBUS
-1000,AUTOBUS,1503,160,Strzeszyn PKM,Stary Strzeszyn,02:29,19:11,piatek,"2,483","19,00",2,AUTOBUS
-1001,AUTOBUS,1856,167,Lopianowa,Radojewo,04:21,19:11,piatek,"4,350","19,00",4,AUTOBUS
-1002,AUTOBUS,1020,193,Wiedenska,Os.Sobieskiego,00:53,19:11,piatek,"0,883","19,00",0,AUTOBUS
-1003,AUTOBUS,1627,178,Hulewiczow,Rondo Srodka,00:29,19:11,piatek,"0,483","19,00",0,AUTOBUS
-1004,AUTOBUS,1849,185,Szymanowskiego,Rondo Srodka,03:52,19:11,piatek,"3,867","19,00",3,AUTOBUS
-1005,AUTOBUS,1017,169,Szymanowskiego,Rondo Srodka,00:08,19:11,piatek,"0,133","19,00",0,AUTOBUS
-1006,AUTOBUS,9104,902,Os.Marysienki,Suchy Las/Teren Aktywnej Edukacji i Sportu,01:58,19:11,piatek,"1,967","19,00",1,AUTOBUS
-1007,AUTOBUS,1876,190,Os.Jagielly,Bobrzanska,00:14,19:11,piatek,"0,233","19,00",0,AUTOBUS
-1008,TRAMWAJ,913,16,Szymanowskiego,Aleje Marcinkowskiego,00:09,19:11,piatek,"0,150","19,00",0,MODERTRANS
-1009,TRAMWAJ,522,14,Aleje Solidarnosci,Gorczyn PKM,00:14,19:11,piatek,"0,233","19,00",0,SOLARIS
-1010,TRAMWAJ,413,5,Gorczyn PKM,Gorczyn PKM,03:26,21:00,piatek,"3,433","21,00",3,TATRA
-1011,AUTOBUS,1276,182,Gorczyn PKM,Gorczyn PKM,-00:10,21:00,piatek,"-0,167","21,00",0,AUTOBUS
-1012,TRAMWAJ,427,8,Sielska,Gorczyn PKM,22:24,21:00,piatek,"1,600","21,00",1,MODERTRANS
-1013,TRAMWAJ,620,7,Arciszewskiego,Ogrody,-01:46,21:00,piatek,"-1,767","21,00",-1,MODERTRANS
-1014,TRAMWAJ,432,11,Glogowska/Hetmanska,Unii Lubelskiej,00:04,21:00,piatek,"0,067","21,00",0,MODERTRANS
-1015,AUTOBUS,1005,179,Dmowskiego,Debiec PKM,-00:29,21:00,piatek,"-0,483","21,00",0,AUTOBUS
-1016,TRAMWAJ,552,14,Rynek Lazarski,Gorczyn PKM,-00:35,21:01,piatek,"-0,583","21,00",0,SOLARIS
-1017,TRAMWAJ,542,6,Baltyk,Milostowo,-00:36,21:01,piatek,"-0,600","21,00",0,SOLARIS
-1018,AUTOBUS,1257,164,Uniwersytet Przyrodniczy,Puszkina,04:39,21:01,piatek,"4,650","21,00",4,AUTOBUS
-1019,TRAMWAJ,422,11,Bonin,Piatkowska,02:21,21:01,piatek,"2,350","21,00",2,MODERTRANS
-1020,AUTOBUS,1287,190,Slowianska,Bobrzanska,-00:07,21:01,piatek,"-0,117","21,00",0,AUTOBUS
-1021,AUTOBUS,1002,160,Garbary PKM,Garbary PKM,07:12,21:01,piatek,"7,200","21,00",7,AUTOBUS
-1022,TRAMWAJ,551,6,Rondo Srodka,Milostowo,02:02,21:01,piatek,"2,033","21,00",2,SOLARIS
-1023,AUTOBUS,1663,184,Rondo Srodka,Termy Maltanskie,06:50,21:01,piatek,"6,833","21,00",6,AUTOBUS
-1024,TRAMWAJ,510,13,Politechnika,Aleje Marcinkowskiego,-00:13,21:01,piatek,"-0,217","21,00",0,SIEMENS
-1025,AUTOBUS,1669,152,Rondo Rataje,Darzybor,00:23,21:01,piatek,"0,383","21,00",0,AUTOBUS
-1026,AUTOBUS,1854,190,Rondo Rataje,Os.Sobieskiego,02:02,21:01,piatek,"2,033","21,00",2,AUTOBUS
-1027,TRAMWAJ,627,7,Rondo Rataje,Polabska,-01:08,21:01,piatek,"-1,133","21,00",-1,MODERTRANS
-1028,AUTOBUS,1646,162,Rondo Rataje,Rondo Rataje,01:03,21:01,piatek,"1,050","21,00",1,AUTOBUS
-1029,TRAMWAJ,526,12,Os.Piastowskie,Staroleka PKM,-00:55,21:01,piatek,"-0,917","21,00",0,SOLARIS
-1030,TRAMWAJ,603,6,Polwiejska,Junikowo,02:11,21:01,piatek,"2,183","21,00",2,MODERTRANS
-1031,TRAMWAJ,612,18,Serafitek,Franowo,-01:35,21:01,piatek,"-1,583","21,00",-1,MODERTRANS
-1032,TRAMWAJ,507,9,HCP,Debiec PKM,02:25,21:01,piatek,"2,417","21,00",2,SIEMENS
-1033,AUTOBUS,1705,174,Os.Bohaterow II Wojny Swiatowej,Unii Lubelskiej,02:55,21:02,piatek,"2,917","21,00",2,AUTOBUS
-1034,TRAMWAJ,521,14,Rondo Staroleka,Gorczyn PKM,01:22,21:02,piatek,"1,367","21,00",1,SOLARIS
-1035,TRAMWAJ,400,1,Rondo Staroleka,Franowo,-00:22,21:02,piatek,"-0,367","21,00",0,TATRA
-1036,TRAMWAJ,558,12,Rondo Staroleka,Os.Sobieskiego,-00:33,21:02,piatek,"-0,550","21,00",0,SOLARIS
-1037,AUTOBUS,1772,194,Staroleka PKM,Staroleka PKM,-01:17,21:02,piatek,"-1,283","21,00",-1,AUTOBUS
-1038,AUTOBUS,1886,158,Zeglarska,Sypniewo,00:02,21:02,piatek,"0,033","21,00",0,AUTOBUS
-1039,AUTOBUS,1502,194,Radomska,Unii Lubelskiej,-00:22,21:02,piatek,"-0,367","21,00",0,AUTOBUS
-1040,AUTOBUS,1402,189,Rondo Minikowo,Staroleka PKM,01:23,21:02,piatek,"1,383","21,00",1,AUTOBUS
-1041,AUTOBUS,1401,189,Forteczna,Staroleka PKM,01:47,21:02,piatek,"1,783","21,00",1,AUTOBUS
-1042,AUTOBUS,1656,181,Os.Tysiaclecia,Krzywoustego,00:57,21:02,piatek,"0,950","21,00",0,AUTOBUS
-1043,TRAMWAJ,933,3,Zniwna,Blazeja,01:10,21:02,piatek,"1,167","21,00",1,MODERTRANS
-1044,TRAMWAJ,927,10,Armii Poznan,Debiec PKM,-00:27,21:02,piatek,"-0,450","21,00",0,MODERTRANS
-1045,TRAMWAJ,917,16,Aleje Solidarnosci,Os.Sobieskiego,00:18,21:02,piatek,"0,300","21,00",0,MODERTRANS
-1046,TRAMWAJ,549,12,Most Teatralny,Staroleka PKM,00:04,21:02,piatek,"0,067","21,00",0,SOLARIS
-1047,AUTOBUS,1888,171,Slowianska,Os.Wichrowe Wzgorze,-01:42,21:02,piatek,"-1,700","21,00",-1,AUTOBUS
-1048,AUTOBUS,1287,190,Ozimina,Bobrzanska,-00:38,21:02,piatek,"-0,633","21,00",0,AUTOBUS
-918,AUTOBUS,1866,168,Urbanowska,Poznan Glowny,-01:14,19:05,piatek,"-1,233","19,00",-1,AUTOBUS
-1050,AUTOBUS,1015,193,Os.Winiary,Gorczyn PKM,00:56,21:03,piatek,"0,933","21,00",0,AUTOBUS
-1051,TRAMWAJ,422,11,Os.Winiary,Piatkowska,02:23,21:03,piatek,"2,383","21,00",2,MODERTRANS
-1052,AUTOBUS,1481,146,Kurpinskiego,Boranta,02:12,21:03,piatek,"2,200","21,00",2,AUTOBUS
-1053,AUTOBUS,1014,169,Kurpinskiego,Os.Kopernika,02:57,21:03,piatek,"2,950","21,00",2,AUTOBUS
-1054,TRAMWAJ,519,14,Szymanowskiego,Os.Sobieskiego,02:38,21:03,piatek,"2,633","21,00",2,SOLARIS
-1055,TRAMWAJ,434,15,Szymanowskiego,Budziszynska,-00:10,21:03,piatek,"-0,167","21,00",0,MODERTRANS
-1056,AUTOBUS,1648,185,Szeligowskiego,Rondo Srodka,01:02,21:03,piatek,"1,033","21,00",1,AUTOBUS
-1057,AUTOBUS,1919,198,UAM Kampus,Os.Sobieskiego,01:21,21:03,piatek,"1,350","21,00",1,AUTOBUS
-1058,AUTOBUS,1655,178,Legowskiego Wiadukt,Szarych Szeregow,04:59,21:03,piatek,"4,983","21,00",4,AUTOBUS
-1059,AUTOBUS,1647,183,Bialczanska,Rondo Srodka,00:40,21:03,piatek,"0,667","21,00",0,AUTOBUS
-637,AUTOBUS,1878,168,Rondo Kaponiera,Poznan Glowny,-01:51,07:44,piatek,"-1,850","7,00",-1,AUTOBUS
-1061,AUTOBUS,1503,160,Kosowska,Garbary PKM,00:09,21:03,piatek,"0,150","21,00",0,AUTOBUS
-1062,AUTOBUS,1258,164,Hezjoda,Kacza,00:24,21:03,piatek,"0,400","21,00",0,AUTOBUS
-1063,AUTOBUS,8318,837,Literacka,Ogrody,01:59,21:03,piatek,"1,983","21,00",1,AUTOBUS
-1064,AUTOBUS,8316,834,Buzanska,Zydowo/Petla,01:20,21:03,piatek,"1,333","21,00",1,AUTOBUS
-1065,AUTOBUS,1835,169,Opalenicka,Urzad Wojewodzki,01:06,21:03,piatek,"1,100","21,00",1,AUTOBUS
-1066,TRAMWAJ,555,15,Grochowska,Budziszynska,02:20,21:03,piatek,"2,333","21,00",2,SOLARIS
-1067,TRAMWAJ,410,1,Grochowska,Junikowo,00:11,21:03,piatek,"0,183","21,00",0,TATRA
-1068,TRAMWAJ,614,7,Arciszewskiego,Polabska,-01:27,21:03,piatek,"-1,450","21,00",-1,MODERTRANS
-1069,AUTOBUS,1020,193,Kordeckiego,Os.Sobieskiego,-00:15,21:04,piatek,"-0,250","21,00",0,AUTOBUS
-1070,AUTOBUS,6064,614,Cieszynska,Lubon/Kreta,05:07,21:04,piatek,"5,117","21,00",5,AUTOBUS
-1071,AUTOBUS,1492,149,Jesionowa,Gorczyn PKM,00:28,21:04,piatek,"0,467","21,00",0,AUTOBUS
-1072,TRAMWAJ,416,2,Sw.Czeslawa,Ogrody,-00:24,21:04,piatek,"-0,400","21,00",0,MODERTRANS
-1073,TRAMWAJ,507,9,Wspolna,Debiec PKM,03:46,21:04,piatek,"3,767","21,00",3,SIEMENS
-1074,TRAMWAJ,433,8,Pl.Wielkopolski,Gorczyn PKM,-00:28,21:04,piatek,"-0,467","21,00",0,MODERTRANS
-1075,TRAMWAJ,936,3,Wlodarska,Budziszynska,00:17,21:04,piatek,"0,283","21,00",0,MODERTRANS
-1076,TRAMWAJ,936,3,Wielkopolska,Blazeja,03:55,22:21,piatek,"3,917","22,00",3,MODERTRANS
+1,TRAMWAJ,423,17,Fredry,Zawady,01:59,14:43,sroda,1.983,14.00,1,MODERTRANS
+2,TRAMWAJ,264,8,Most Teatralny,Gorczyn PKM,00:37,14:44,sroda,0.617,14.00,0,KONSTAL
+3,TRAMWAJ,620,6,Most Dworcowy,Milostowo,-00:51,14:44,sroda,-0.850,14.00,0,MODERTRANS
+4,TRAMWAJ,542,12,Poznan Glowny,Staroleka PKM,00:44,14:45,sroda,0.733,14.00,0,SOLARIS
+5,TRAMWAJ,918,10,Wierzbiecice,Debiec PKM,01:59,14:45,sroda,1.983,14.00,1,MODERTRANS
+6,TRAMWAJ,162,6,Most Dworcowy,Junikowo,01:59,14:46,sroda,1.983,14.00,1,KONSTAL
+7,TRAMWAJ,550,12,AWF,Os.Sobieskiego,03:58,14:46,sroda,3.967,14.00,3,SOLARIS
+8,TRAMWAJ,558,9,Lakowa,Debiec PKM,00:54,14:46,sroda,0.900,14.00,0,SOLARIS
+9,TRAMWAJ,226,7,Rondo Rataje,Polabska,03:23,14:47,sroda,3.383,14.00,3,MODERTRANS
+10,TRAMWAJ,290,5,Rondo Rataje,Unii Lubelskiej,-00:29,14:47,sroda,-0.483,14.00,0,KONSTAL
+11,TRAMWAJ,553,6,Rondo Rataje,Junikowo,03:01,14:47,sroda,3.017,14.00,3,SOLARIS
+12,TRAMWAJ,428,8,Rondo Srodka,Milostowo,-00:16,14:48,sroda,-0.267,14.00,0,MODERTRANS
+13,TRAMWAJ,545,13,Kornicka,Staroleka PKM,01:53,14:48,sroda,1.883,14.00,1,SOLARIS
+14,TRAMWAJ,436,5,Wagrowska,Unii Lubelskiej,02:20,14:49,sroda,2.333,14.00,2,MODERTRANS
+15,TRAMWAJ,441,1,Zegrze III,Franowo,12:45,14:49,sroda,12.750,14.00,12,MODERTRANS
+16,TRAMWAJ,424,11,Unii Lubelskiej,Unii Lubelskiej,03:23,14:50,sroda,3.383,14.00,3,MODERTRANS
+17,TRAMWAJ,555,13,Rondo Staroleka,Staroleka PKM,06:01,14:50,sroda,6.017,14.00,6,SOLARIS
+18,TRAMWAJ,218,2,Rynek Wildecki,Ogrody,00:51,14:51,sroda,0.850,14.00,0,MODERTRANS
+19,TRAMWAJ,402,1,Hetmanska Wiadukt,Franowo,02:02,14:51,sroda,2.033,14.00,2,TATRA
+20,AUTOBUS,1018,176,Krzyzowa,Garbary PKM,01:00,14:51,sroda,1.000,14.00,1,AUTOBUS
+21,TRAMWAJ,616,7,Rolna,Polabska,-00:14,14:52,sroda,-0.233,14.00,0,MODERTRANS
+22,TRAMWAJ,918,10,Pamiatkowa,Debiec PKM,02:28,14:52,sroda,2.467,14.00,2,MODERTRANS
+23,TRAMWAJ,264,8,Glogowska/Hetmanska,Gorczyn PKM,01:06,14:53,sroda,1.100,14.00,1,KONSTAL
+24,TRAMWAJ,522,9,Traugutta,Aleje Marcinkowskiego,-00:20,14:53,sroda,-0.333,14.00,0,SOLARIS
+25,AUTOBUS,1907,171,Robocza,Os.Wichrowe Wzgorze,04:02,14:53,sroda,4.033,14.00,4,AUTOBUS
+26,TRAMWAJ,925,3,Rondo Nowaka-Jezioranskiego,Blazeja,-01:02,14:54,sroda,-1.033,14.00,-1,MODERTRANS
+27,AUTOBUS,1503,169,Opalenicka,Os.Sobieskiego,-00:13,14:54,sroda,-0.217,14.00,0,AUTOBUS
+28,AUTOBUS,1253,159,Swoboda,Port Lotniczy Lawica,-00:52,14:55,sroda,-0.867,14.00,0,AUTOBUS
+29,AUTOBUS,1639,169,Opalenicka,Os.Kopernika,00:41,14:55,sroda,0.683,14.00,0,AUTOBUS
+30,TRAMWAJ,224,18,Zeromskiego,Ogrody,09:52,14:56,sroda,9.867,14.00,9,MODERTRANS
+31,AUTOBUS,1829,191,Szpitalna,Os.Kopernika,01:15,14:56,sroda,1.250,14.00,1,AUTOBUS
+32,AUTOBUS,7015,729,Swoboda,Dopiewo/Dworzec Kolejowy,00:19,14:56,sroda,0.317,14.00,0,AUTOBUS
+33,TRAMWAJ,432,2,Zeromskiego,Ogrody,-00:46,14:57,sroda,-0.767,14.00,0,MODERTRANS
+34,TRAMWAJ,612,18,Rynek Jezycki,Ogrody,04:54,14:57,sroda,4.900,14.00,4,MODERTRANS
+35,TRAMWAJ,927,7,Zeromskiego,Ogrody,01:07,14:57,sroda,1.117,14.00,1,MODERTRANS
+36,TRAMWAJ,609,7,Most Teatralny,Polabska,08:35,14:58,sroda,8.583,14.00,8,MODERTRANS
+37,TRAMWAJ,938,10,Most Teatralny,Debiec PKM,00:43,14:58,sroda,0.717,14.00,0,MODERTRANS
+38,TRAMWAJ,228,11,Wielkopolska,Unii Lubelskiej,00:42,14:59,sroda,0.700,14.00,0,MODERTRANS
+39,TRAMWAJ,519,15,Most Teatralny,Budziszynska,01:41,14:59,sroda,1.683,14.00,1,SOLARIS
+40,TRAMWAJ,917,16,Most Teatralny,Aleje Marcinkowskiego,-01:28,14:59,sroda,-1.467,14.00,-1,MODERTRANS
+41,TRAMWAJ,933,10,Wielkopolska,Blazeja,01:51,14:59,sroda,1.850,14.00,1,MODERTRANS
+42,TRAMWAJ,459,7,Wielkopolska,Ogrody,00:09,15:00,sroda,0.150,15.00,0,MODERTRANS
+65,AUTOBUS,1452,168,Zamek,Poznan Glowny,06:14,15:08,sroda,6.233,15.00,6,AUTOBUS
+44,TRAMWAJ,538,14,Most Teatralny,Gorczyn PKM,-00:15,15:01,sroda,-0.250,15.00,0,SOLARIS
+45,AUTOBUS,1258,182,Slaska,Gorczyn PKM,02:03,15:01,sroda,2.050,15.00,2,AUTOBUS
+46,AUTOBUS,1643,160,Klin,Garbary PKM,-00:40,15:01,sroda,-0.667,15.00,0,AUTOBUS
+47,TRAMWAJ,430,2,Stare Zoo,Debiec PKM,00:49,15:02,sroda,0.817,15.00,0,MODERTRANS
+48,AUTOBUS,1257,164,Jezycka,Puszkina,00:02,15:02,sroda,0.033,15.00,0,AUTOBUS
+49,TRAMWAJ,168,15,Baltyk,Os.Sobieskiego,00:26,15:03,sroda,0.433,15.00,0,MODERTRANS
+50,TRAMWAJ,546,12,Poznan Glowny,Staroleka PKM,-00:22,15:03,sroda,-0.367,15.00,0,SOLARIS
+51,AUTOBUS,1002,145,Dworzec Zachodni,Dworzec Zachodni,00:03,15:03,sroda,0.050,15.00,0,AUTOBUS
+52,TRAMWAJ,128,7,Arciszewskiego,Ogrody,07:55,15:04,sroda,7.917,15.00,7,KONSTAL
+53,TRAMWAJ,421,11,Glogowska/Hetmanska,Unii Lubelskiej,02:13,15:04,sroda,2.217,15.00,2,MODERTRANS
+54,TRAMWAJ,530,5,Krauthofera,Gorczyn PKM,06:03,15:04,sroda,6.050,15.00,6,SOLARIS
+55,TRAMWAJ,431,8,Rynek Lazarski,Gorczyn PKM,03:44,15:05,sroda,3.733,15.00,3,MODERTRANS
+56,TRAMWAJ,553,6,Wojskowa,Junikowo,06:16,15:05,sroda,6.267,15.00,6,SOLARIS
+57,AUTOBUS,1289,164,Wyspianskiego,Puszkina,00:13,15:05,sroda,0.217,15.00,0,AUTOBUS
+58,TRAMWAJ,218,2,Rynek Jezycki,Ogrody,03:05,15:06,sroda,3.083,15.00,3,MODERTRANS
+59,TRAMWAJ,921,3,Wojskowa,Budziszynska,-00:43,15:06,sroda,-0.717,15.00,0,MODERTRANS
+60,AUTOBUS,1261,164,Matejki,Kacza,00:28,15:06,sroda,0.467,15.00,0,AUTOBUS
+61,TRAMWAJ,112,15,Matejki,Budziszynska,00:38,15:07,sroda,0.633,15.00,0,KONSTAL
+62,TRAMWAJ,916,16,Zamek,Os.Sobieskiego,01:13,15:07,sroda,1.217,15.00,1,MODERTRANS
+63,AUTOBUS,1836,163,Rondo Kaponiera,Gorczyn PKM,01:06,15:07,sroda,1.100,15.00,1,AUTOBUS
+64,TRAMWAJ,459,7,Pl.Ratajskiego,Ogrody,00:29,15:08,sroda,0.483,15.00,0,MODERTRANS
+233,AUTOBUS,1452,168,Libelta,Poznan Glowny,01:26,18:26,sroda,1.433,18.00,1,AUTOBUS
+66,TRAMWAJ,419,8,Pl.Ratajskiego,Gorczyn PKM,00:10,15:09,sroda,0.167,15.00,0,MODERTRANS
+67,TRAMWAJ,539,13,Pl.Bernardynski,Staroleka PKM,01:34,15:09,sroda,1.567,15.00,1,SOLARIS
+68,AUTOBUS,1907,171,Urzad Marszalkowski,Os.Wichrowe Wzgorze,04:26,15:09,sroda,4.433,15.00,4,AUTOBUS
+69,AUTOBUS,1858,167,Male Garbary,Rondo Srodka,01:28,15:10,sroda,1.467,15.00,1,AUTOBUS
+70,AUTOBUS,6138,603,Wielka,Garbary PKM,12:29,15:10,sroda,12.483,15.00,12,AUTOBUS
+71,TRAMWAJ,455,17,Katedra,Zawady,03:00,15:11,sroda,3.000,15.00,3,MODERTRANS
+72,AUTOBUS,1259,163,Male Garbary,Garbary PKM,00:31,15:11,sroda,0.517,15.00,0,AUTOBUS
+73,AUTOBUS,1862,190,Wielka,Os.Sobieskiego,05:08,15:11,sroda,5.133,15.00,5,AUTOBUS
+74,TRAMWAJ,505,13,Wroclawska,Aleje Marcinkowskiego,03:14,15:12,sroda,3.233,15.00,3,SIEMENS
+75,AUTOBUS,1705,174,Pl.Bernardynski,Unii Lubelskiej,01:12,15:12,sroda,1.200,15.00,1,AUTOBUS
+76,TRAMWAJ,531,6,AWF,Milostowo,00:14,15:13,sroda,0.233,15.00,0,SOLARIS
+77,AUTOBUS,1713,174,Os.Stare Zegrze,Unii Lubelskiej,01:09,15:13,sroda,1.150,15.00,1,AUTOBUS
+78,AUTOBUS,6057,603,Droga Debinska,Leczyca/Dworcowa,-00:08,15:13,sroda,-0.133,15.00,0,AUTOBUS
+79,TRAMWAJ,527,5,Os.Rzeczypospolitej,Unii Lubelskiej,02:11,15:14,sroda,2.183,15.00,2,SOLARIS
+80,AUTOBUS,1648,184,Os.Bohaterow II Wojny Swiatowej,Nowe Zoo,00:39,15:14,sroda,0.650,15.00,0,AUTOBUS
+81,TRAMWAJ,546,12,Os.Piastowskie,Staroleka PKM,-00:16,15:15,sroda,-0.267,15.00,0,SOLARIS
+82,TRAMWAJ,629,18,Wioslarska,Ogrody,02:21,15:15,sroda,2.350,15.00,2,MODERTRANS
+83,AUTOBUS,1663,181,Os.Oswiecenia,Krzywoustego,01:53,15:15,sroda,1.883,15.00,1,AUTOBUS
+84,TRAMWAJ,539,13,Rondo Rataje,Staroleka PKM,01:50,15:16,sroda,1.833,15.00,1,SOLARIS
+85,TRAMWAJ,603,7,Rondo Rataje,Ogrody,04:10,15:16,sroda,4.167,15.00,4,MODERTRANS
+86,TRAMWAJ,436,5,AWF,Gorczyn PKM,02:12,15:17,sroda,2.200,15.00,2,MODERTRANS
+87,TRAMWAJ,531,6,Rondo Rataje,Milostowo,-00:40,15:17,sroda,-0.667,15.00,0,SOLARIS
+88,AUTOBUS,1880,190,Serafitek,Bobrzanska,08:00,15:17,sroda,8.000,15.00,8,AUTOBUS
+89,TRAMWAJ,517,6,Wierzbiecice,Milostowo,-01:27,15:18,sroda,-1.450,15.00,-1,SOLARIS
+90,TRAMWAJ,522,9,Polwiejska,Debiec PKM,00:30,15:18,sroda,0.500,15.00,0,SOLARIS
+91,TRAMWAJ,917,16,Rondo Kaponiera,Os.Sobieskiego,-00:42,15:18,sroda,-0.700,15.00,0,MODERTRANS
+92,TRAMWAJ,432,17,Most Teatralny,Zawady,00:29,15:19,sroda,0.483,15.00,0,MODERTRANS
+93,AUTOBUS,1456,170,Dojazd Biocentrum,Polabska,01:48,15:19,sroda,1.800,15.00,1,AUTOBUS
+94,AUTOBUS,1846,182,Uniwersytet Przyrodniczy,Gorczyn PKM,02:19,15:19,sroda,2.317,15.00,2,AUTOBUS
+95,AUTOBUS,1257,164,Strzeszyn Grecki,Puszkina,01:17,15:20,sroda,1.283,15.00,1,AUTOBUS
+96,AUTOBUS,1461,170,Tolstoja,Puszkina,01:48,15:20,sroda,1.800,15.00,1,AUTOBUS
+97,AUTOBUS,1687,183,Truskawiecka,Szarych Szeregow,-02:21,15:20,sroda,-2.350,15.00,-2,AUTOBUS
+98,AUTOBUS,1458,146,Bialczanska,Stary Strzeszyn,-00:31,15:21,sroda,-0.517,15.00,0,AUTOBUS
+1049,AUTOBUS,1252,168,Strzeszynska,Strzeszyn PKM,01:20,21:02,piatek,1.333,21.00,1,AUTOBUS
+100,AUTOBUS,1276,190,Wiedenska,Os.Sobieskiego,10:58,15:22,sroda,10.967,15.00,10,AUTOBUS
+101,TRAMWAJ,934,3,Naramowice,Budziszynska,00:14,15:23,sroda,0.233,15.00,0,MODERTRANS
+102,AUTOBUS,1483,146,Bronisza,Stary Strzeszyn,00:48,15:23,sroda,0.800,15.00,0,AUTOBUS
+103,AUTOBUS,1882,198,UAM Wydzial Fizyki,UAM Os.Rozany Potok,03:22,15:23,sroda,3.367,15.00,3,AUTOBUS
+104,TRAMWAJ,925,3,Os.Lokietka,Blazeja,04:33,15:24,sroda,4.550,15.00,4,MODERTRANS
+105,AUTOBUS,1008,169,Luzycka,Os.Sobieskiego,01:05,15:24,sroda,1.083,15.00,1,AUTOBUS
+106,AUTOBUS,1271,182,Os.Kosmonautow,Os.Wichrowe Wzgorze,04:52,15:25,sroda,4.867,15.00,4,AUTOBUS
+107,AUTOBUS,1685,169,Os.Lokietka,Os.Kopernika,06:32,15:25,sroda,6.533,15.00,6,AUTOBUS
+108,AUTOBUS,1888,322,Serbska,Czerwonak/Cmentarz,-00:40,15:25,sroda,-0.667,15.00,0,AUTOBUS
+109,TRAMWAJ,531,6,Sw.Michala,Milostowo,01:33,15:26,sroda,1.550,15.00,1,SOLARIS
+110,TRAMWAJ,609,7,Murawa,Ogrody,00:13,15:26,sroda,0.217,15.00,0,MODERTRANS
+111,TRAMWAJ,930,10,Kmieca,Blazeja,02:12,15:26,sroda,2.200,15.00,2,MODERTRANS
+112,TRAMWAJ,455,17,Rondo Srodka,Ogrody,00:57,15:27,sroda,0.950,15.00,0,MODERTRANS
+113,TRAMWAJ,610,18,Rondo Rataje,Ogrody,03:23,15:27,sroda,3.383,15.00,3,MODERTRANS
+114,AUTOBUS,1660,157,Rondo Srodka,Rondo Srodka,02:48,15:27,sroda,2.800,15.00,2,AUTOBUS
+115,AUTOBUS,1657,181,Rondo Rataje,Rondo Rataje,01:21,15:28,sroda,1.350,15.00,1,AUTOBUS
+116,AUTOBUS,1849,196,Rondo Rataje,Rondo Rataje,11:20,15:28,sroda,11.333,15.00,11,AUTOBUS
+117,TRAMWAJ,525,6,Rondo Rataje,Junikowo,04:28,15:29,sroda,4.467,15.00,4,SOLARIS
+118,TRAMWAJ,552,13,Rondo Rataje,Aleje Marcinkowskiego,01:52,15:29,sroda,1.867,15.00,1,SOLARIS
+119,TRAMWAJ,290,5,Wioslarska,Gorczyn PKM,01:23,15:30,sroda,1.383,15.00,1,KONSTAL
+120,TRAMWAJ,545,13,Rondo Rataje,Aleje Marcinkowskiego,-00:08,15:30,sroda,-0.133,15.00,0,SOLARIS
+121,TRAMWAJ,628,7,Rondo Rataje,Polabska,07:08,15:30,sroda,7.133,15.00,7,MODERTRANS
+122,TRAMWAJ,927,18,Rondo Rataje,Franowo,-00:32,15:30,sroda,-0.533,15.00,0,MODERTRANS
+123,TRAMWAJ,116,1,Rondo Staroleka,Franowo,00:48,15:31,sroda,0.800,15.00,0,KONSTAL
+124,TRAMWAJ,511,12,Staroleka Mala,Staroleka PKM,00:56,15:31,sroda,0.933,15.00,0,SIEMENS
+125,TRAMWAJ,625,18,Rondo Staroleka,Franowo,06:33,15:31,sroda,6.550,15.00,6,MODERTRANS
+126,TRAMWAJ,98,1,Rondo Staroleka,Junikowo,00:43,15:32,sroda,0.717,15.00,0,KONSTAL
+127,TRAMWAJ,624,18,Rondo Staroleka,Ogrody,03:07,15:32,sroda,3.117,15.00,3,MODERTRANS
+128,TRAMWAJ,608,18,Zegrze II,Ogrody,01:01,15:33,sroda,1.017,15.00,1,MODERTRANS
+129,AUTOBUS,1758,152,Os.Orla Bialego II,Rondo Rataje,-00:08,15:33,sroda,-0.133,15.00,0,AUTOBUS
+130,AUTOBUS,1769,152,Os.Orla Bialego,Darzybor,03:52,15:33,sroda,3.867,15.00,3,AUTOBUS
+131,TRAMWAJ,402,1,Os.Czecha,Junikowo,00:33,15:34,sroda,0.550,15.00,0,TATRA
+132,TRAMWAJ,408,1,Szwedzka,Franowo,02:29,15:34,sroda,2.483,15.00,2,TATRA
+133,AUTOBUS,1690,162,Orle Gniazdo,Rondo Rataje,-00:17,15:34,sroda,-0.283,15.00,0,AUTOBUS
+134,AUTOBUS,1880,190,Orle Gniazdo,Os.Sobieskiego,01:14,15:34,sroda,1.233,15.00,1,AUTOBUS
+135,AUTOBUS,1645,166,Szwajcarska Szpital,Zieliniec,03:25,15:35,sroda,3.417,15.00,3,AUTOBUS
+136,AUTOBUS,1663,181,Szwedzka,Krzywoustego,03:29,15:35,sroda,3.483,15.00,3,AUTOBUS
+137,TRAMWAJ,620,6,Rondo Srodka,Junikowo,-01:10,15:36,sroda,-1.167,15.00,-1,MODERTRANS
+138,AUTOBUS,1661,157,Kopiec Wolnosci,Rondo Srodka,-00:51,15:36,sroda,-0.850,15.00,0,AUTOBUS
+139,AUTOBUS,1869,320,Koronkarska,Rondo Srodka,00:10,15:36,sroda,0.167,15.00,0,AUTOBUS
+140,TRAMWAJ,218,17,Pl.Wielkopolski,Zawady,02:34,15:37,sroda,2.567,15.00,2,MODERTRANS
+141,TRAMWAJ,424,11,Nad Wierzbakiem,Piatkowska,02:28,15:37,sroda,2.467,15.00,2,MODERTRANS
+142,AUTOBUS,6124,603,Mostowa,Garbary PKM,01:10,15:37,sroda,1.167,15.00,1,AUTOBUS
+143,AUTOBUS,1282,193,Os.Winiary,Os.Sobieskiego,04:35,15:38,sroda,4.583,15.00,4,AUTOBUS
+144,AUTOBUS,1461,170,Wrzoska Szpitale,Polabska,-01:00,15:38,sroda,-1.000,15.00,-1,AUTOBUS
+145,AUTOBUS,1484,191,Niestachowska,Os.Kopernika,05:16,15:38,sroda,5.267,15.00,5,AUTOBUS
+146,TRAMWAJ,417,2,Zeromskiego,Ogrody,00:09,15:39,sroda,0.150,15.00,0,MODERTRANS
+147,AUTOBUS,1264,163,Polna Szpital,Garbary PKM,04:59,15:39,sroda,4.983,15.00,4,AUTOBUS
+148,AUTOBUS,1272,177,Szpitalna,Junikowo,02:37,15:39,sroda,2.617,15.00,2,AUTOBUS
+149,AUTOBUS,1887,182,Szpitalna,Os.Wichrowe Wzgorze,02:28,15:39,sroda,2.467,15.00,2,AUTOBUS
+150,AUTOBUS,1639,169,Naramowice,Os.Sobieskiego,-01:09,16:18,sroda,-1.150,16.00,-1,AUTOBUS
+151,TRAMWAJ,938,10,Jasna Rola,Debiec PKM,00:06,16:18,sroda,0.100,16.00,0,MODERTRANS
+152,AUTOBUS,1903,190,Wilczak,Bobrzanska,-01:28,16:19,sroda,-1.467,16.00,-1,AUTOBUS
+153,AUTOBUS,1638,185,Serbska,Rondo Srodka,03:14,16:19,sroda,3.233,16.00,3,AUTOBUS
+154,AUTOBUS,1642,178,Rondo Solidarnosci,Szarych Szeregow,00:37,16:19,sroda,0.617,16.00,0,AUTOBUS
+155,AUTOBUS,1482,191,Aleje Solidarnosci,Os.Kopernika,01:20,16:20,sroda,1.333,16.00,1,AUTOBUS
+156,TRAMWAJ,156,15,Lechicka Poznan Plaza,Budziszynska,-00:07,16:20,sroda,-0.117,16.00,0,KONSTAL
+157,AUTOBUS,1280,190,Os.Chrobrego,Os.Sobieskiego,12:55,16:20,sroda,12.917,16.00,12,AUTOBUS
+158,AUTOBUS,1644,185,Wojciechowskiego,Rondo Srodka,01:54,16:21,sroda,1.900,16.00,1,AUTOBUS
+159,AUTOBUS,1862,190,Suszki,Bobrzanska,00:57,16:21,sroda,0.950,16.00,0,AUTOBUS
+160,AUTOBUS,1880,190,Wloscianska,Os.Sobieskiego,02:00,16:21,sroda,2.000,16.00,2,AUTOBUS
+161,TRAMWAJ,228,11,Lutycka Szpital,Piatkowska,-00:44,16:22,sroda,-0.733,16.00,0,MODERTRANS
+162,AUTOBUS,1633,183,Aleje Solidarnosci,Rondo Srodka,04:37,16:22,sroda,4.617,16.00,4,AUTOBUS
+163,TRAMWAJ,156,15,Slowianska,Budziszynska,00:07,16:22,sroda,0.117,16.00,0,KONSTAL
+164,TRAMWAJ,543,14,Aleje Solidarnosci,Os.Sobieskiego,01:26,16:22,sroda,1.433,16.00,1,SOLARIS
+165,TRAMWAJ,138,15,Slowianska,Os.Sobieskiego,06:28,16:23,sroda,6.467,16.00,6,KONSTAL
+166,TRAMWAJ,450,11,Wielkopolska,Piatkowska,01:55,16:23,sroda,1.917,16.00,1,MODERTRANS
+167,TRAMWAJ,613,7,Poznanska,Polabska,03:26,16:23,sroda,3.433,16.00,3,MODERTRANS
+168,TRAMWAJ,914,16,Rondo Kaponiera,Aleje Marcinkowskiego,01:45,16:24,sroda,1.750,16.00,1,MODERTRANS
+169,TRAMWAJ,516,14,Dworzec Zachodni,Gorczyn PKM,-00:13,16:24,sroda,-0.217,16.00,0,SOLARIS
+170,TRAMWAJ,928,3,Baltyk,Budziszynska,00:23,16:24,sroda,0.383,16.00,0,MODERTRANS
+43,AUTOBUS,1878,168,Urzad Marszalkowski,Strzeszyn PKM,01:03,15:00,sroda,1.050,15.00,1,AUTOBUS
+172,TRAMWAJ,432,2,Uniwersytet Ekonomiczny,Debiec PKM,00:49,16:25,sroda,0.817,16.00,0,MODERTRANS
+173,TRAMWAJ,88,11,Most Dworcowy,Unii Lubelskiej,02:01,16:25,sroda,2.017,16.00,2,MODERTRANS
+174,TRAMWAJ,148,18,Most Teatralny,Ogrody,06:00,16:26,sroda,6.000,16.00,6,KONSTAL
+175,TRAMWAJ,198,12,Aleje Solidarnosci,Os.Sobieskiego,-00:53,16:26,sroda,-0.883,16.00,0,MODERTRANS
+176,TRAMWAJ,920,16,Aleje Solidarnosci,Os.Sobieskiego,-00:15,16:27,sroda,-0.250,16.00,0,MODERTRANS
+177,AUTOBUS,1455,170,Os.Zwyciestwa,Polabska,-01:13,16:27,sroda,-1.217,16.00,-1,AUTOBUS
+178,TRAMWAJ,138,15,Lechicka Poznan Plaza,Os.Sobieskiego,05:23,16:27,sroda,5.383,16.00,5,KONSTAL
+179,TRAMWAJ,533,14,Lechicka Poznan Plaza,Gorczyn PKM,00:28,16:28,sroda,0.467,16.00,0,SOLARIS
+180,TRAMWAJ,916,16,Aleje Solidarnosci,Aleje Marcinkowskiego,02:40,16:28,sroda,2.667,16.00,2,MODERTRANS
+181,AUTOBUS,8317,832,Os.Sobieskiego Szkola,Os.Sobieskiego,08:50,16:28,sroda,8.833,16.00,8,AUTOBUS
+182,TRAMWAJ,937,10,Traugutta,Debiec PKM,04:33,16:45,sroda,4.550,16.00,4,MODERTRANS
+183,TRAMWAJ,434,11,Traugutta,Unii Lubelskiej,-01:14,16:45,sroda,-1.233,16.00,-1,MODERTRANS
+184,TRAMWAJ,620,6,Most Dworcowy,Milostowo,00:11,16:45,sroda,0.183,16.00,0,MODERTRANS
+185,TRAMWAJ,162,6,Most Dworcowy,Junikowo,00:56,16:46,sroda,0.933,16.00,0,KONSTAL
+186,TRAMWAJ,927,18,Most Dworcowy,Ogrody,01:44,16:46,sroda,1.733,16.00,1,MODERTRANS
+187,AUTOBUS,1919,171,Zamek,Os.Wichrowe Wzgorze,-00:04,16:46,sroda,-0.067,16.00,0,AUTOBUS
+188,TRAMWAJ,182,17,Fredry,Ogrody,03:08,16:46,sroda,3.133,16.00,3,MODERTRANS
+189,TRAMWAJ,923,10,Most Teatralny,Blazeja,01:25,16:47,sroda,1.417,16.00,1,MODERTRANS
+190,TRAMWAJ,448,8,Rondo Kaponiera,Milostowo,01:21,16:47,sroda,1.350,16.00,1,MODERTRANS
+191,TRAMWAJ,168,12,Most Teatralny,Os.Sobieskiego,04:38,16:48,sroda,4.633,16.00,4,MODERTRANS
+192,TRAMWAJ,511,15,Baltyk,Budziszynska,-01:40,16:48,sroda,-1.667,16.00,-1,SIEMENS
+193,TRAMWAJ,226,18,Most Dworcowy,Franowo,01:04,16:48,sroda,1.067,16.00,1,MODERTRANS
+194,AUTOBUS,1863,159,Szylinga,Port Lotniczy Lawica,01:26,16:49,sroda,1.433,16.00,1,AUTOBUS
+195,TRAMWAJ,940,3,Rondo Kaponiera,Blazeja,-00:47,16:49,sroda,-0.783,16.00,0,MODERTRANS
+196,TRAMWAJ,190,8,Most Dworcowy,Gorczyn PKM,04:56,16:49,sroda,4.933,16.00,4,KONSTAL
+197,TRAMWAJ,456,5,Poznan Glowny,Unii Lubelskiej,-00:13,16:50,sroda,-0.217,16.00,0,MODERTRANS
+198,TRAMWAJ,605,6,Rondo Nowaka-Jezioranskiego,Milostowo,-00:29,16:50,sroda,-0.483,16.00,0,MODERTRANS
+199,TRAMWAJ,446,1,Grochowska,Junikowo,02:23,16:50,sroda,2.383,16.00,2,MODERTRANS
+200,AUTOBUS,1029,145,Marcelinska,Dworzec Zachodni,01:55,16:51,sroda,1.917,16.00,1,AUTOBUS
+201,AUTOBUS,1478,148,Swoboda,Rondo Kaponiera,-02:10,16:51,sroda,-2.167,16.00,-2,AUTOBUS
+202,AUTOBUS,1282,193,Jasna,Gorczyn PKM,-00:04,16:51,sroda,-0.067,16.00,0,AUTOBUS
+203,AUTOBUS,8325,834,Ogrody,Ogrody,07:25,16:52,sroda,7.417,16.00,7,AUTOBUS
+204,AUTOBUS,1492,121,Polska,Meissnera,-00:47,16:52,sroda,-0.783,16.00,0,AUTOBUS
+205,AUTOBUS,7015,729,Ogrody,Ogrody,-00:32,16:52,sroda,-0.533,16.00,0,AUTOBUS
+206,AUTOBUS,1482,191,Szpitalna,Os.Kopernika,12:37,16:52,sroda,12.617,16.00,12,AUTOBUS
+207,AUTOBUS,1287,182,Promienista,Gorczyn PKM,00:09,16:53,sroda,0.150,16.00,0,AUTOBUS
+208,TRAMWAJ,400,5,Sielska,Gorczyn PKM,02:06,16:53,sroda,2.100,16.00,2,TATRA
+209,TRAMWAJ,513,9,Debiec PKM,Debiec PKM,04:08,16:54,sroda,4.133,16.00,4,SIEMENS
+210,TRAMWAJ,628,7,Rolna,Ogrody,03:05,16:54,sroda,3.083,16.00,3,MODERTRANS
+211,AUTOBUS,1712,174,Os.Bohaterow II Wojny Swiatowej,Unii Lubelskiej,15:44,16:54,sroda,15.733,16.00,15,AUTOBUS
+212,AUTOBUS,1702,174,Os.Bohaterow II Wojny Swiatowej,Unii Lubelskiej,01:24,16:55,sroda,1.400,16.00,1,AUTOBUS
+213,TRAMWAJ,312,12,Os.Piastowskie,Os.Sobieskiego,00:45,16:55,sroda,0.750,16.00,0,KONSTAL
+214,AUTOBUS,1648,184,Wioslarska,Rondo Rataje,03:10,16:55,sroda,3.167,16.00,3,AUTOBUS
+215,AUTOBUS,1672,166,Rondo Rataje,Zieliniec,00:57,16:55,sroda,0.950,16.00,0,AUTOBUS
+216,TRAMWAJ,552,13,Rondo Rataje,Staroleka PKM,01:53,16:56,sroda,1.883,16.00,1,SOLARIS
+217,TRAMWAJ,544,13,Most sw.Rocha,Aleje Marcinkowskiego,-00:07,16:56,sroda,-0.117,16.00,0,SOLARIS
+218,TRAMWAJ,545,13,Kornicka,Staroleka PKM,01:29,16:57,sroda,1.483,16.00,1,SOLARIS
+219,AUTOBUS,1688,184,Rondo Srodka,Nowe Zoo,08:13,16:57,sroda,8.217,16.00,8,AUTOBUS
+220,TRAMWAJ,614,6,Rondo Srodka,Junikowo,-00:58,16:57,sroda,-0.967,16.00,0,MODERTRANS
+221,TRAMWAJ,604,6,Termalna,Milostowo,02:32,16:58,sroda,2.533,16.00,2,MODERTRANS
+222,AUTOBUS,1638,185,Zawady,Os.Sobieskiego,-00:48,16:58,sroda,-0.800,16.00,0,AUTOBUS
+223,AUTOBUS,1633,183,Smolna,Szarych Szeregow,01:17,16:58,sroda,1.283,16.00,1,AUTOBUS
+224,AUTOBUS,1885,322,Chemiczna,Czerwonak/Cmentarz,07:10,16:59,sroda,7.167,16.00,7,AUTOBUS
+225,AUTOBUS,1690,162,Torowa Wiadukt,Rondo Rataje,02:16,16:59,sroda,2.267,16.00,2,AUTOBUS
+226,AUTOBUS,1646,181,Wiatraczna,Krzywoustego,01:32,16:59,sroda,1.533,16.00,1,AUTOBUS
+227,AUTOBUS,1658,166,Pilsudskiego,Rondo Rataje,04:31,17:00,sroda,4.517,17.00,4,AUTOBUS
+228,TRAMWAJ,312,12,Rondo Rataje,Os.Sobieskiego,01:49,17:00,sroda,1.817,17.00,1,KONSTAL
+229,TRAMWAJ,522,9,Lakowa,Aleje Marcinkowskiego,-00:30,17:03,sroda,-0.500,17.00,0,SOLARIS
+230,TRAMWAJ,510,9,Aleje Marcinkowskiego,Aleje Marcinkowskiego,-01:31,18:25,sroda,-1.517,18.00,-1,SIEMENS
+231,TRAMWAJ,136,7,Pl.Ratajskiego,Polabska,-00:06,18:25,sroda,-0.100,18.00,0,KONSTAL
+232,AUTOBUS,1643,160,Solna,Garbary PKM,-00:14,18:25,sroda,-0.233,18.00,0,AUTOBUS
+171,AUTOBUS,1821,168,Poznan Glowny,Poznan Glowny,00:35,16:25,sroda,0.583,16.00,0,AUTOBUS
+234,TRAMWAJ,925,3,Zniwna,Blazeja,-01:11,18:26,sroda,-1.183,18.00,-1,MODERTRANS
+235,AUTOBUS,1861,322,Trojpole,Piatkowska,00:22,18:26,sroda,0.367,18.00,0,AUTOBUS
+236,AUTOBUS,1846,182,Os.Slowianskie,Os.Wichrowe Wzgorze,06:02,18:27,sroda,6.033,18.00,6,AUTOBUS
+237,TRAMWAJ,920,16,Slowianska,Aleje Marcinkowskiego,-00:50,18:27,sroda,-0.833,18.00,0,MODERTRANS
+238,AUTOBUS,1480,191,Os.Slowianskie,Os.Kopernika,03:16,18:27,sroda,3.267,18.00,3,AUTOBUS
+239,TRAMWAJ,533,14,Slowianska,Os.Sobieskiego,-01:24,18:28,sroda,-1.400,18.00,-1,SOLARIS
+240,TRAMWAJ,421,11,Wielkopolska,Unii Lubelskiej,00:31,18:28,sroda,0.517,18.00,0,MODERTRANS
+241,AUTOBUS,1821,160,Nad Wierzbakiem,Stary Strzeszyn,-01:05,18:28,sroda,-1.083,18.00,-1,AUTOBUS
+242,AUTOBUS,1251,164,Koscielna,Kacza,02:38,18:29,sroda,2.633,18.00,2,AUTOBUS
+243,AUTOBUS,1816,159,Szylinga,Port Lotniczy Lawica,-00:43,18:29,sroda,-0.717,18.00,0,AUTOBUS
+244,TRAMWAJ,134,14,Rynek Lazarski,Gorczyn PKM,01:06,18:29,sroda,1.100,18.00,1,KONSTAL
+245,TRAMWAJ,416,11,Rynek Lazarski,Piatkowska,00:15,18:30,sroda,0.250,18.00,0,MODERTRANS
+246,TRAMWAJ,98,1,Arciszewskiego,Franowo,-00:06,18:30,sroda,-0.100,18.00,0,KONSTAL
+247,TRAMWAJ,608,7,Rondo Nowaka-Jezioranskiego,Ogrody,-01:08,18:30,sroda,-1.133,18.00,-1,MODERTRANS
+248,TRAMWAJ,604,6,Rondo Nowaka-Jezioranskiego,Milostowo,-00:21,18:30,sroda,-0.350,18.00,0,MODERTRANS
+249,TRAMWAJ,407,15,Grochowska,Budziszynska,04:19,18:31,sroda,4.317,18.00,4,TATRA
+250,TRAMWAJ,921,3,Grochowska,Junikowo,-00:07,18:31,sroda,-0.117,18.00,0,MODERTRANS
+251,AUTOBUS,1819,182,Promienista,Gorczyn PKM,-00:56,18:31,sroda,-0.933,18.00,0,AUTOBUS
+252,AUTOBUS,1820,163,Sciegiennego,Garbary PKM,-00:13,18:31,sroda,-0.217,18.00,0,AUTOBUS
+253,AUTOBUS,1003,175,Rakoniewicka,Debiec PKM,00:30,18:32,sroda,0.500,18.00,0,AUTOBUS
+254,AUTOBUS,1011,149,Kotowicza,Debiec PKM,01:01,18:32,sroda,1.017,18.00,1,AUTOBUS
+255,AUTOBUS,7004,701,Swierczewo,Komorniki/Jeziorna,-01:45,18:32,sroda,-1.750,18.00,-1,AUTOBUS
+256,AUTOBUS,1404,180,Fabianowo,Gorczyn PKM,-01:36,18:33,sroda,-1.600,18.00,-1,AUTOBUS
+257,AUTOBUS,7010,710,Ostatnia,Gorczyn PKM,02:40,18:33,sroda,2.667,18.00,2,AUTOBUS
+258,AUTOBUS,1405,180,Rudnicze,Sycowska Centrum Handlowe,01:23,18:33,sroda,1.383,18.00,1,AUTOBUS
+259,AUTOBUS,7007,729,Zlotowska Dzialki,Dopiewo/Dworzec Kolejowy,-00:23,18:34,sroda,-0.383,18.00,0,AUTOBUS
+260,AUTOBUS,1477,148,Perzycka,Lawica,01:51,18:34,sroda,1.850,18.00,1,AUTOBUS
+261,AUTOBUS,1863,159,Port Lotniczy Lawica,Port Lotniczy Lawica,04:27,18:35,sroda,4.450,18.00,4,AUTOBUS
+262,AUTOBUS,1267,177,Lesnych Skrzatow,Rondo Kaponiera,-00:01,18:35,sroda,-0.017,18.00,0,AUTOBUS
+263,AUTOBUS,1838,191,Rycerska,Os.Kopernika,04:38,18:35,sroda,4.633,18.00,4,AUTOBUS
+264,TRAMWAJ,517,6,Wegorka,Junikowo,-00:43,18:35,sroda,-0.717,18.00,0,SOLARIS
+265,AUTOBUS,1257,164,Sciegiennego,Puszkina,-00:52,18:36,sroda,-0.867,18.00,0,AUTOBUS
+266,TRAMWAJ,134,14,Gorczyn PKM,Gorczyn PKM,-00:02,18:36,sroda,-0.033,18.00,0,KONSTAL
+267,TRAMWAJ,454,11,Glogowska/Hetmanska,Piatkowska,-01:25,18:36,sroda,-1.417,18.00,-1,MODERTRANS
+268,TRAMWAJ,264,8,Rynek Lazarski,Milostowo,00:17,18:37,sroda,0.283,18.00,0,KONSTAL
+269,TRAMWAJ,558,9,Wspolna,Debiec PKM,-01:35,18:37,sroda,-1.583,18.00,-1,SOLARIS
+270,AUTOBUS,1907,171,IPN,Os.Debina,01:28,18:37,sroda,1.467,18.00,1,AUTOBUS
+271,TRAMWAJ,508,13,Staroleka PKM,Staroleka PKM,-01:01,18:37,sroda,-1.017,18.00,-1,SIEMENS
+272,AUTOBUS,1762,189,Pinczowska,Staroleka PKM,-00:33,18:38,sroda,-0.550,18.00,0,AUTOBUS
+273,AUTOBUS,1406,194,Zaklikowska,Unii Lubelskiej,00:06,18:38,sroda,0.100,18.00,0,AUTOBUS
+274,AUTOBUS,1764,194,Czernichowska,Staroleka PKM,-00:45,18:38,sroda,-0.750,18.00,0,AUTOBUS
+275,AUTOBUS,1842,158,Dziedzicka,Staroleka PKM,00:36,18:39,sroda,0.600,18.00,0,AUTOBUS
+276,AUTOBUS,1690,162,Ostrowska,Rondo Rataje,03:09,18:39,sroda,3.150,18.00,3,AUTOBUS
+277,AUTOBUS,4313,431,Os.Lecha I ,Rondo Rataje,03:30,18:39,sroda,3.500,18.00,3,AUTOBUS
+278,AUTOBUS,1656,152,Inflancka,Rondo Rataje,02:26,18:40,sroda,2.433,18.00,2,AUTOBUS
+279,AUTOBUS,1704,174,Os.Armii Krajowej,Os.Sobieskiego,02:02,18:40,sroda,2.033,18.00,2,AUTOBUS
+280,TRAMWAJ,548,13,Wioslarska,Aleje Marcinkowskiego,-00:39,18:40,sroda,-0.650,18.00,0,SOLARIS
+281,TRAMWAJ,505,13,Os.Piastowskie,Aleje Marcinkowskiego,00:38,19:11,sroda,0.633,19.00,0,SIEMENS
+282,AUTOBUS,1757,152,Os.Stare Zegrze,Darzybor,02:36,19:11,sroda,2.600,19.00,2,AUTOBUS
+283,AUTOBUS,1712,174,Sarbinowska,Unii Lubelskiej,-01:21,19:12,sroda,-1.350,19.00,-1,AUTOBUS
+284,AUTOBUS,1764,189,Falista,Staroleka PKM,-00:26,19:12,sroda,-0.433,19.00,0,AUTOBUS
+285,TRAMWAJ,456,5,Rondo Staroleka,Gorczyn PKM,01:24,19:12,sroda,1.400,19.00,1,MODERTRANS
+286,TRAMWAJ,927,7,Rondo Staroleka,Ogrody,-00:53,19:13,sroda,-0.883,19.00,0,MODERTRANS
+287,TRAMWAJ,558,9,Rondo Staroleka,Franowo,-01:04,19:13,sroda,-1.067,19.00,-1,SOLARIS
+288,TRAMWAJ,522,9,Rondo Staroleka,Franowo,04:58,19:13,sroda,4.967,19.00,4,SOLARIS
+289,TRAMWAJ,605,6,Rondo Zegrze ,Franowo,04:28,19:14,sroda,4.467,19.00,4,MODERTRANS
+290,TRAMWAJ,450,11,Rondo Zegrze ,Unii Lubelskiej,00:15,19:14,sroda,0.250,19.00,0,MODERTRANS
+291,TRAMWAJ,545,13,Rondo Zegrze,Franowo,04:12,19:15,sroda,4.200,19.00,4,SOLARIS
+292,TRAMWAJ,98,1,Rondo Zegrze,Glogowska/Hetmanska,-01:03,19:15,sroda,-1.050,19.00,-1,KONSTAL
+293,AUTOBUS,1632,162,Inflancka,Rondo Rataje,00:34,19:15,sroda,0.567,19.00,0,AUTOBUS
+294,AUTOBUS,1903,190,Orle Gniazdo,Bobrzanska,01:52,19:16,sroda,1.867,19.00,1,AUTOBUS
+295,TRAMWAJ,431,8,Termalna,Milostowo,03:23,19:16,sroda,3.383,19.00,3,MODERTRANS
+296,AUTOBUS,1869,320,Koronkarska,Rondo Srodka,00:07,19:17,sroda,0.117,19.00,0,AUTOBUS
+297,TRAMWAJ,442,17,Male Garbary,Ogrody,00:24,19:18,sroda,0.400,19.00,0,MODERTRANS
+298,TRAMWAJ,615,7,Katedra,Ogrody,-00:27,19:18,sroda,-0.450,19.00,0,MODERTRANS
+299,AUTOBUS,1676,160,Solna,Stary Strzeszyn,00:12,19:18,sroda,0.200,19.00,0,AUTOBUS
+300,TRAMWAJ,510,9,Aleje Marcinkowskiego,Aleje Marcinkowskiego,-01:47,19:19,sroda,-1.783,19.00,-1,SIEMENS
+301,TRAMWAJ,927,7,Pl.Wielkopolski,Franowo,-01:26,22:55,sroda,-1.433,22.00,-1,MODERTRANS
+302,TRAMWAJ,457,14,Slowianska,Os.Sobieskiego,02:02,22:56,sroda,2.033,22.00,2,MODERTRANS
+303,AUTOBUS,1863,159,Poznan Glowny,Poznan Glowny,02:23,22:56,sroda,2.383,22.00,2,AUTOBUS
+304,AUTOBUS,1816,218,Most Dworcowy,Franowo,-03:35,22:57,sroda,-3.583,22.00,-3,AUTOBUS
+305,AUTOBUS,1836,163,Solna,Garbary PKM,00:34,22:57,sroda,0.567,22.00,0,AUTOBUS
+306,TRAMWAJ,936,3,Wielkopolska,Franowo,00:27,22:57,sroda,0.450,22.00,0,MODERTRANS
+307,TRAMWAJ,433,11,Wielkopolska,Staroleka PKM,-00:05,22:58,sroda,-0.083,22.00,0,MODERTRANS
+308,TRAMWAJ,911,16,Most Dworcowy,Glogowska/Hetmanska,-00:32,22:58,sroda,-0.533,22.00,0,MODERTRANS
+309,TRAMWAJ,430,2,Wierzbiecice,Staroleka PKM,-00:37,22:58,sroda,-0.617,22.00,0,MODERTRANS
+310,TRAMWAJ,447,12,Dworzec Zachodni,Os.Sobieskiego,-01:29,22:59,sroda,-1.483,22.00,-1,MODERTRANS
+311,TRAMWAJ,517,6,Matejki,Franowo,-00:08,22:59,sroda,-0.133,22.00,0,SOLARIS
+312,AUTOBUS,1479,148,Szylinga,Rondo Kaponiera,-00:26,22:59,sroda,-0.433,22.00,0,AUTOBUS
+313,TRAMWAJ,417,17,Polna  ,Staroleka PKM,-00:08,23:00,sroda,-0.133,23.00,0,MODERTRANS
+314,AUTOBUS,1001,182,Zeromskiego,Gorczyn PKM,-00:28,23:00,sroda,-0.467,23.00,0,AUTOBUS
+315,AUTOBUS,1269,177,Swoboda,Junikowo,00:44,23:00,sroda,0.733,23.00,0,AUTOBUS
+316,TRAMWAJ,511,15,Grochowska,Budziszynska,-00:52,23:00,sroda,-0.867,23.00,0,SIEMENS
+317,TRAMWAJ,940,3,Drzewieckiego,Franowo,-00:30,23:01,sroda,-0.500,23.00,0,MODERTRANS
+318,TRAMWAJ,446,1,Stadion Miejski,Glogowska/Hetmanska,-01:09,23:01,sroda,-1.150,23.00,-1,MODERTRANS
+319,TRAMWAJ,553,6,Grotkowska,Junikowo,00:18,23:01,sroda,0.300,23.00,0,SOLARIS
+320,AUTOBUS,7038,716,Junikowo PKM,Junikowo,03:21,23:02,sroda,3.350,23.00,3,AUTOBUS
+321,AUTOBUS,1203,180,Wolowska,Sycowska Centrum Handlowe,00:19,23:02,sroda,0.317,23.00,0,AUTOBUS
+322,AUTOBUS,1003,175,Swierczewo,Gorczyn PKM,02:06,23:02,sroda,2.100,23.00,2,AUTOBUS
+323,AUTOBUS,1688,152,Os.Orla Bialego II,Darzybor,-00:16,23:03,sroda,-0.267,23.00,0,AUTOBUS
+324,TRAMWAJ,525,6,Zegrze III,Franowo,-00:11,23:03,sroda,-0.183,23.00,0,SOLARIS
+325,TRAMWAJ,611,7,Piasnicka Rynek,Franowo,-01:44,23:03,sroda,-1.733,23.00,-1,MODERTRANS
+326,AUTOBUS,1658,184,Szwajcarska Centrum Handlowe,Rondo Rataje,01:04,23:03,sroda,1.067,23.00,1,AUTOBUS
+327,TRAMWAJ,559,15,Franowo,Franowo,03:21,23:04,sroda,3.350,23.00,3,SOLARIS
+328,AUTOBUS,1650,166,Franowo,Zieliniec,-00:11,23:04,sroda,-0.183,23.00,0,AUTOBUS
+329,TRAMWAJ,613,18,Szwajcarska,Franowo,-00:46,23:04,sroda,-0.767,23.00,0,MODERTRANS
+330,TRAMWAJ,629,18,Rondo Staroleka,Franowo,-00:01,23:05,sroda,-0.017,23.00,0,MODERTRANS
+331,AUTOBUS,1687,181,Pilsudskiego,Krzywoustego,00:40,23:05,sroda,0.667,23.00,0,AUTOBUS
+332,AUTOBUS,5053,501,Rondo Rataje,Rondo Rataje,01:09,23:05,sroda,1.150,23.00,1,AUTOBUS
+333,AUTOBUS,1637,196,Krzesiny Szkola,Rondo Rataje,00:26,23:05,sroda,0.433,23.00,0,AUTOBUS
+334,AUTOBUS,6053,603,Malinowa,Leczyca/Dworcowa,01:17,23:06,sroda,1.283,23.00,1,AUTOBUS
+335,AUTOBUS,1910,223,Rynek Lazarski,Kacza,02:29,23:06,sroda,2.483,23.00,2,AUTOBUS
+336,AUTOBUS,1270,215,Poznan Glowny,Os.Debina,04:51,23:07,sroda,4.850,23.00,4,AUTOBUS
+337,AUTOBUS,1025,169,Rondo Kaponiera,Os.Kopernika,01:05,23:07,sroda,1.083,23.00,1,AUTOBUS
+338,TRAMWAJ,551,15,Slowianska,Franowo,-00:21,23:07,sroda,-0.350,23.00,0,SOLARIS
+339,TRAMWAJ,457,14,Kurpinskiego,Glogowska/Hetmanska,-00:08,23:08,sroda,-0.133,23.00,0,MODERTRANS
+340,AUTOBUS,9117,905,Szymanowskiego,Os.Sobieskiego,03:30,23:08,sroda,3.500,23.00,3,AUTOBUS
+341,AUTOBUS,1901,348,UAM Kampus,Os.Sobieskiego,-00:29,23:08,sroda,-0.483,23.00,0,AUTOBUS
+342,AUTOBUS,1884,911,Makow Polnych,Biedrusko/Park,02:15,23:09,sroda,2.250,23.00,2,AUTOBUS
+343,AUTOBUS,1858,911,Naramowice,Rondo Srodka,05:54,23:09,sroda,5.900,23.00,5,AUTOBUS
+344,AUTOBUS,1013,169,Os.Wichrowe Wzgorze,Os.Kopernika,03:51,23:09,sroda,3.850,23.00,3,AUTOBUS
+345,AUTOBUS,1844,218,Os.Pod Lipami,Os.Sobieskiego,02:25,23:10,sroda,2.417,23.00,2,AUTOBUS
+346,TRAMWAJ,929,3,Zniwna,Franowo,-01:17,23:10,sroda,-1.283,23.00,-1,MODERTRANS
+347,TRAMWAJ,539,14,Rondo Kaponiera,Gorczyn PKM,01:24,12:42,czwartek,1.400,12.00,1,SOLARIS
+348,TRAMWAJ,534,15,Most Teatralny,Os.Sobieskiego,00:08,12:42,czwartek,0.133,12.00,0,SOLARIS
+349,TRAMWAJ,915,16,Most Teatralny,Aleje Marcinkowskiego,-01:10,12:43,czwartek,-1.167,12.00,-1,MODERTRANS
+350,TRAMWAJ,616,18,Most Teatralny,Franowo,00:11,12:43,czwartek,0.183,12.00,0,MODERTRANS
+351,AUTOBUS,1859,159,Szylinga,Port Lotniczy Lawica,-00:57,12:43,czwartek,-0.950,12.00,0,AUTOBUS
+352,TRAMWAJ,442,11,Rondo Kaponiera,Piatkowska,00:49,12:43,czwartek,0.817,12.00,0,MODERTRANS
+353,AUTOBUS,1506,169,Baltyk,Os.Kopernika,-00:28,12:44,czwartek,-0.467,12.00,0,AUTOBUS
+354,TRAMWAJ,551,12,Rondo Kaponiera,Os.Sobieskiego,-01:08,12:44,czwartek,-1.133,12.00,-1,SOLARIS
+355,TRAMWAJ,630,8,Dworzec Zachodni,Milostowo,-01:16,12:45,czwartek,-1.267,12.00,-1,MODERTRANS
+356,AUTOBUS,1261,164,Matejki,Kacza,-01:49,12:45,czwartek,-1.817,12.00,-1,AUTOBUS
+357,AUTOBUS,1268,177,Rondo Kaponiera,Rondo Kaponiera,00:14,12:45,czwartek,0.233,12.00,0,AUTOBUS
+358,AUTOBUS,1822,163,Polna Szpital,Gorczyn PKM,02:41,12:46,czwartek,2.683,12.00,2,AUTOBUS
+359,AUTOBUS,1479,148,Szpitalna,Lawica,03:00,12:46,czwartek,3.000,12.00,3,AUTOBUS
+360,TRAMWAJ,606,7,Bukowska,Polabska,00:05,12:46,czwartek,0.083,12.00,0,MODERTRANS
+361,AUTOBUS,1814,191,Sw.Wawrzynca,Os.Kopernika,00:29,12:47,czwartek,0.483,12.00,0,AUTOBUS
+362,AUTOBUS,1289,164,Nad Wierzbakiem,Puszkina,01:46,12:47,czwartek,1.767,12.00,1,AUTOBUS
+363,TRAMWAJ,429,11,Poznanska,Unii Lubelskiej,-01:09,12:47,czwartek,-1.150,12.00,-1,MODERTRANS
+364,AUTOBUS,1907,177,Urzad Marszalkowski,Os.Wichrowe Wzgorze,-00:44,12:47,czwartek,-0.733,12.00,0,AUTOBUS
+365,AUTOBUS,1255,163,Libelta,Gorczyn PKM,00:16,12:48,czwartek,0.267,12.00,0,AUTOBUS
+366,TRAMWAJ,522,13,Aleje Marcinkowskiego,Aleje Marcinkowskiego,00:56,12:48,czwartek,0.933,12.00,0,SOLARIS
+367,AUTOBUS,1021,176,AWF,Os.Debina,00:59,12:48,czwartek,0.983,12.00,0,AUTOBUS
+368,AUTOBUS,1880,190,Pl.Bernardynski,Bobrzanska,03:30,12:49,czwartek,3.500,12.00,3,AUTOBUS
+369,AUTOBUS,1862,190,Wielka,Os.Sobieskiego,-00:30,12:49,czwartek,-0.500,12.00,0,AUTOBUS
+370,AUTOBUS,1012,160,Solna,Stary Strzeszyn,00:45,12:49,czwartek,0.750,12.00,0,AUTOBUS
+371,TRAMWAJ,615,7,Katedra,Polabska,00:45,12:49,czwartek,0.750,12.00,0,MODERTRANS
+372,TRAMWAJ,430,8,Sw.Michala,Milostowo,00:13,12:50,czwartek,0.217,12.00,0,MODERTRANS
+373,TRAMWAJ,418,8,Krancowa,Gorczyn PKM,02:15,12:50,czwartek,2.250,12.00,2,MODERTRANS
+374,AUTOBUS,1682,157,Bozeny,Rondo Srodka,00:21,12:50,czwartek,0.350,12.00,0,AUTOBUS
+375,AUTOBUS,1660,166,Antoninek PKM,Zieliniec,02:17,12:51,czwartek,2.283,12.00,2,AUTOBUS
+376,AUTOBUS,1671,157,Browarna,Mogilenska,-00:52,12:51,czwartek,-0.867,12.00,0,AUTOBUS
+377,AUTOBUS,1769,152,Piwna,Rondo Rataje,02:14,12:51,czwartek,2.233,12.00,2,AUTOBUS
+378,AUTOBUS,1645,166,Franowo,Rondo Rataje,02:42,12:51,czwartek,2.700,12.00,2,AUTOBUS
+379,AUTOBUS,1656,152,Szwajcarska Szpital,Darzybor,03:39,12:52,czwartek,3.650,12.00,3,AUTOBUS
+380,AUTOBUS,1690,196,Os.Czecha,Rondo Rataje,01:44,12:52,czwartek,1.733,12.00,1,AUTOBUS
+381,TRAMWAJ,454,5,Rondo Staroleka,Gorczyn PKM,00:11,12:58,czwartek,0.183,12.00,0,MODERTRANS
+382,TRAMWAJ,546,12,Bystra,Staroleka PKM,03:31,12:59,czwartek,3.517,12.00,3,SOLARIS
+383,TRAMWAJ,548,13,Rondo Staroleka,Staroleka PKM,-00:05,12:59,czwartek,-0.083,12.00,0,SOLARIS
+384,AUTOBUS,1703,174,Os.Rzeczypospolitej,Os.Sobieskiego,02:00,12:59,czwartek,2.000,12.00,2,AUTOBUS
+385,TRAMWAJ,443,12,Os.Piastowskie,Os.Sobieskiego,01:42,13:00,czwartek,1.700,13.00,1,MODERTRANS
+386,AUTOBUS,1629,166,Pilsudskiego,Zieliniec,-00:20,13:06,czwartek,-0.333,13.00,0,AUTOBUS
+387,AUTOBUS,1758,152,Inflancka,Darzybor,01:10,13:07,czwartek,1.167,13.00,1,AUTOBUS
+388,AUTOBUS,1280,190,Os.Jagiellonskie,Os.Sobieskiego,-00:12,13:07,czwartek,-0.200,13.00,0,AUTOBUS
+389,AUTOBUS,5053,502,Rondo Rataje,Rondo Rataje,-01:08,13:07,czwartek,-1.133,13.00,-1,AUTOBUS
+390,AUTOBUS,1703,174,Serafitek,Os.Sobieskiego,03:19,13:07,czwartek,3.317,13.00,3,AUTOBUS
+391,TRAMWAJ,629,6,AWF,Junikowo,-01:10,13:08,czwartek,-1.167,13.00,-1,MODERTRANS
+392,TRAMWAJ,553,6,Baraniaka,Milostowo,01:19,13:08,czwartek,1.317,13.00,1,SOLARIS
+393,AUTOBUS,1681,157,Baraniaka,Mogilenska,00:25,13:08,czwartek,0.417,13.00,0,AUTOBUS
+394,AUTOBUS,1652,183,Rondo Srodka,Rondo Srodka,-01:25,13:09,czwartek,-1.417,13.00,-1,AUTOBUS
+395,AUTOBUS,1636,185,Koronkarska,Rondo Srodka,03:03,13:09,czwartek,3.050,13.00,3,AUTOBUS
+396,AUTOBUS,1626,178,Chemiczna,Szarych Szeregow,00:15,13:10,czwartek,0.250,13.00,0,AUTOBUS
+397,TRAMWAJ,934,10,Serbska,Blazeja,00:44,13:10,czwartek,0.733,13.00,0,MODERTRANS
+398,AUTOBUS,1647,169,Os.Wichrowe Wzgorze,Os.Kopernika,02:46,13:10,czwartek,2.767,13.00,2,AUTOBUS
+399,TRAMWAJ,932,3,Os.Lokietka,Blazeja,05:43,13:10,czwartek,5.717,13.00,5,MODERTRANS
+400,AUTOBUS,1480,191,Umultowska,Os.Kopernika,-01:24,13:11,czwartek,-1.400,13.00,-1,AUTOBUS
+401,AUTOBUS,1458,146,Kurpinskiego,Stary Strzeszyn,-00:46,13:11,czwartek,-0.767,13.00,0,AUTOBUS
+402,AUTOBUS,1683,185,Wojciechowskiego,Os.Sobieskiego,-00:15,13:11,czwartek,-0.250,13.00,0,AUTOBUS
+403,AUTOBUS,1202,193,Suszki,Gorczyn PKM,01:14,13:12,czwartek,1.233,13.00,1,AUTOBUS
+404,AUTOBUS,1008,169,Os.Chrobrego,Os.Kopernika,02:05,13:12,czwartek,2.083,13.00,2,AUTOBUS
+405,AUTOBUS,1501,169,Wieza RTV,Os.Sobieskiego,00:21,13:12,czwartek,0.350,13.00,0,AUTOBUS
+406,AUTOBUS,1642,178,Strozynskiego,Szarych Szeregow,02:37,13:13,czwartek,2.617,13.00,2,AUTOBUS
+407,AUTOBUS,1648,185,Wieza RTV,Rondo Srodka,01:02,13:13,czwartek,1.033,13.00,1,AUTOBUS
+408,AUTOBUS,1276,190,Wiedenska,Bobrzanska,00:29,13:13,czwartek,0.483,13.00,0,AUTOBUS
+409,AUTOBUS,1012,160,Kosowska,Stary Strzeszyn,02:35,13:14,czwartek,2.583,13.00,2,AUTOBUS
+410,AUTOBUS,1453,146,Instytut Technologiczno-Przyrodniczy,Boranta,00:17,13:14,czwartek,0.283,13.00,0,AUTOBUS
+411,AUTOBUS,1486,156,Lupowska,Ogrody,01:42,13:15,czwartek,1.700,13.00,1,AUTOBUS
+412,AUTOBUS,1687,183,Lutycka I,Szarych Szeregow,-00:50,13:15,czwartek,-0.833,13.00,0,AUTOBUS
+413,TRAMWAJ,442,11,Uniwersytet Przyrodniczy,Unii Lubelskiej,-01:15,13:16,czwartek,-1.250,13.00,-1,MODERTRANS
+414,AUTOBUS,1257,164,Golecinska,Puszkina,06:21,13:16,czwartek,6.350,13.00,6,AUTOBUS
+415,AUTOBUS,1289,164,Wojska Polskiego,Kacza,00:10,13:16,czwartek,0.167,13.00,0,AUTOBUS
+416,AUTOBUS,1819,182,Wojska Polskiego,Os.Wichrowe Wzgorze,01:28,13:16,czwartek,1.467,13.00,1,AUTOBUS
+417,AUTOBUS,1846,182,Uniwersytet Przyrodniczy,Gorczyn PKM,00:06,13:17,czwartek,0.100,13.00,0,AUTOBUS
+418,AUTOBUS,1407,124,Stary Strzeszyn,Safony,00:53,13:17,czwartek,0.883,13.00,0,AUTOBUS
+419,AUTOBUS,1459,170,Literacka,Puszkina,01:39,13:17,czwartek,1.650,13.00,1,AUTOBUS
+420,AUTOBUS,1634,169,Sciegiennego,Os.Kopernika,00:23,13:18,czwartek,0.383,13.00,0,AUTOBUS
+421,TRAMWAJ,418,8,Sielska,Gorczyn PKM,01:46,13:18,czwartek,1.767,13.00,1,MODERTRANS
+422,TRAMWAJ,433,11,Kolejowa,Unii Lubelskiej,00:37,13:18,czwartek,0.617,13.00,0,MODERTRANS
+423,AUTOBUS,1253,164,Chociszewskiego,Puszkina,04:06,13:18,czwartek,4.100,13.00,4,AUTOBUS
+424,AUTOBUS,1031,179,Palacza,Kacza,02:34,13:19,czwartek,2.567,13.00,2,AUTOBUS
+425,AUTOBUS,1634,169,Sciegiennego,Os.Kopernika,00:53,13:19,czwartek,0.883,13.00,0,AUTOBUS
+426,TRAMWAJ,413,1,Wegorka,Junikowo,02:42,13:20,czwartek,2.700,13.00,2,TATRA
+427,TRAMWAJ,88,1,Budziszynska,Junikowo,05:34,13:20,czwartek,5.567,13.00,5,MODERTRANS
+428,TRAMWAJ,559,6,Cmentarna,Junikowo,01:23,13:20,czwartek,1.383,13.00,1,SOLARIS
+429,AUTOBUS,1262,177,Malwowa I,Rondo Kaponiera,01:27,13:21,czwartek,1.450,13.00,1,AUTOBUS
+430,AUTOBUS,1268,177,Malwowa I,Junikowo,00:14,13:21,czwartek,0.233,13.00,0,AUTOBUS
+431,AUTOBUS,1863,159,Kopciuszka,Port Lotniczy Lawica,03:03,13:21,czwartek,3.050,13.00,3,AUTOBUS
+432,TRAMWAJ,162,7,Zeromskiego,Ogrody,02:25,13:21,czwartek,2.417,13.00,2,KONSTAL
+433,TRAMWAJ,112,17,Zeromskiego,Ogrody,-00:37,13:22,czwartek,-0.617,13.00,0,KONSTAL
+434,TRAMWAJ,336,2,Polna,Ogrody,03:59,13:22,czwartek,3.983,13.00,3,MODERTRANS
+435,TRAMWAJ,613,18,Rynek Jezycki,Franowo,-00:34,13:22,czwartek,-0.567,13.00,0,MODERTRANS
+436,TRAMWAJ,916,16,Rondo Kaponiera,Aleje Marcinkowskiego,00:37,13:23,czwartek,0.617,13.00,0,MODERTRANS
+437,TRAMWAJ,535,14,Most Teatralny,Gorczyn PKM,-00:01,13:23,czwartek,-0.017,13.00,0,SOLARIS
+438,TRAMWAJ,442,11,Most Teatralny,Unii Lubelskiej,-00:07,13:23,czwartek,-0.117,13.00,0,MODERTRANS
+439,AUTOBUS,1014,160,Nowowiejskiego,Stary Strzeszyn,01:30,13:24,czwartek,1.500,13.00,1,AUTOBUS
+440,AUTOBUS,1647,169,Urzad Marszalkowski,Os.Kopernika,02:16,13:24,czwartek,2.267,13.00,2,AUTOBUS
+441,AUTOBUS,1286,163,Male Garbary,Garbary PKM,01:48,13:24,czwartek,1.800,13.00,1,AUTOBUS
+442,AUTOBUS,1007,176,Grochowe Laki,Os.Debina,00:39,13:24,czwartek,0.650,13.00,0,AUTOBUS
+443,AUTOBUS,1280,190,Winogrady,Os.Sobieskiego,-01:00,13:25,czwartek,-1.000,13.00,-1,AUTOBUS
+444,AUTOBUS,1873,167,Wilczak,Radojewo,-01:41,13:25,czwartek,-1.683,13.00,-1,AUTOBUS
+445,AUTOBUS,1703,174,Wojtowska,Os.Sobieskiego,02:47,13:25,czwartek,2.783,13.00,2,AUTOBUS
+446,TRAMWAJ,431,7,Polabska,Polabska,02:34,13:26,czwartek,2.567,13.00,2,MODERTRANS
+447,AUTOBUS,1633,183,Polabska,Szarych Szeregow,-00:32,13:26,czwartek,-0.533,13.00,0,AUTOBUS
+448,TRAMWAJ,929,10,Naramowice,Blazeja,-00:08,13:26,czwartek,-0.133,13.00,0,MODERTRANS
+449,AUTOBUS,1483,146,Bronisza,Stary Strzeszyn,00:26,13:27,czwartek,0.433,13.00,0,AUTOBUS
+450,AUTOBUS,1765,188,UAM Os.Rozany Potok,Os.Sobieskiego,11:53,13:27,czwartek,11.883,13.00,11,AUTOBUS
+451,AUTOBUS,1867,198,UAM Wydzial Geografii,UAM Os.Rozany Potok,-01:30,13:27,czwartek,-1.500,13.00,-1,AUTOBUS
+452,AUTOBUS,1712,174,Os.Batorego,Unii Lubelskiej,-00:32,13:28,czwartek,-0.533,13.00,0,AUTOBUS
+453,TRAMWAJ,530,14,Kurpinskiego,Os.Sobieskiego,02:59,13:28,czwartek,2.983,13.00,2,SOLARIS
+454,TRAMWAJ,917,16,Szymanowskiego,Os.Sobieskiego,01:40,13:29,czwartek,1.667,13.00,1,MODERTRANS
+455,AUTOBUS,1638,185,Kurpinskiego,Os.Sobieskiego,-01:34,13:29,czwartek,-1.567,13.00,-1,AUTOBUS
+456,TRAMWAJ,116,12,Lechicka Poznan Plaza,Staroleka PKM,00:52,13:31,czwartek,0.867,13.00,0,KONSTAL
+457,AUTOBUS,1873,167,Naramowice,Radojewo,-00:36,13:32,czwartek,-0.600,13.00,0,AUTOBUS
+458,TRAMWAJ,544,6,Kornicka,Junikowo,01:35,13:32,czwartek,1.583,13.00,1,SOLARIS
+459,TRAMWAJ,619,7,Baraniaka,Polabska,02:20,13:32,czwartek,2.333,13.00,2,MODERTRANS
+460,TRAMWAJ,128,8,Rondo Srodka,Milostowo,04:44,13:32,czwartek,4.733,13.00,4,KONSTAL
+461,TRAMWAJ,630,8,Rondo Srodka,Gorczyn PKM,00:31,13:33,czwartek,0.517,13.00,0,MODERTRANS
+462,AUTOBUS,1652,183,Zawady,Szarych Szeregow,-00:20,13:33,czwartek,-0.333,13.00,0,AUTOBUS
+463,TRAMWAJ,550,13,Rondo Rataje,Aleje Marcinkowskiego,01:04,13:33,czwartek,1.067,13.00,1,SOLARIS
+464,AUTOBUS,1713,174,Rondo Rataje,Os.Sobieskiego,01:22,13:33,czwartek,1.367,13.00,1,AUTOBUS
+465,AUTOBUS,1680,184,Rondo Rataje,Rondo Rataje,04:44,13:34,czwartek,4.733,13.00,4,AUTOBUS
+466,TRAMWAJ,516,13,Rondo Rataje,Aleje Marcinkowskiego,-00:08,13:34,czwartek,-0.133,13.00,0,SOLARIS
+467,TRAMWAJ,206,18,Os.Piastowskie,Franowo,03:13,13:34,czwartek,3.217,13.00,3,KONSTAL
+468,TRAMWAJ,541,12,Os.Piastowskie,Os.Sobieskiego,00:09,13:35,czwartek,0.150,13.00,0,SOLARIS
+469,TRAMWAJ,415,5,Rondo Staroleka,Gorczyn PKM,00:41,13:35,czwartek,0.683,13.00,0,MODERTRANS
+470,TRAMWAJ,614,18,Rondo Zegrze,Ogrody,00:19,13:35,czwartek,0.317,13.00,0,MODERTRANS
+471,AUTOBUS,1656,152,Os.Stare Zegrze,Rondo Rataje,01:57,13:36,czwartek,1.950,13.00,1,AUTOBUS
+472,TRAMWAJ,402,1,Zegrze II ,Junikowo,00:25,13:37,czwartek,0.417,13.00,0,TATRA
+473,AUTOBUS,1660,166,Inflancka,Rondo Rataje,04:12,13:37,czwartek,4.200,13.00,4,AUTOBUS
+474,AUTOBUS,1689,181,Orle Gniazdo,Krzywoustego,02:34,13:37,czwartek,2.567,13.00,2,AUTOBUS
+475,AUTOBUS,1631,154,Os.Czecha,Splawie,04:23,13:37,czwartek,4.383,13.00,4,AUTOBUS
+476,TRAMWAJ,616,18,Szwedzka,Ogrody,00:42,13:37,czwartek,0.700,13.00,0,MODERTRANS
+477,AUTOBUS,1685,181,Szwajcarska Szpital,Rondo Rataje,02:09,13:38,czwartek,2.150,13.00,2,AUTOBUS
+478,AUTOBUS,1857,162,Strzyzowska,Rondo Rataje,08:03,13:38,czwartek,8.050,13.00,8,AUTOBUS
+479,AUTOBUS,1401,189,Szydlowiecka,Staroleka PKM,00:52,13:38,czwartek,0.867,13.00,0,AUTOBUS
+480,TRAMWAJ,429,11,Rondo Staroleka,Piatkowska,-00:03,13:39,czwartek,-0.050,13.00,0,MODERTRANS
+481,TRAMWAJ,522,13,Os.Rzeczypospolitej,Aleje Marcinkowskiego,02:11,13:39,czwartek,2.183,13.00,2,SOLARIS
+482,TRAMWAJ,605,7,Os.Piastowskie,Polabska,02:46,13:39,czwartek,2.767,13.00,2,MODERTRANS
+483,TRAMWAJ,415,5,Wioslarska,Gorczyn PKM,01:23,13:39,czwartek,1.383,13.00,1,MODERTRANS
+484,AUTOBUS,1645,166,Os.Oswiecenia,Zieliniec,02:11,13:40,czwartek,2.183,13.00,2,AUTOBUS
+485,AUTOBUS,1656,152,Pilsudskiego,Rondo Rataje,-00:08,13:40,czwartek,-0.133,13.00,0,AUTOBUS
+486,AUTOBUS,1769,152,Os.Stare Zegrze,Darzybor,04:14,13:40,czwartek,4.233,13.00,4,AUTOBUS
+487,AUTOBUS,1710,174,Os.Stare Zegrze,Unii Lubelskiej,-00:57,13:41,czwartek,-0.950,13.00,0,AUTOBUS
+488,TRAMWAJ,505,9,Debiec PKM,Debiec PKM,01:29,13:41,czwartek,1.483,13.00,1,SIEMENS
+489,AUTOBUS,1909,171,IPN,Os.Wichrowe Wzgorze,-00:41,13:42,czwartek,-0.683,13.00,0,AUTOBUS
+490,AUTOBUS,1007,176,Piastowska,Os.Debina,-00:18,13:42,czwartek,-0.300,13.00,0,AUTOBUS
+491,TRAMWAJ,98,2,Wspolna,Debiec PKM,-02:07,13:42,czwartek,-2.117,13.00,-2,KONSTAL
+492,TRAMWAJ,442,11,Traugutta,Unii Lubelskiej,00:58,13:42,czwartek,0.967,13.00,0,MODERTRANS
+493,TRAMWAJ,519,14,Park Wilsona,Os.Sobieskiego,01:28,13:43,czwartek,1.467,13.00,1,SOLARIS
+494,AUTOBUS,1289,164,Arciszewskiego,Kacza,01:18,13:43,czwartek,1.300,13.00,1,AUTOBUS
+495,AUTOBUS,1258,182,Arciszewskiego,Os.Wichrowe Wzgorze,01:59,13:43,czwartek,1.983,13.00,1,AUTOBUS
+496,AUTOBUS,1846,182,Kordeckiego,Gorczyn PKM,02:06,13:43,czwartek,2.100,13.00,2,AUTOBUS
+497,AUTOBUS,1634,169,Sciegiennego,Os.Sobieskiego,-00:28,13:44,czwartek,-0.467,13.00,0,AUTOBUS
+498,AUTOBUS,7034,705,Ostatnia,Konarzewo/Petla,-00:19,13:44,czwartek,-0.317,13.00,0,AUTOBUS
+499,AUTOBUS,1019,149,Kepinska,Gorczyn PKM,-00:15,13:44,czwartek,-0.250,13.00,0,AUTOBUS
+500,AUTOBUS,6057,611,Bedzinska,Sycowska Centrum Handlowe,01:11,13:44,czwartek,1.183,13.00,1,AUTOBUS
+501,AUTOBUS,1659,154,Brnenska,Rondo Rataje,00:55,16:39,czwartek,0.917,16.00,0,AUTOBUS
+502,AUTOBUS,1260,190,Brnenska,Os.Sobieskiego,02:35,16:39,czwartek,2.583,16.00,2,AUTOBUS
+503,AUTOBUS,1632,181,Wiatraczna,Krzywoustego,01:37,16:40,czwartek,1.617,16.00,1,AUTOBUS
+504,AUTOBUS,1857,196,Wiatraczna,Rondo Rataje,09:53,16:40,czwartek,9.883,16.00,9,AUTOBUS
+505,AUTOBUS,1709,174,Os.Armii Krajowej,Os.Sobieskiego,01:42,16:40,czwartek,1.700,16.00,1,AUTOBUS
+506,AUTOBUS,1686,184,Os.Orla Bialego II,Nowe Zoo,-00:01,16:41,czwartek,-0.017,16.00,0,AUTOBUS
+507,AUTOBUS,1672,184,Os.Stare Zegrze,Rondo Rataje,18:11,16:41,czwartek,18.183,16.00,18,AUTOBUS
+508,TRAMWAJ,532,13,Rondo Staroleka,Staroleka PKM,03:10,16:41,czwartek,3.167,16.00,3,SOLARIS
+509,TRAMWAJ,410,5,Os.Rzeczypospolitej,Unii Lubelskiej,00:11,16:41,czwartek,0.183,16.00,0,TATRA
+510,TRAMWAJ,182,18,Rondo Rataje,Franowo,02:34,16:42,czwartek,2.567,16.00,2,MODERTRANS
+511,TRAMWAJ,541,12,Serafitek,Os.Sobieskiego,02:16,16:42,czwartek,2.267,16.00,2,SOLARIS
+512,AUTOBUS,1872,190,Serafitek,Bobrzanska,03:01,16:42,czwartek,3.017,16.00,3,AUTOBUS
+513,AUTOBUS,1704,174,Most sw.Rocha,Os.Sobieskiego,02:39,16:42,czwartek,2.650,16.00,2,AUTOBUS
+514,TRAMWAJ,550,13,Pl.Bernardynski,Aleje Marcinkowskiego,00:30,16:43,czwartek,0.500,16.00,0,SOLARIS
+515,AUTOBUS,1007,176,Grobla,Os.Debina,00:24,16:43,czwartek,0.400,16.00,0,AUTOBUS
+516,TRAMWAJ,627,7,Pl.Wielkopolski,Polabska,08:00,16:43,czwartek,8.000,16.00,8,MODERTRANS
+517,TRAMWAJ,920,16,Ratajczaka,Os.Sobieskiego,00:01,16:43,czwartek,0.017,16.00,0,MODERTRANS
+518,TRAMWAJ,449,17,Pl.Ratajskiego,Zawady,-00:20,16:44,czwartek,-0.333,16.00,0,MODERTRANS
+519,TRAMWAJ,336,17,Most Teatralny,Ogrody,-00:13,16:44,czwartek,-0.217,16.00,0,MODERTRANS
+520,TRAMWAJ,916,16,Rondo Kaponiera,Aleje Marcinkowskiego,00:57,16:44,czwartek,0.950,16.00,0,MODERTRANS
+521,AUTOBUS,1820,163,Rondo Kaponiera,Garbary PKM,04:30,16:44,czwartek,4.500,16.00,4,AUTOBUS
+522,TRAMWAJ,931,3,Matejki,Budziszynska,00:40,16:45,czwartek,0.667,16.00,0,MODERTRANS
+523,TRAMWAJ,399,12,Poznan Glowny,Staroleka PKM,01:16,16:45,czwartek,1.267,16.00,1,TATRA
+524,TRAMWAJ,519,14,Park Wilsona,Gorczyn PKM,-00:58,16:45,czwartek,-0.967,16.00,0,SOLARIS
+525,TRAMWAJ,553,6,Baltyk,Milostowo,01:12,16:45,czwartek,1.200,16.00,1,SOLARIS
+526,AUTOBUS,1279,164,Matejki,Kacza,10:36,16:46,czwartek,10.600,16.00,10,AUTOBUS
+527,TRAMWAJ,455,5,Park Wilsona,Unii Lubelskiej,01:52,16:46,czwartek,1.867,16.00,1,MODERTRANS
+528,TRAMWAJ,513,9,Traugutta,Debiec PKM,01:59,16:46,czwartek,1.983,16.00,1,SIEMENS
+529,TRAMWAJ,88,1,Traugutta,Junikowo,00:14,16:46,czwartek,0.233,16.00,0,MODERTRANS
+530,TRAMWAJ,457,2,Pamiatkowa,Ogrody,-00:32,16:47,czwartek,-0.533,16.00,0,MODERTRANS
+531,TRAMWAJ,926,10,Wierzbiecice,Blazeja,-00:20,16:47,czwartek,-0.333,16.00,0,MODERTRANS
+532,AUTOBUS,1913,171,Niedzialkowskiego,Os.Debina,03:59,16:47,czwartek,3.983,16.00,3,AUTOBUS
+533,TRAMWAJ,548,13,Most sw.Rocha,Staroleka PKM,-00:36,16:48,czwartek,-0.600,16.00,0,SOLARIS
+534,AUTOBUS,1893,167,Male Garbary,Radojewo,03:01,16:48,czwartek,3.017,16.00,3,AUTOBUS
+535,TRAMWAJ,218,6,Rondo Srodka,Junikowo,00:59,16:48,czwartek,0.983,16.00,0,MODERTRANS
+536,TRAMWAJ,549,6,Rondo Srodka,Milostowo,05:42,16:48,czwartek,5.700,16.00,5,SOLARIS
+537,TRAMWAJ,630,8,Termalna,Gorczyn PKM,-00:06,16:49,czwartek,-0.100,16.00,0,MODERTRANS
+538,AUTOBUS,1628,184,Termalna,Rondo Rataje,03:00,16:49,czwartek,3.000,16.00,3,AUTOBUS
+539,AUTOBUS,1758,152,Kobylepole,Darzybor,04:07,16:49,czwartek,4.117,16.00,4,AUTOBUS
+540,AUTOBUS,1876,425,Kobylepole,Franowo,01:40,16:50,czwartek,1.667,16.00,1,AUTOBUS
+541,TRAMWAJ,603,1,Szwedzka,Junikowo,-00:19,16:50,czwartek,-0.317,16.00,0,MODERTRANS
+542,AUTOBUS,1660,166,Kurlandzka,Rondo Rataje,04:00,16:50,czwartek,4.000,16.00,4,AUTOBUS
+543,AUTOBUS,1637,162,Os.Tysiaclecia,Rondo Rataje,04:13,16:50,czwartek,4.217,16.00,4,AUTOBUS
+544,AUTOBUS,1661,154,Os.Czecha,Rondo Rataje,-02:13,16:51,czwartek,-2.217,16.00,-2,AUTOBUS
+545,AUTOBUS,5024,511,Strzyzowska,Rondo Rataje,02:45,16:51,czwartek,2.750,16.00,2,AUTOBUS
+546,AUTOBUS,4315,431,Rodawska,Kleszczewo/Park,00:43,16:51,czwartek,0.717,16.00,0,AUTOBUS
+547,AUTOBUS,1887,196,Splawska,Rondo Rataje,06:28,16:51,czwartek,6.467,16.00,6,AUTOBUS
+548,AUTOBUS,5097,501,Os.Jagiellonskie,Rondo Rataje,-01:20,16:52,czwartek,-1.333,16.00,-1,AUTOBUS
+549,TRAMWAJ,525,13,Staroleka Mala,Aleje Marcinkowskiego,-00:04,16:52,czwartek,-0.067,16.00,0,SOLARIS
+550,TRAMWAJ,502,14,HCP,Gorczyn PKM,00:07,16:52,czwartek,0.117,16.00,0,SIEMENS
+551,AUTOBUS,1010,149,Debiec PKM,Debiec PKM,01:34,16:53,czwartek,1.567,16.00,1,AUTOBUS
+552,AUTOBUS,1001,176,Lozowa,Garbary PKM,-00:21,16:53,czwartek,-0.350,16.00,0,AUTOBUS
+553,AUTOBUS,1024,176,Os.Debina,Os.Debina,02:49,16:53,czwartek,2.817,16.00,2,AUTOBUS
+554,AUTOBUS,1009,175,Korfantego,Gorczyn PKM,01:17,16:53,czwartek,1.283,16.00,1,AUTOBUS
+555,AUTOBUS,1003,175,Swierczewo,Debiec PKM,00:53,16:54,czwartek,0.883,16.00,0,AUTOBUS
+556,AUTOBUS,6054,616,Ostatnia,Gorczyn PKM,05:15,16:54,czwartek,5.250,16.00,5,AUTOBUS
+557,AUTOBUS,1127,179,Os.Kopernika,Debiec PKM,06:58,16:54,czwartek,6.967,16.00,6,AUTOBUS
+558,AUTOBUS,1202,193,Trebacka,Os.Sobieskiego,09:33,16:55,czwartek,9.550,16.00,9,AUTOBUS
+559,AUTOBUS,1285,193,Stadion Miejski,Os.Sobieskiego,19:44,16:55,czwartek,19.733,16.00,19,AUTOBUS
+560,AUTOBUS,1029,145,Jugoslowianska,Kacza,02:07,16:55,czwartek,2.117,16.00,2,AUTOBUS
+561,TRAMWAJ,450,1,Wegorka,Junikowo,04:03,16:55,czwartek,4.050,16.00,4,MODERTRANS
+562,AUTOBUS,1277,163,Marszalkowska,Garbary PKM,01:36,16:56,czwartek,1.600,16.00,1,AUTOBUS
+563,AUTOBUS,1480,191,Swoboda,Os.Sobieskiego,-00:15,16:56,czwartek,-0.250,16.00,0,AUTOBUS
+564,AUTOBUS,1269,177,Jasna,Junikowo,00:58,16:56,czwartek,0.967,16.00,0,AUTOBUS
+565,AUTOBUS,1203,193,Os.Kopernika,Gorczyn PKM,06:16,16:57,czwartek,6.267,16.00,6,AUTOBUS
+566,AUTOBUS,8048,812,Buzanska,Grzebienisko/Petla,-00:43,16:57,czwartek,-0.717,16.00,0,AUTOBUS
+567,AUTOBUS,1475,186,Polska,Kiekrz,00:48,16:57,czwartek,0.800,16.00,0,AUTOBUS
+568,AUTOBUS,1688,160,Lubienska,Garbary PKM,12:21,16:58,czwartek,12.350,16.00,12,AUTOBUS
+569,AUTOBUS,1626,178,Legowskiego,Szarych Szeregow,03:07,16:58,czwartek,3.117,16.00,3,AUTOBUS
+570,TRAMWAJ,932,3,Ostroroga,Budziszynska,00:06,16:59,czwartek,0.100,16.00,0,MODERTRANS
+571,AUTOBUS,1027,145,Rondo Nowaka-Jezioranskiego,Kacza,00:42,16:59,czwartek,0.700,16.00,0,AUTOBUS
+572,AUTOBUS,1492,121,Piekna,Ogrody,00:29,17:00,czwartek,0.483,17.00,0,AUTOBUS
+573,TRAMWAJ,98,2,Zeromskiego,Ogrody,02:41,17:00,czwartek,2.683,17.00,2,KONSTAL
+574,TRAMWAJ,915,16,Most Teatralny,Aleje Marcinkowskiego,-01:04,17:00,czwartek,-1.067,17.00,-1,MODERTRANS
+575,TRAMWAJ,126,14,Most Teatralny,Gorczyn PKM,00:34,17:00,czwartek,0.567,17.00,0,KONSTAL
+576,TRAMWAJ,920,16,Lechicka Poznan Plaza,Os.Sobieskiego,03:20,17:01,czwartek,3.333,17.00,3,MODERTRANS
+577,AUTOBUS,1115,170,Aleje Solidarnosci,Puszkina,00:31,17:01,czwartek,0.517,17.00,0,AUTOBUS
+578,TRAMWAJ,546,15,Slowianska,Budziszynska,00:23,17:01,czwartek,0.383,17.00,0,SOLARIS
+579,AUTOBUS,1908,190,Os.Chrobrego,Os.Sobieskiego,09:39,17:02,czwartek,9.650,17.00,9,AUTOBUS
+580,AUTOBUS,1458,146,Stoinskiego,Stary Strzeszyn,-01:43,17:02,czwartek,-1.717,17.00,-1,AUTOBUS
+581,AUTOBUS,1713,174,Stoinskiego,Unii Lubelskiej,00:07,17:02,czwartek,0.117,17.00,0,AUTOBUS
+582,AUTOBUS,1015,169,Naramowice,Os.Sobieskiego,01:52,17:03,czwartek,1.867,17.00,1,AUTOBUS
+583,AUTOBUS,1630,178,Chemiczna,Rondo Srodka,02:07,17:03,czwartek,2.117,17.00,2,AUTOBUS
+584,TRAMWAJ,544,6,Lomzynska,Milostowo,05:06,17:03,czwartek,5.100,17.00,5,SOLARIS
+585,AUTOBUS,1686,184,Chartowo,Nowe Zoo,00:56,17:04,czwartek,0.933,17.00,0,AUTOBUS
+586,TRAMWAJ,617,18,Rondo Zegrze,Ogrody,-00:28,17:04,czwartek,-0.467,17.00,0,MODERTRANS
+587,TRAMWAJ,144,18,Rondo Rataje,Ogrody,00:13,17:04,czwartek,0.217,17.00,0,KONSTAL
+588,AUTOBUS,1650,152,Rondo Rataje,Rondo Rataje,-00:02,17:05,czwartek,-0.033,17.00,0,AUTOBUS
+589,AUTOBUS,1710,174,Rondo Rataje,Os.Sobieskiego,02:26,17:05,czwartek,2.433,17.00,2,AUTOBUS
+590,TRAMWAJ,525,13,Rondo Rataje,Aleje Marcinkowskiego,03:13,17:05,czwartek,3.217,17.00,3,SOLARIS
+591,TRAMWAJ,615,7,Rondo Rataje,Polabska,01:57,17:05,czwartek,1.950,17.00,1,MODERTRANS
+592,AUTOBUS,1857,196,Rondo Rataje,Rondo Rataje,01:47,17:06,czwartek,1.783,17.00,1,AUTOBUS
+593,TRAMWAJ,629,6,Rondo Rataje,Junikowo,01:27,17:06,czwartek,1.450,17.00,1,MODERTRANS
+594,TRAMWAJ,522,13,Rondo Rataje,Staroleka PKM,-02:05,17:06,czwartek,-2.083,17.00,-2,SOLARIS
+595,TRAMWAJ,601,6,Rondo Rataje,Milostowo,-00:52,17:06,czwartek,-0.867,17.00,0,MODERTRANS
+596,TRAMWAJ,534,12,Rondo Rataje,Os.Sobieskiego,-00:35,17:07,czwartek,-0.583,17.00,0,SOLARIS
+597,TRAMWAJ,504,13,Rondo Rataje,Aleje Marcinkowskiego,01:39,17:07,czwartek,1.650,17.00,1,SIEMENS
+598,TRAMWAJ,518,9,Aleje Marcinkowskiego,Aleje Marcinkowskiego,-00:16,17:07,czwartek,-0.267,17.00,0,SOLARIS
+599,TRAMWAJ,915,16,Aleje Marcinkowskiego,Aleje Marcinkowskiego,-00:34,17:08,czwartek,-0.567,17.00,0,MODERTRANS
+600,AUTOBUS,1506,169,Urzad Wojewodzki,Os.Sobieskiego,-01:12,17:08,czwartek,-1.200,17.00,-1,AUTOBUS
+601,AUTOBUS,1763,184,Rondo Srodka,Rondo Rataje,00:45,07:30,piatek,0.750,7.00,0,AUTOBUS
+602,TRAMWAJ,425,17,Rondo Srodka,Zawady,-00:19,07:30,piatek,-0.317,7.00,0,MODERTRANS
+603,TRAMWAJ,608,6,Krancowa,Milostowo,03:18,07:31,piatek,3.300,7.00,3,MODERTRANS
+604,TRAMWAJ,915,6,Most Teatralny,Aleje Marcinkowskiego,-00:45,07:31,piatek,-0.750,7.00,0,MODERTRANS
+605,TRAMWAJ,424,11,Most Teatralny,Unii Lubelskiej,00:03,07:32,piatek,0.050,7.00,0,MODERTRANS
+606,TRAMWAJ,456,17,Fredry,Zawady,-00:19,07:32,piatek,-0.317,7.00,0,MODERTRANS
+607,AUTOBUS,1874,171,Urzad Wojewodzki,Os.Wichrowe Wzgorze,00:54,07:32,piatek,0.900,7.00,0,AUTOBUS
+608,TRAMWAJ,604,6,Poznan Glowny,Milostowo,05:29,07:33,piatek,5.483,7.00,5,MODERTRANS
+609,TRAMWAJ,134,5,Dworzec Zachodni,Gorczyn PKM,02:07,07:33,piatek,2.117,7.00,2,KONSTAL
+610,TRAMWAJ,527,6,Most Dworcowy,Junikowo,00:05,07:33,piatek,0.083,7.00,0,SOLARIS
+611,TRAMWAJ,630,8,Most Dworcowy,Milostowo,00:58,07:33,piatek,0.967,7.00,0,MODERTRANS
+612,TRAMWAJ,916,10,Rondo Kaponiera,Blazeja,-00:06,07:34,piatek,-0.100,7.00,0,MODERTRANS
+613,AUTOBUS,1871,159,Szylinga,Port Lotniczy Lawica,00:54,07:34,piatek,0.900,7.00,0,AUTOBUS
+614,TRAMWAJ,558,9,Pl.Wiosny Ludow,Aleje Marcinkowskiego,00:14,07:34,piatek,0.233,7.00,0,SOLARIS
+615,TRAMWAJ,530,12,Polwiejska,Os.Sobieskiego,-00:16,07:34,piatek,-0.267,7.00,0,SOLARIS
+616,TRAMWAJ,402,5,Serafitek,Gorczyn PKM,02:06,07:35,piatek,2.100,7.00,2,TATRA
+617,TRAMWAJ,555,13,Wioslarska,Staroleka PKM,00:02,07:35,piatek,0.033,7.00,0,SOLARIS
+618,AUTOBUS,4317,431,Rondo Rataje,Rondo Rataje,13:26,07:35,piatek,13.433,7.00,13,AUTOBUS
+619,AUTOBUS,1629,166,Rondo Rataje,Zieliniec,00:43,07:36,piatek,0.717,7.00,0,AUTOBUS
+620,TRAMWAJ,142,18,Rondo Rataje,Ogrody,02:37,07:36,piatek,2.617,7.00,2,KONSTAL
+621,TRAMWAJ,551,13,Rondo Rataje,Staroleka PKM,00:09,07:36,piatek,0.150,7.00,0,SOLARIS
+622,AUTOBUS,1872,190,Os.Jagiellonskie,Os.Sobieskiego,01:32,07:37,piatek,1.533,7.00,1,AUTOBUS
+623,AUTOBUS,1690,162,Os.Oswiecenia,Rondo Rataje,07:03,07:37,piatek,7.050,7.00,7,AUTOBUS
+624,AUTOBUS,1645,166,Inflancka,Rondo Rataje,05:01,07:37,piatek,5.017,7.00,5,AUTOBUS
+625,AUTOBUS,1689,181,Wiatraczna,Krzywoustego,-00:30,07:37,piatek,-0.500,7.00,0,AUTOBUS
+626,AUTOBUS,1659,154,Wiatraczna,Rondo Rataje,01:31,07:38,piatek,1.517,7.00,1,AUTOBUS
+627,AUTOBUS,1857,196,Torowa Wiadukt,Rondo Rataje,02:07,07:38,piatek,2.117,7.00,2,AUTOBUS
+628,TRAMWAJ,310,1,Zegrze III,Franowo,02:13,07:38,piatek,2.217,7.00,2,KONSTAL
+629,TRAMWAJ,224,7,Rondo Staroleka,Polabska,02:14,07:39,piatek,2.233,7.00,2,MODERTRANS
+630,TRAMWAJ,455,18,Rondo Staroleka,Franowo,02:59,07:39,piatek,2.983,7.00,2,MODERTRANS
+631,TRAMWAJ,312,12,Rondo Staroleka,Staroleka PKM,00:17,07:39,piatek,0.283,7.00,0,KONSTAL
+632,TRAMWAJ,603,6,Poznan Glowny,Milostowo,01:59,07:40,piatek,1.983,7.00,1,MODERTRANS
+633,TRAMWAJ,607,18,Wierzbiecice,Franowo,-01:50,07:40,piatek,-1.833,7.00,-1,MODERTRANS
+634,TRAMWAJ,934,10,Most Dworcowy,Blazeja,00:30,07:41,piatek,0.500,7.00,0,MODERTRANS
+635,TRAMWAJ,933,3,Rondo Kaponiera,Blazeja,03:10,07:44,piatek,3.167,7.00,3,MODERTRANS
+636,TRAMWAJ,525,14,Dworzec Zachodni,Gorczyn PKM,-00:24,07:44,piatek,-0.400,7.00,0,SOLARIS
+99,AUTOBUS,1824,168,Tulodzieckiej,Poznan Glowny,00:10,15:21,sroda,0.167,15.00,0,AUTOBUS
+638,TRAMWAJ,552,15,Baltyk,Os.Sobieskiego,02:31,07:44,piatek,2.517,7.00,2,SOLARIS
+639,TRAMWAJ,611,6,Poznan Glowny,Junikowo,01:44,07:45,piatek,1.733,7.00,1,MODERTRANS
+640,TRAMWAJ,549,5,Polwiejska,Unii Lubelskiej,02:15,07:45,piatek,2.250,7.00,2,SOLARIS
+641,TRAMWAJ,546,13,Politechnika,Staroleka PKM,01:24,07:45,piatek,1.400,7.00,1,SOLARIS
+642,TRAMWAJ,532,13,Politechnika,Aleje Marcinkowskiego,01:28,07:45,piatek,1.467,7.00,1,SOLARIS
+643,AUTOBUS,1637,196,Pilsudskiego,Rondo Rataje,00:28,07:46,piatek,0.467,7.00,0,AUTOBUS
+644,TRAMWAJ,166,5,Os.Piastowskie,Gorczyn PKM,00:04,07:47,piatek,0.067,7.00,0,MODERTRANS
+645,TRAMWAJ,610,7,Rondo Staroleka,Ogrody,-00:05,07:47,piatek,-0.083,7.00,0,MODERTRANS
+646,TRAMWAJ,504,9,Rynek Wildecki,Aleje Marcinkowskiego,00:17,07:47,piatek,0.283,7.00,0,SIEMENS
+647,TRAMWAJ,935,10,Most Dworcowy,Debiec PKM,-00:49,07:48,piatek,-0.817,7.00,0,MODERTRANS
+648,TRAMWAJ,420,8,Most Teatralny,Milostowo,00:48,07:48,piatek,0.800,7.00,0,MODERTRANS
+649,TRAMWAJ,244,17,Rynek Jezycki,Ogrody,01:57,07:48,piatek,1.950,7.00,1,KONSTAL
+650,TRAMWAJ,613,7,Poznanska,Polabska,-01:34,07:49,piatek,-1.567,7.00,-1,MODERTRANS
+651,TRAMWAJ,543,14,Slowianska,Os.Sobieskiego,00:35,07:49,piatek,0.583,7.00,0,SOLARIS
+652,TRAMWAJ,911,3,Most Teatralny,Budziszynska,00:18,07:50,piatek,0.300,7.00,0,MODERTRANS
+653,TRAMWAJ,526,15,Matejki,Os.Sobieskiego,02:05,07:50,piatek,2.083,7.00,2,SOLARIS
+654,TRAMWAJ,522,6,Rondo Nowaka-Jezioranskiego,Milostowo,-00:22,07:50,piatek,-0.367,7.00,0,SOLARIS
+655,AUTOBUS,1277,163,Sciegiennego,Gorczyn PKM,04:23,07:51,piatek,4.383,7.00,4,AUTOBUS
+656,AUTOBUS,1282,193,Stadion Miejski,Os.Sobieskiego,01:51,07:51,piatek,1.850,7.00,1,AUTOBUS
+657,AUTOBUS,1492,121,Ogrody,Ogrody,01:58,07:53,piatek,1.967,7.00,1,AUTOBUS
+658,TRAMWAJ,126,17,Zeromskiego,Zawady,-00:14,07:54,piatek,-0.233,7.00,0,KONSTAL
+659,AUTOBUS,1829,191,Zeromskiego,Os.Kopernika,04:34,07:54,piatek,4.567,7.00,4,AUTOBUS
+660,AUTOBUS,1286,182,Niestachowska,Gorczyn PKM,01:24,07:54,piatek,1.400,7.00,1,AUTOBUS
+661,TRAMWAJ,448,2,Polna,Ogrody,-00:28,07:55,piatek,-0.467,7.00,0,MODERTRANS
+662,TRAMWAJ,940,10,Rondo Kaponiera,Blazeja,00:57,07:55,piatek,0.950,7.00,0,MODERTRANS
+663,AUTOBUS,1706,174,Opienskiego,Os.Sobieskiego,03:15,07:55,piatek,3.250,7.00,3,AUTOBUS
+664,AUTOBUS,1886,198,Os.Batorego,UAM Os.Rozany Potok,01:20,07:56,piatek,1.333,7.00,1,AUTOBUS
+665,AUTOBUS,9101,905,Szymanowskiego,Os.Sobieskiego,04:08,07:56,piatek,4.133,7.00,4,AUTOBUS
+666,AUTOBUS,9107,907,Mateckiego,Chludowo/Szkola,04:05,07:57,piatek,4.083,7.00,4,AUTOBUS
+667,AUTOBUS,1453,146,Mateckiego,Boranta,02:26,07:57,piatek,2.433,7.00,2,AUTOBUS
+668,AUTOBUS,1253,164,Literacka,Kacza,01:06,07:57,piatek,1.100,7.00,1,AUTOBUS
+669,AUTOBUS,1461,170,Literacka,Puszkina,01:48,07:58,piatek,1.800,7.00,1,AUTOBUS
+670,AUTOBUS,1476,156,Ogrody,Ogrody,04:24,07:58,piatek,4.400,7.00,4,AUTOBUS
+671,AUTOBUS,1814,191,Nad Wierzbakiem,Os.Kopernika,02:15,07:58,piatek,2.250,7.00,2,AUTOBUS
+672,AUTOBUS,1893,167,Serbska,Rondo Srodka,01:41,07:59,piatek,1.683,7.00,1,AUTOBUS
+673,AUTOBUS,1637,196,Torowa Wiadukt,Rondo Rataje,-01:11,07:59,piatek,-1.183,7.00,-1,AUTOBUS
+674,AUTOBUS,1665,154,Luganska,Rondo Rataje,01:28,07:59,piatek,1.467,7.00,1,AUTOBUS
+675,AUTOBUS,1005,179,Opolska,Debiec PKM,-00:36,08:00,piatek,-0.600,8.00,0,AUTOBUS
+676,AUTOBUS,1675,173,Gnieznienska,Rondo Srodka,01:40,08:01,piatek,1.667,8.00,1,AUTOBUS
+677,AUTOBUS,1652,183,Chemiczna,Szarych Szeregow,02:24,08:01,piatek,2.400,8.00,2,AUTOBUS
+678,TRAMWAJ,218,8,Rondo Srodka,Gorczyn PKM,00:00,08:01,piatek,0.000,8.00,0,MODERTRANS
+679,TRAMWAJ,629,7,Katedra,Polabska,00:30,08:01,piatek,0.500,8.00,0,MODERTRANS
+680,AUTOBUS,1702,174,Male Garbary,Os.Sobieskiego,02:00,08:02,piatek,2.000,8.00,2,AUTOBUS
+681,AUTOBUS,1873,190,Wielka,Os.Sobieskiego,-01:08,08:02,piatek,-1.133,8.00,-1,AUTOBUS
+682,TRAMWAJ,542,13,Wroclawska,Aleje Marcinkowskiego,-00:09,08:02,piatek,-0.150,8.00,0,SOLARIS
+683,TRAMWAJ,522,6,AWF,Milostowo,-00:37,08:02,piatek,-0.617,8.00,0,SOLARIS
+684,TRAMWAJ,198,18,Wierzbiecice,Ogrody,01:22,08:03,piatek,1.367,8.00,1,MODERTRANS
+685,TRAMWAJ,226,2,Sw.Czeslawa,Ogrody,00:52,08:03,piatek,0.867,8.00,0,MODERTRANS
+686,TRAMWAJ,457,2,Rynek Wildecki,Debiec PKM,01:07,08:03,piatek,1.117,8.00,1,MODERTRANS
+687,TRAMWAJ,502,9,Kosinskiego,Debiec PKM,02:17,08:03,piatek,2.283,8.00,2,SIEMENS
+688,TRAMWAJ,936,10,Kosinskiego,Blazeja,-00:05,08:04,piatek,-0.083,8.00,0,MODERTRANS
+689,TRAMWAJ,432,11,Traugutta,Piatkowska,00:13,08:04,piatek,0.217,8.00,0,MODERTRANS
+690,TRAMWAJ,935,10,Wspolna,Debiec PKM,-00:37,08:04,piatek,-0.617,8.00,0,MODERTRANS
+691,AUTOBUS,1001,176,IPN,Garbary PKM,02:29,08:04,piatek,2.483,8.00,2,AUTOBUS
+692,AUTOBUS,1018,176,Piastowska,Os.Debina,06:27,08:05,piatek,6.450,8.00,6,AUTOBUS
+693,TRAMWAJ,551,13,Rondo Staroleka,Aleje Marcinkowskiego,-00:09,08:05,piatek,-0.150,8.00,0,SOLARIS
+694,TRAMWAJ,445,1,Rondo Staroleka,Junikowo,03:17,08:05,piatek,3.283,8.00,3,MODERTRANS
+695,TRAMWAJ,168,5,Os.Rzeczypospolitej,Gorczyn PKM,00:14,08:05,piatek,0.233,8.00,0,MODERTRANS
+696,TRAMWAJ,545,12,Os.Rzeczypospolitej,Staroleka PKM,-00:21,08:06,piatek,-0.350,8.00,0,SOLARIS
+697,AUTOBUS,1769,152,Rondo Rataje,Rondo Rataje,01:40,08:06,piatek,1.667,8.00,1,AUTOBUS
+698,TRAMWAJ,505,13,Politechnika,Aleje Marcinkowskiego,01:38,08:06,piatek,1.633,8.00,1,SIEMENS
+699,AUTOBUS,1757,184,Baraniaka,Termy Maltanskie,-00:04,08:06,piatek,-0.067,8.00,0,AUTOBUS
+700,TRAMWAJ,162,6,Rondo Srodka,Junikowo,00:01,08:07,piatek,0.017,8.00,0,KONSTAL
+701,TRAMWAJ,526,15,Most Teatralny,Junikowo,-00:33,17:51,sobota,-0.550,17.00,0,SOLARIS
+702,TRAMWAJ,613,7,Fredry,Ogrody,-00:44,17:51,sobota,-0.733,17.00,0,MODERTRANS
+703,TRAMWAJ,938,3,Rondo Nowaka-Jezioranskiego,Blazeja,01:58,17:52,sobota,1.967,17.00,1,MODERTRANS
+704,AUTOBUS,1281,191,Stadion Miejski,Os.Kopernika,00:51,17:52,sobota,0.850,17.00,0,AUTOBUS
+705,TRAMWAJ,928,3,Rondo Skubiszewskiego,Junikowo,01:06,17:52,sobota,1.100,17.00,1,MODERTRANS
+706,AUTOBUS,1003,149,Kepinska,Debiec PKM,01:15,17:53,sobota,1.250,17.00,1,AUTOBUS
+707,AUTOBUS,1022,179,Opolska,Debiec PKM,10:48,17:53,sobota,10.800,17.00,10,AUTOBUS
+708,TRAMWAJ,436,2,Debiec PKM,Debiec PKM,-01:02,17:53,sobota,-1.033,17.00,-1,MODERTRANS
+709,AUTOBUS,1019,176,IPN,Os.Debina,00:15,17:53,sobota,0.250,17.00,0,AUTOBUS
+710,TRAMWAJ,505,9,Rynek Wildecki,Debiec PKM,00:17,17:54,sobota,0.283,17.00,0,SIEMENS
+711,TRAMWAJ,915,16,Zamek,Os.Sobieskiego,-00:29,17:54,sobota,-0.483,17.00,0,MODERTRANS
+712,AUTOBUS,1702,169,Urzad Marszalkowski,Os.Sobieskiego,03:43,17:54,sobota,3.717,17.00,3,AUTOBUS
+1060,AUTOBUS,1453,168,Rzepeckiej,Poznan Glowny,00:09,21:03,piatek,0.150,21.00,0,AUTOBUS
+714,AUTOBUS,1274,182,Maczka,Gorczyn PKM,00:18,17:55,sobota,0.300,17.00,0,AUTOBUS
+715,AUTOBUS,1277,191,Os.Slowianskie,Os.Kopernika,06:41,17:55,sobota,6.683,17.00,6,AUTOBUS
+716,AUTOBUS,1408,170,Dojazd,Puszkina,00:35,17:55,sobota,0.583,17.00,0,AUTOBUS
+717,AUTOBUS,1763,178,Strozynskiego,Szarych Szeregow,-00:53,17:55,sobota,-0.883,17.00,0,AUTOBUS
+718,TRAMWAJ,459,15,Kurpinskiego,Os.Sobieskiego,00:29,17:56,sobota,0.483,17.00,0,MODERTRANS
+719,TRAMWAJ,935,10,Wlodarska,Debiec PKM,01:03,17:56,sobota,1.050,17.00,1,MODERTRANS
+720,AUTOBUS,1681,185,Baltycka,Rondo Srodka,03:52,17:56,sobota,3.867,17.00,3,AUTOBUS
+721,TRAMWAJ,434,8,Termalna,Gorczyn PKM,00:17,17:56,sobota,0.283,17.00,0,MODERTRANS
+722,AUTOBUS,1765,157,Dymka,Mogilenska,00:51,17:57,sobota,0.850,17.00,0,AUTOBUS
+723,AUTOBUS,1655,167,Rondo Srodka,Rondo Srodka,01:52,17:57,sobota,1.867,17.00,1,AUTOBUS
+724,TRAMWAJ,453,17,Male Garbary,Ogrody,00:38,17:58,sobota,0.633,17.00,0,MODERTRANS
+725,AUTOBUS,1707,174,Male Garbary,Os.Sobieskiego,01:11,17:58,sobota,1.183,17.00,1,AUTOBUS
+726,AUTOBUS,1912,171,Armii Poznan,Os.Wichrowe Wzgorze,-02:57,17:58,sobota,-2.950,17.00,-2,AUTOBUS
+727,TRAMWAJ,919,16,Most Teatralny,Aleje Marcinkowskiego,-01:19,17:58,sobota,-1.317,17.00,-1,MODERTRANS
+728,AUTOBUS,1288,164,Slaska,Puszkina,00:26,17:59,sobota,0.433,17.00,0,AUTOBUS
+729,TRAMWAJ,425,2,Polna,Ogrody,01:29,17:59,sobota,1.483,17.00,1,MODERTRANS
+730,TRAMWAJ,454,17,Polna,Zawady,-00:09,17:59,sobota,-0.150,17.00,0,MODERTRANS
+731,TRAMWAJ,399,1,Piasnicka Rynek,Junikowo,01:32,17:59,sobota,1.533,17.00,1,TATRA
+732,TRAMWAJ,627,18,Zegrze II,Franowo,02:44,18:00,sobota,2.733,18.00,2,MODERTRANS
+733,AUTOBUS,1669,184,Os.Bohaterow II Wojny Swiatowej,Rondo Rataje,07:42,18:00,sobota,7.700,18.00,7,AUTOBUS
+734,TRAMWAJ,550,12,Rondo Staroleka,Os.Sobieskiego,00:01,18:00,sobota,0.017,18.00,0,SOLARIS
+735,TRAMWAJ,447,2,Pamiatkowa,Ogrody,-01:05,18:01,sobota,-1.083,18.00,-1,MODERTRANS
+736,AUTOBUS,1024,145,Ulanska,Kacza,01:46,18:01,sobota,1.767,18.00,1,AUTOBUS
+737,AUTOBUS,1680,154,Szczepankowo,Splawie,-00:56,18:01,sobota,-0.933,18.00,0,AUTOBUS
+738,AUTOBUS,1650,162,Rodawska,Rondo Rataje,00:37,18:02,sobota,0.617,18.00,0,AUTOBUS
+739,AUTOBUS,1877,190,Bobrzanska,Bobrzanska,08:33,18:02,sobota,8.550,18.00,8,AUTOBUS
+740,AUTOBUS,1686,152,Zelazna,Darzybor,00:04,18:02,sobota,0.067,18.00,0,AUTOBUS
+741,AUTOBUS,1764,157,Zelazna,Rondo Srodka,-00:39,18:03,sobota,-0.650,18.00,0,AUTOBUS
+742,AUTOBUS,1675,183,Hlonda,Rondo Srodka,00:35,19:31,sobota,0.583,19.00,0,AUTOBUS
+743,AUTOBUS,1870,190,Winogrady,Rondo Srodka,02:37,19:31,sobota,2.617,19.00,2,AUTOBUS
+744,TRAMWAJ,441,17,Male Garbary,Zawady,00:55,19:32,sobota,0.917,19.00,0,MODERTRANS
+745,TRAMWAJ,508,9,Rozana,Debiec PKM,00:32,19:32,sobota,0.533,19.00,0,SIEMENS
+746,TRAMWAJ,924,10,Pamiatkowa,Blazeja,-01:19,19:32,sobota,-1.317,19.00,-1,MODERTRANS
+747,TRAMWAJ,504,13,Bystra,Staroleka PKM,-00:55,19:33,sobota,-0.917,19.00,0,SIEMENS
+748,AUTOBUS,1670,154,Os.Jagiellonskie,Rondo Rataje,05:14,19:33,sobota,5.233,19.00,5,AUTOBUS
+749,AUTOBUS,1686,162,Wiatraczna,Rondo Rataje,01:36,19:34,sobota,1.600,19.00,1,AUTOBUS
+750,AUTOBUS,1874,190,Bobrzanska,Bobrzanska,02:49,19:34,sobota,2.817,19.00,2,AUTOBUS
+751,TRAMWAJ,525,6,Rondo Rataje,Junikowo,-00:21,19:34,sobota,-0.350,19.00,0,SOLARIS
+752,TRAMWAJ,911,16,Rondo Kaponiera,Os.Sobieskiego,-00:25,19:35,sobota,-0.417,19.00,0,MODERTRANS
+753,TRAMWAJ,548,14,Most Teatralny,Gorczyn PKM,-00:29,19:35,sobota,-0.483,19.00,0,SOLARIS
+754,AUTOBUS,1289,164,Jezycka,Kacza,02:32,19:35,sobota,2.533,19.00,2,AUTOBUS
+755,AUTOBUS,1681,185,Rynek Wschodni,Rondo Srodka,05:50,19:36,sobota,5.833,19.00,5,AUTOBUS
+756,AUTOBUS,1652,178,Chemiczna,Szarych Szeregow,-00:16,19:37,sobota,-0.267,19.00,0,AUTOBUS
+757,AUTOBUS,1673,173,Bogucin Baltycka,Janikowo,00:55,19:38,sobota,0.917,19.00,0,AUTOBUS
+758,AUTOBUS,1879,158,Ozarowska,Sypniewo,00:17,19:39,sobota,0.283,19.00,0,AUTOBUS
+759,AUTOBUS,1772,194,Staszowska,Staroleka PKM,00:27,19:40,sobota,0.450,19.00,0,AUTOBUS
+760,AUTOBUS,1017,179,Druzynowa,Debiec PKM,06:39,19:40,sobota,6.650,19.00,6,AUTOBUS
+761,AUTOBUS,1460,156,Kolobrzeska,Ogrody,-00:23,19:41,sobota,-0.383,19.00,0,AUTOBUS
+762,AUTOBUS,1278,177,Malechowska,Junikowo,00:14,19:42,sobota,0.233,19.00,0,AUTOBUS
+763,AUTOBUS,1260,182,Palacza,Os.Wichrowe Wzgorze,01:55,19:42,sobota,1.917,19.00,1,AUTOBUS
+764,TRAMWAJ,508,9,Debiec PKM,Debiec PKM,00:34,19:43,sobota,0.567,19.00,0,SIEMENS
+765,TRAMWAJ,459,15,Kurpinskiego,Budziszynska,00:31,19:43,sobota,0.517,19.00,0,MODERTRANS
+766,TRAMWAJ,421,11,Os.Winiary,Pamiatkowa,03:11,19:43,sobota,3.183,19.00,3,MODERTRANS
+767,TRAMWAJ,935,10,Armii Poznan,Debiec PKM,01:22,19:44,sobota,1.367,19.00,1,MODERTRANS
+768,TRAMWAJ,434,8,Male Garbary,Gorczyn PKM,00:22,19:44,sobota,0.367,19.00,0,MODERTRANS
+769,AUTOBUS,1689,181,Pilsudskiego,Rondo Rataje,02:28,19:45,sobota,2.467,19.00,2,AUTOBUS
+770,AUTOBUS,1650,196,Inflancka,Rondo Rataje,-00:49,19:46,sobota,-0.817,19.00,0,AUTOBUS
+771,AUTOBUS,1670,154,Os.Jagiellonskie,Splawie,00:51,19:48,sobota,0.850,19.00,0,AUTOBUS
+772,TRAMWAJ,446,7,Rondo Rataje,Ogrody,01:12,19:48,sobota,1.200,19.00,1,MODERTRANS
+773,TRAMWAJ,429,18,Os.Rzeczypospolitej,Franowo,-01:32,19:48,sobota,-1.533,19.00,-1,MODERTRANS
+774,TRAMWAJ,413,1,Rondo Staroleka,Junikowo,01:15,19:49,sobota,1.250,19.00,1,TATRA
+775,TRAMWAJ,551,14,Park Wilsona,Os.Sobieskiego,01:14,19:49,sobota,1.233,19.00,1,SOLARIS
+776,AUTOBUS,1867,159,Polna Szpital,Port Lotniczy Lawica,00:47,19:50,sobota,0.783,19.00,0,AUTOBUS
+777,AUTOBUS,1014,160,Nad Wierzbakiem,Stary Strzeszyn,03:56,19:51,sobota,3.933,19.00,3,AUTOBUS
+778,AUTOBUS,1646,183,Polabska,Rondo Srodka,01:00,19:51,sobota,1.000,19.00,1,AUTOBUS
+779,AUTOBUS,1274,182,Os.Slowianskie,Gorczyn PKM,-00:34,19:52,sobota,-0.567,19.00,0,AUTOBUS
+780,AUTOBUS,1673,173,Studzienna,Rondo Srodka,00:38,19:56,sobota,0.633,19.00,0,AUTOBUS
+781,TRAMWAJ,913,16,Slowianska,Aleje Marcinkowskiego,-01:26,16:55,niedziela,-1.433,16.00,-1,MODERTRANS
+782,TRAMWAJ,424,2,Kraszewskiego,Debiec PKM,01:28,16:56,niedziela,1.467,16.00,1,MODERTRANS
+783,AUTOBUS,1655,154,Torowa Wiadukt,Splawie,00:00,16:56,niedziela,0.000,16.00,0,AUTOBUS
+784,AUTOBUS,1685,184,Os.Rusa,Rondo Rataje,02:17,17:03,niedziela,2.283,17.00,2,AUTOBUS
+785,TRAMWAJ,518,6,Termalna,Milostowo,-01:02,17:03,niedziela,-1.033,17.00,-1,SOLARIS
+786,AUTOBUS,1673,173,Studzienna,Janikowo,01:22,17:03,niedziela,1.367,17.00,1,AUTOBUS
+787,AUTOBUS,1646,167,Rondo Srodka,Rondo Srodka,-01:15,17:04,niedziela,-1.250,17.00,-1,AUTOBUS
+788,TRAMWAJ,441,11,Wielkopolska,Piatkowska,02:57,17:04,niedziela,2.950,17.00,2,MODERTRANS
+789,AUTOBUS,1259,191,Koscielna Tunel,Os.Sobieskiego,-00:05,17:04,niedziela,-0.083,17.00,0,AUTOBUS
+790,TRAMWAJ,556,15,Baltyk,Os.Sobieskiego,00:10,17:04,niedziela,0.167,17.00,0,SOLARIS
+791,AUTOBUS,1257,164,Sczanieckiej,Puszkina,-00:28,17:05,niedziela,-0.467,17.00,0,AUTOBUS
+792,AUTOBUS,1027,179,Druzynowa,Debiec PKM,-00:19,17:05,niedziela,-0.317,17.00,0,AUTOBUS
+793,AUTOBUS,1893,158,Staroleka Wielka,Sypniewo,-00:36,17:05,niedziela,-0.600,17.00,0,AUTOBUS
+794,TRAMWAJ,507,13,Staroleka Mala,Aleje Marcinkowskiego,-00:28,17:06,niedziela,-0.467,17.00,0,SIEMENS
+795,TRAMWAJ,459,1,Rondo Staroleka,Junikowo,00:03,17:06,niedziela,0.050,17.00,0,MODERTRANS
+796,AUTOBUS,5052,501,Os.Lecha I,Blazejewo/Os.Przylesie,02:08,17:06,niedziela,2.133,17.00,2,AUTOBUS
+797,AUTOBUS,1687,185,Serbska,Rondo Srodka,00:46,17:07,niedziela,0.767,17.00,0,AUTOBUS
+798,AUTOBUS,1689,178,Os.Wichrowe Wzgorze,Rondo Srodka,00:49,17:07,niedziela,0.817,17.00,0,AUTOBUS
+799,AUTOBUS,1254,164,Hezjoda,Puszkina,-00:31,17:08,niedziela,-0.517,17.00,0,AUTOBUS
+800,AUTOBUS,7008,729,Swoboda,Dopiewo/Dworzec Kolejowy,00:43,17:08,niedziela,0.717,17.00,0,AUTOBUS
+801,AUTOBUS,1859,182,Szpitalna,Os.Wichrowe Wzgorze,-00:27,17:08,niedziela,-0.450,17.00,0,AUTOBUS
+802,AUTOBUS,1480,156,Polska,Krzyzowniki,01:29,17:08,niedziela,1.483,17.00,1,AUTOBUS
+803,TRAMWAJ,433,1,Rondo Nowaka-Jezioranskiego,Franowo,00:52,17:09,niedziela,0.867,17.00,0,MODERTRANS
+804,AUTOBUS,1002,149,Ostatnia,Debiec PKM,-00:04,17:09,niedziela,-0.067,17.00,0,AUTOBUS
+805,AUTOBUS,6063,611,Debiec PKM,Debiec PKM,01:06,17:09,niedziela,1.100,17.00,1,AUTOBUS
+806,AUTOBUS,1903,171,Lozowa,Os.Wichrowe Wzgorze,00:35,17:10,niedziela,0.583,17.00,0,AUTOBUS
+807,AUTOBUS,1019,176,Rolna,Os.Debina,02:18,17:10,niedziela,2.300,17.00,2,AUTOBUS
+808,TRAMWAJ,521,6,Rondo Srodka,Junikowo,00:44,17:10,niedziela,0.733,17.00,0,SOLARIS
+809,AUTOBUS,1660,184,Chartowo,Nowe Zoo,00:29,17:10,niedziela,0.483,17.00,0,AUTOBUS
+810,AUTOBUS,1680,152,Dymka,Rondo Rataje,00:07,17:11,niedziela,0.117,17.00,0,AUTOBUS
+811,TRAMWAJ,613,18,Rondo Staroleka,Franowo,-01:07,17:11,niedziela,-1.117,17.00,-1,MODERTRANS
+812,TRAMWAJ,513,9,Polwiejska,Aleje Marcinkowskiego,-00:55,17:11,niedziela,-0.917,17.00,0,SIEMENS
+813,TRAMWAJ,430,2,Rondo Kaponiera,Ogrody,-01:24,17:11,niedziela,-1.400,17.00,-1,MODERTRANS
+814,TRAMWAJ,556,15,Slowianska,Os.Sobieskiego,01:07,17:12,niedziela,1.117,17.00,1,SOLARIS
+815,TRAMWAJ,441,11,Bonin,Piatkowska,03:00,17:12,niedziela,3.000,17.00,3,MODERTRANS
+816,AUTOBUS,1675,183,Wrzoska Szpitale,Szarych Szeregow,-01:17,17:12,niedziela,-1.283,17.00,-1,AUTOBUS
+817,AUTOBUS,1762,173,Glowna,Rondo Srodka,-00:03,17:12,niedziela,-0.050,17.00,0,AUTOBUS
+818,TRAMWAJ,518,6,Milostowo,Milostowo,-01:03,17:13,niedziela,-1.050,17.00,-1,SOLARIS
+819,AUTOBUS,1765,157,Swiatopelka,Rondo Srodka,-00:15,17:13,niedziela,-0.250,17.00,0,AUTOBUS
+820,AUTOBUS,1654,196,Krzesiny Wiadukt,Rondo Rataje,00:03,17:13,niedziela,0.050,17.00,0,AUTOBUS
+821,AUTOBUS,1639,152,Slezanska,Darzybor,-00:35,17:13,niedziela,-0.583,17.00,0,AUTOBUS
+822,TRAMWAJ,447,5,Rondo Rataje,Unii Lubelskiej,01:44,17:14,niedziela,1.733,17.00,1,MODERTRANS
+823,AUTOBUS,1893,158,Gluszyna Szkola,Sypniewo,-00:09,17:14,niedziela,-0.150,17.00,0,AUTOBUS
+824,TRAMWAJ,446,14,Most Teatralny,Gorczyn PKM,-01:09,17:15,niedziela,-1.150,17.00,-1,MODERTRANS
+825,AUTOBUS,1264,164,Nad Wierzbakiem,Kacza,02:52,17:15,niedziela,2.867,17.00,2,AUTOBUS
+826,TRAMWAJ,434,11,Solacz,Glogowska/Hetmanska,-00:09,17:15,niedziela,-0.150,17.00,0,MODERTRANS
+827,TRAMWAJ,621,7,Most Teatralny,Polabska,-00:45,17:15,niedziela,-0.750,17.00,0,MODERTRANS
+828,TRAMWAJ,526,12,Wierzbiecice,Os.Sobieskiego,01:15,17:16,niedziela,1.250,17.00,1,SOLARIS
+829,TRAMWAJ,931,10,Sw.Czeslawa,Blazeja,-01:09,17:16,niedziela,-1.150,17.00,-1,MODERTRANS
+830,TRAMWAJ,429,8,Dworzec Zachodni,Gorczyn PKM,02:19,17:16,niedziela,2.317,17.00,2,MODERTRANS
+831,AUTOBUS,1255,163,Stadion Miejski,Gorczyn PKM,03:13,13:15,poniedzialek,3.217,13.00,3,AUTOBUS
+832,TRAMWAJ,517,15,Drzewieckiego,Os.Sobieskiego,-00:12,13:15,poniedzialek,-0.200,13.00,0,SOLARIS
+833,TRAMWAJ,410,1,Stadion Miejski,Junikowo,04:12,13:15,poniedzialek,4.200,13.00,4,TATRA
+834,AUTOBUS,1501,169,Teczowa,Os.Sobieskiego,01:02,13:15,poniedzialek,1.033,13.00,1,AUTOBUS
+835,AUTOBUS,1266,164,Sciegiennego,Puszkina,09:15,13:15,poniedzialek,9.250,13.00,9,AUTOBUS
+836,TRAMWAJ,929,10,Most Dworcowy,Blazeja,-00:06,15:21,wtorek,-0.100,15.00,0,MODERTRANS
+837,TRAMWAJ,422,8,Park Wilsona,Gorczyn PKM,02:22,15:22,wtorek,2.367,15.00,2,MODERTRANS
+838,AUTOBUS,1012,145,Park Wilsona,Dworzec Zachodni,01:51,15:22,wtorek,1.850,15.00,1,AUTOBUS
+839,AUTOBUS,1256,164,Palmiarnia,Puszkina,01:32,15:22,wtorek,1.533,15.00,1,AUTOBUS
+840,AUTOBUS,1268,164,Koscielna  ,Puszkina,06:48,15:22,wtorek,6.800,15.00,6,AUTOBUS
+841,AUTOBUS,1254,164,Matejki,Kacza,03:01,15:23,wtorek,3.017,15.00,3,AUTOBUS
+842,AUTOBUS,1117,148,Polna Szpital,Lawica,03:31,15:23,wtorek,3.517,15.00,3,AUTOBUS
+843,AUTOBUS,1022,145,Szamotulska,Kacza,01:54,15:23,wtorek,1.900,15.00,1,AUTOBUS
+844,AUTOBUS,1280,177,Bulgarska/Polska,Junikowo,05:51,15:23,wtorek,5.850,15.00,5,AUTOBUS
+845,AUTOBUS,1204,193,Szpitalna,Os.Sobieskiego,02:09,15:24,wtorek,2.150,15.00,2,AUTOBUS
+846,AUTOBUS,1405,121,Ogrody,Ogrody,-00:45,15:24,wtorek,-0.750,15.00,0,AUTOBUS
+847,TRAMWAJ,420,2,Zeromskiego,Debiec PKM,-00:04,15:24,wtorek,-0.067,15.00,0,MODERTRANS
+848,AUTOBUS,1117,148,Grodziska,Lawica,02:59,15:25,wtorek,2.983,15.00,2,AUTOBUS
+849,TRAMWAJ,608,8,Rondo Kaponiera,Gorczyn PKM,01:36,15:25,wtorek,1.600,15.00,1,MODERTRANS
+850,TRAMWAJ,456,15,Most Teatralny,Os.Sobieskiego,00:24,15:25,wtorek,0.400,15.00,0,MODERTRANS
+851,TRAMWAJ,136,17,Most Teatralny,Ogrody,01:00,15:25,wtorek,1.000,15.00,1,KONSTAL
+937,AUTOBUS,1452,168,Zamek,Strzeszyn PKM,00:02,19:06,piatek,0.033,19.00,0,AUTOBUS
+853,AUTOBUS,1657,160,Nowowiejskiego,Stary Strzeszyn,00:45,15:26,wtorek,0.750,15.00,0,AUTOBUS
+854,TRAMWAJ,425,17,Pl.Wielkopolski,Zawady,00:03,15:26,wtorek,0.050,15.00,0,MODERTRANS
+855,TRAMWAJ,512,9,Aleje Marcinkowskiego,Aleje Marcinkowskiego,00:09,15:26,wtorek,0.150,15.00,0,SIEMENS
+856,AUTOBUS,1707,174,AWF,Unii Lubelskiej,-02:17,15:27,wtorek,-2.283,15.00,-2,AUTOBUS
+857,TRAMWAJ,513,13,Pl.Bernardynski,Aleje Marcinkowskiego,09:13,15:27,wtorek,9.217,15.00,9,SIEMENS
+858,TRAMWAJ,605,7,Kornicka,Ogrody,-00:21,15:27,wtorek,-0.350,15.00,0,MODERTRANS
+859,AUTOBUS,1634,178,Hlonda,Szarych Szeregow,01:42,15:28,wtorek,1.700,15.00,1,AUTOBUS
+860,AUTOBUS,1681,185,Glowna,Os.Sobieskiego,00:40,15:28,wtorek,0.667,15.00,0,AUTOBUS
+861,AUTOBUS,1663,185,Baltycka,Rondo Srodka,04:27,15:28,wtorek,4.450,15.00,4,AUTOBUS
+862,AUTOBUS,1843,173,Gnieznienska,Janikowo,01:05,15:28,wtorek,1.083,15.00,1,AUTOBUS
+863,AUTOBUS,1644,173,Urwista,Rondo Srodka,-00:36,15:29,wtorek,-0.600,15.00,0,AUTOBUS
+864,AUTOBUS,1686,166,Swiatopelka,Rondo Rataje,-00:13,15:29,wtorek,-0.217,15.00,0,AUTOBUS
+865,AUTOBUS,1480,156,Pilotow,Ogrody,00:00,15:29,wtorek,0.000,15.00,0,AUTOBUS
+866,AUTOBUS,8030,821,Przelot,Ogrody,02:30,15:30,wtorek,2.500,15.00,2,AUTOBUS
+867,AUTOBUS,1457,186,Polska,Kiekrz,01:57,15:30,wtorek,1.950,15.00,1,AUTOBUS
+868,AUTOBUS,1886,159,Bulgarska/Polska,Port Lotniczy Lawica,08:27,15:30,wtorek,8.450,15.00,8,AUTOBUS
+869,AUTOBUS,1123,148,Os.Bajkowe,Rondo Kaponiera,00:59,15:31,wtorek,0.983,15.00,0,AUTOBUS
+870,AUTOBUS,1476,156,Miedzyzdrojska,Krzyzowniki,02:48,15:31,wtorek,2.800,15.00,2,AUTOBUS
+871,AUTOBUS,1267,177,Gerberowa,Rondo Kaponiera,00:34,15:31,wtorek,0.567,15.00,0,AUTOBUS
+872,AUTOBUS,1022,145,Stadion Miejski,Kacza,-00:15,15:32,wtorek,-0.250,15.00,0,AUTOBUS
+873,TRAMWAJ,410,1,Grochowska,Franowo,00:18,15:32,wtorek,0.300,15.00,0,TATRA
+874,TRAMWAJ,939,3,Drzewieckiego,Budziszynska,00:51,15:32,wtorek,0.850,15.00,0,MODERTRANS
+875,AUTOBUS,1705,169,Szylinga,Os.Sobieskiego,03:28,15:32,wtorek,3.467,15.00,3,AUTOBUS
+876,AUTOBUS,1462,191,Koscielna Tunel,Os.Kopernika,02:49,15:33,wtorek,2.817,15.00,2,AUTOBUS
+877,TRAMWAJ,168,15,Most Teatralny,Budziszynska,00:20,15:34,wtorek,0.333,15.00,0,MODERTRANS
+878,TRAMWAJ,166,12,Slowianska,Staroleka PKM,00:20,15:34,wtorek,0.333,15.00,0,MODERTRANS
+879,TRAMWAJ,914,16,Lechicka Poznan Plaza,Aleje Marcinkowskiego,00:08,15:34,wtorek,0.133,15.00,0,MODERTRANS
+880,AUTOBUS,1706,174,Szymanowskiego,Os.Sobieskiego,05:32,15:35,wtorek,5.533,15.00,5,AUTOBUS
+881,AUTOBUS,1252,191,Opienskiego,Os.Kopernika,-00:11,15:35,wtorek,-0.183,15.00,0,AUTOBUS
+882,AUTOBUS,9110,905,Os.Zygmunta Starego,Chludowo/Szkola,01:46,15:35,wtorek,1.767,15.00,1,AUTOBUS
+883,AUTOBUS,1757,188,Szymanowskiego,Os.Sobieskiego,03:59,15:36,wtorek,3.983,15.00,3,AUTOBUS
+884,AUTOBUS,1853,348,Os.Batorego,Przebedowo/Petla,03:23,15:36,wtorek,3.383,15.00,3,AUTOBUS
+885,AUTOBUS,1851,198,UAM Kampus,Os.Sobieskiego,-00:34,15:39,wtorek,-0.567,15.00,0,AUTOBUS
+886,AUTOBUS,1492,124,Stary Strzeszyn,Safony,00:57,15:57,wtorek,0.950,15.00,0,AUTOBUS
+887,AUTOBUS,1865,159,Jasna,Poznan Glowny,01:41,15:57,wtorek,1.683,15.00,1,AUTOBUS
+888,AUTOBUS,1644,173,Urwista,Janikowo,-00:13,15:57,wtorek,-0.217,15.00,0,AUTOBUS
+889,AUTOBUS,1843,173,Rynek Wschodni,Rondo Srodka,04:50,15:57,wtorek,4.833,15.00,4,AUTOBUS
+890,AUTOBUS,1651,162,Rodawska,Rondo Srodka,00:56,15:57,wtorek,0.933,15.00,0,AUTOBUS
+891,AUTOBUS,1403,189,Warowna,Staroleka PKM,01:12,15:57,wtorek,1.200,15.00,1,AUTOBUS
+892,AUTOBUS,1408,189,Rondo Minikowo,Staroleka PKM,00:06,15:57,wtorek,0.100,15.00,0,AUTOBUS
+893,AUTOBUS,1762,194,Radomska,Unii Lubelskiej,-00:42,15:57,wtorek,-0.700,15.00,0,AUTOBUS
+894,AUTOBUS,1766,194,Zaklikowska,Staroleka PKM,01:18,15:57,wtorek,1.300,15.00,1,AUTOBUS
+895,AUTOBUS,1823,158,Klimontowska,Sypniewo,-00:23,15:57,wtorek,-0.383,15.00,0,AUTOBUS
+896,AUTOBUS,1882,158,Klimontowska,Staroleka PKM,01:31,15:57,wtorek,1.517,15.00,1,AUTOBUS
+897,TRAMWAJ,538,13,Pl.Bernardynski,Aleje Marcinkowskiego,06:40,15:58,wtorek,6.667,15.00,6,SOLARIS
+898,TRAMWAJ,521,13,Most Sw.Rocha,Staroleka PKM,05:47,15:58,wtorek,5.783,15.00,5,SOLARIS
+899,TRAMWAJ,502,9,Aleje Marcinkowskiego,Aleje Marcinkowskiego,02:08,15:58,wtorek,2.133,15.00,2,SIEMENS
+900,TRAMWAJ,534,13,Wroclawska,Staroleka PKM,00:58,15:58,wtorek,0.967,15.00,0,SOLARIS
+901,TRAMWAJ,112,8,Pl.Wielkopolski,Milostowo,05:03,15:58,wtorek,5.050,15.00,5,KONSTAL
+902,TRAMWAJ,446,8,Pl.Wielkopolski,Gorczyn PKM,00:37,15:58,wtorek,0.617,15.00,0,MODERTRANS
+903,AUTOBUS,1476,156,Kolobrzeska,Ogrody,00:52,15:58,wtorek,0.867,15.00,0,AUTOBUS
+904,AUTOBUS,1405,121,Piekna,Ogrody,-00:20,16:01,wtorek,-0.333,16.00,0,AUTOBUS
+905,AUTOBUS,1480,186,Buzanska,Kiekrz,01:30,16:01,wtorek,1.500,16.00,1,AUTOBUS
+906,AUTOBUS,1115,186,Ogrody,Ogrody,02:14,16:01,wtorek,2.233,16.00,2,AUTOBUS
+907,AUTOBUS,1124,170,Wrzoska Szpitale,Polabska,01:03,16:01,wtorek,1.050,16.00,1,AUTOBUS
+908,TRAMWAJ,912,16,Lechicka Poznan Plaza,Aleje Marcinkowskiego,00:02,16:04,wtorek,0.033,16.00,0,MODERTRANS
+909,AUTOBUS,1401,180,Sycowska II,Gorczyn PKM,01:53,16:07,wtorek,1.883,16.00,1,AUTOBUS
+910,AUTOBUS,1480,186,Kolobrzeska,Kiekrz,01:10,16:07,wtorek,1.167,16.00,1,AUTOBUS
+911,AUTOBUS,1457,186,Stobnicka,Ogrody,00:20,16:07,wtorek,0.333,16.00,0,AUTOBUS
+912,AUTOBUS,1757,188,Jaskowiaka,Os.Sobieskiego,00:07,16:07,wtorek,0.117,16.00,0,AUTOBUS
+913,TRAMWAJ,552,14,Os.Sobieskiego,Os.Sobieskiego,00:27,16:08,wtorek,0.450,16.00,0,SOLARIS
+914,AUTOBUS,9116,902,Szeligowskiego,Suchy Las/Teren Aktywnej Edukacji i Sportu,02:49,16:08,wtorek,2.817,16.00,2,AUTOBUS
+915,TRAMWAJ,416,17,Fredry,Zawady,-00:22,19:05,piatek,-0.367,19.00,0,MODERTRANS
+916,TRAMWAJ,930,3,Most Teatralny,Franowo,00:27,19:05,piatek,0.450,19.00,0,MODERTRANS
+917,TRAMWAJ,441,12,Most Teatralny,Staroleka PKM,00:36,19:05,piatek,0.600,19.00,0,MODERTRANS
+852,AUTOBUS,1453,168,Urzad Marszalkowski,Strzeszyn PKM,-00:32,15:26,wtorek,-0.533,15.00,0,AUTOBUS
+919,AUTOBUS,1278,182,Maczka,Os.Wichrowe Wzgorze,02:29,19:05,piatek,2.483,19.00,2,AUTOBUS
+920,AUTOBUS,1258,164,Slaska,Kacza,00:01,19:05,piatek,0.017,19.00,0,AUTOBUS
+921,AUTOBUS,1251,164,Uniwersytet Przyrodniczy,Puszkina,02:10,19:05,piatek,2.167,19.00,2,AUTOBUS
+922,TRAMWAJ,431,11,Solacz,Unii Lubelskiej,00:23,19:05,piatek,0.383,19.00,0,MODERTRANS
+923,AUTOBUS,1202,193,Witosa Kladka,Gorczyn PKM,01:04,19:05,piatek,1.067,19.00,1,AUTOBUS
+924,AUTOBUS,1863,170,Dojazd Biocentrum,Puszkina,-00:47,19:05,piatek,-0.783,19.00,0,AUTOBUS
+925,TRAMWAJ,526,15,Aleje Solidarnosci,Budziszynska,-00:20,19:06,piatek,-0.333,19.00,0,SOLARIS
+926,TRAMWAJ,310,12,Kurpinskiego,Staroleka PKM,-00:10,19:06,piatek,-0.167,19.00,0,KONSTAL
+927,AUTOBUS,1701,169,Naramowice,Os.Kopernika,02:52,19:06,piatek,2.867,19.00,2,AUTOBUS
+928,AUTOBUS,1846,182,Rondo Solidarnosci,Gorczyn PKM,00:48,19:06,piatek,0.800,19.00,0,AUTOBUS
+929,AUTOBUS,1626,183,Polabska,Szarych Szeregow,01:02,19:06,piatek,1.033,19.00,1,AUTOBUS
+930,AUTOBUS,1651,174,Male Garbary,Unii Lubelskiej,03:13,19:06,piatek,3.217,19.00,3,AUTOBUS
+931,AUTOBUS,1833,163,Garbary PKM,Garbary PKM,00:54,19:06,piatek,0.900,19.00,0,AUTOBUS
+932,TRAMWAJ,446,8,Male Garbary,Milostowo,00:31:09,19:06,piatek,0.517,19.00,0,MODERTRANS
+933,TRAMWAJ,336,7,Katedra,Staroleka PKM,00:18,19:06,piatek,0.300,19.00,0,MODERTRANS
+934,TRAMWAJ,427,8,Pl.Ratajskiego,Gorczyn PKM,00:52:00,19:06,piatek,0.867,19.00,0,MODERTRANS
+935,TRAMWAJ,418,8,Pl.Wielkopolski,Milostowo,01:40,19:06,piatek,1.667,19.00,1,MODERTRANS
+936,TRAMWAJ,416,17,Pl.Ratajskiego,Zawady,-00:46,19:06,piatek,-0.767,19.00,0,MODERTRANS
+713,AUTOBUS,1637,168,Slowianska,Strzeszyn PKM,-00:35,17:54,sobota,-0.583,17.00,0,AUTOBUS
+938,TRAMWAJ,88,11,Most Dworcowy,Piatkowska,01:27,19:07,piatek,1.450,19.00,1,MODERTRANS
+939,TRAMWAJ,918,14,Rynek Lazarski,Franowo,-00:27,19:07,piatek,-0.450,19.00,0,MODERTRANS
+940,TRAMWAJ,455,14,Rynek Lazarski,Os.Sobieskiego,00:13,19:07,piatek,0.217,19.00,0,MODERTRANS
+941,TRAMWAJ,519,14,Krauthofera,Gorczyn PKM,02:25,19:07,piatek,2.417,19.00,2,SOLARIS
+942,TRAMWAJ,206,15,Glogowska/Hetmanska,Glogowska/Hetmanska,03:30,19:07,piatek,3.500,19.00,3,KONSTAL
+943,TRAMWAJ,421,8,Sielska,Gorczyn PKM,01:36,19:07,piatek,1.600,19.00,1,MODERTRANS
+944,TRAMWAJ,234,5,Gorczyn PKM,Gorczyn PKM,04:41,19:07,piatek,4.683,19.00,4,MODERTRANS
+945,AUTOBUS,1842,182,Palacza,Gorczyn PKM,-00:09,19:07,piatek,-0.150,19.00,0,AUTOBUS
+946,AUTOBUS,1279,164,Sciegiennego,Kacza,06:00,19:07,piatek,6.000,19.00,6,AUTOBUS
+947,TRAMWAJ,410,1,Drzewieckiego,Junikowo,02:09,19:07,piatek,2.150,19.00,2,TATRA
+948,AUTOBUS,1462,145,Stadion Miejski,Kacza,-00:26,19:07,piatek,-0.433,19.00,0,AUTOBUS
+949,AUTOBUS,1903,159,Bulgarska/Polska,Port Lotniczy Lawica,00:01,19:07,piatek,0.017,19.00,0,AUTOBUS
+950,TRAMWAJ,198,17,Os.Rzeczypospolitej,Staroleka PKM,08:59,19:07,piatek,8.983,19.00,8,MODERTRANS
+951,TRAMWAJ,434,2,Os.Rzeczypospolitej,Staroleka PKM,07:04,19:07,piatek,7.067,19.00,7,MODERTRANS
+952,TRAMWAJ,604,7,Os.Piastowskie,Ogrody,13:46,19:07,piatek,13.767,19.00,13,MODERTRANS
+953,TRAMWAJ,544,13,Os.Piastowskie,Staroleka PKM,08:09,19:07,piatek,8.150,19.00,8,SOLARIS
+954,TRAMWAJ,453,5,Os.Piastowskie,Unii Lubelskiej,12:13,19:07,piatek,12.217,19.00,12,MODERTRANS
+955,TRAMWAJ,503,12,Rondo Rataje,Os.Sobieskiego,00:25,19:08,piatek,0.417,19.00,0,SIEMENS
+956,TRAMWAJ,312,6,Os.Piastowskie,Staroleka PKM,04:20,19:08,piatek,4.333,19.00,4,KONSTAL
+957,TRAMWAJ,541,13,Wioslarska,Franowo,05:58,19:08,piatek,5.967,19.00,5,SOLARIS
+958,TRAMWAJ,314,15,Wioslarska,Staroleka PKM,09:10,19:08,piatek,9.167,19.00,9,KONSTAL
+959,TRAMWAJ,934,10,Wioslarska,Franowo,-04:38,19:08,piatek,-4.633,19.00,-4,MODERTRANS
+960,TRAMWAJ,611,6,Wioslarska,Franowo,04:44,19:08,piatek,4.733,19.00,4,MODERTRANS
+961,TRAMWAJ,625,7,Rondo Rataje,Polabska,05:42,19:08,piatek,5.700,19.00,5,MODERTRANS
+962,AUTOBUS,1668,152,Rondo Rataje,Darzybor,04:55,19:08,piatek,4.917,19.00,4,AUTOBUS
+963,TRAMWAJ,174,12,Rondo Rataje,Staroleka PKM,04:22,19:08,piatek,4.367,19.00,4,KONSTAL
+964,TRAMWAJ,550,13,Rondo Rataje,Staroleka PKM,02:39,19:08,piatek,2.650,19.00,2,SOLARIS
+965,TRAMWAJ,548,12,Rondo Rataje,Franowo,-00:22,19:08,piatek,-0.367,19.00,0,SOLARIS
+966,AUTOBUS,1660,162,Rondo Rataje,Rondo Rataje,00:08,19:08,piatek,0.133,19.00,0,AUTOBUS
+967,TRAMWAJ,619,7,Rondo Rataje,Ogrody,02:08,19:08,piatek,2.133,19.00,2,MODERTRANS
+968,TRAMWAJ,510,13,Politechnika,Aleje Marcinkowskiego,01:08,19:08,piatek,1.133,19.00,1,SIEMENS
+969,TRAMWAJ,533,6,Rondo Srodka,Junikowo,-00:44,19:08,piatek,-0.733,19.00,0,SOLARIS
+970,TRAMWAJ,185,1683,Zawady,Rondo Srodka,01:44,19:08,piatek,1.733,19.00,1,MODERTRANS
+971,AUTOBUS,1859,178,Hlonda,Szarych Szeregow,04:06,19:08,piatek,4.100,19.00,4,AUTOBUS
+972,AUTOBUS,1691,185,Glowna,Os.Sobieskiego,01:39,19:08,piatek,1.650,19.00,1,AUTOBUS
+973,AUTOBUS,1680,173,Gnieznienska,Janikowo,01:58,19:08,piatek,1.967,19.00,1,AUTOBUS
+974,TRAMWAJ,607,18,Os.Czecha,Ogrody,00:26,19:09,piatek,0.433,19.00,0,MODERTRANS
+975,AUTOBUS,1658,181,Blizniat,Rondo Rataje,00:59,19:09,piatek,0.983,19.00,0,AUTOBUS
+976,AUTOBUS,1661,181,Dymka,Krzywoustego,-00:28,19:09,piatek,-0.467,19.00,0,AUTOBUS
+977,AUTOBUS,4316,435,Torowa Wiadukt,Tulce/Kosciol,00:09,19:09,piatek,0.150,19.00,0,AUTOBUS
+978,AUTOBUS,1769,152,Inflancka,Rondo Rataje,01:46,19:09,piatek,1.767,19.00,1,AUTOBUS
+979,AUTOBUS,1672,166,Os.Oswiecenia,Rondo Rataje,05:01,19:09,piatek,5.017,19.00,5,AUTOBUS
+980,AUTOBUS,1633,154,Rondo Rataje,Rondo Rataje,00:27,19:09,piatek,0.450,19.00,0,AUTOBUS
+981,TRAMWAJ,609,18,Rondo Rataje,Franowo,01:19,19:09,piatek,1.317,19.00,1,MODERTRANS
+982,AUTOBUS,1908,190,Os.Jagiellonskie,Bobrzanska,02:10,19:09,piatek,2.167,19.00,2,AUTOBUS
+983,AUTOBUS,1637,154,Rondo Rataje,Splawie,00:12,19:09,piatek,0.200,19.00,0,AUTOBUS
+984,AUTOBUS,1712,174,Os.Armii Krajowej,Unii Lubelskiej,02:11,19:09,piatek,2.183,19.00,2,AUTOBUS
+985,TRAMWAJ,502,13,Os.Rzeczypospolitej,Aleje Marcinkowskiego,00:26,19:09,piatek,0.433,19.00,0,SIEMENS
+986,TRAMWAJ,140,1,Rondo Staroleka,Staroleka PKM,02:21,19:09,piatek,2.350,19.00,2,MODERTRANS
+987,TRAMWAJ,538,13,Staroleka Mala,Franowo,00:29,19:09,piatek,0.483,19.00,0,SOLARIS
+988,AUTOBUS,4302,432,Os.Lecha I,Rondo Rataje,04:25,19:10,piatek,4.417,19.00,4,AUTOBUS
+989,AUTOBUS,5012,512,Sanocka,Zerniki/Wies,02:26,19:10,piatek,2.433,19.00,2,AUTOBUS
+990,AUTOBUS,1646,196,Pokrzywno,Rondo Rataje,00:35,19:10,piatek,0.583,19.00,0,AUTOBUS
+991,TRAMWAJ,933,3,Rondo Nowaka-Jezioranskiego,Blazeja,00:16,19:10,piatek,0.267,19.00,0,MODERTRANS
+992,TRAMWAJ,931,3,Grochowska,Budziszynska,01:06,19:10,piatek,1.100,19.00,1,MODERTRANS
+993,AUTOBUS,1878,182,Brzask,Os.Wichrowe Wzgorze,01:04,19:10,piatek,1.067,19.00,1,AUTOBUS
+994,AUTOBUS,1479,191,Bulgarska/Polska,Os.Kopernika,-01:07,19:10,piatek,-1.117,19.00,-1,AUTOBUS
+995,AUTOBUS,1275,182,Szpitalna,Gorczyn PKM,00:36,19:10,piatek,0.600,19.00,0,AUTOBUS
+996,AUTOBUS,1457,156,Ogrody,Krzyzowniki,00:13,19:10,piatek,0.217,19.00,0,AUTOBUS
+997,AUTOBUS,1863,170,Golecinska,Puszkina,-00:45,19:10,piatek,-0.750,19.00,0,AUTOBUS
+998,AUTOBUS,1252,164,Golecinska,Puszkina,02:07,19:10,piatek,2.117,19.00,2,AUTOBUS
+999,AUTOBUS,8318,837,Kontryma,Ogrody,01:19,19:10,piatek,1.317,19.00,1,AUTOBUS
+1000,AUTOBUS,1503,160,Strzeszyn PKM,Stary Strzeszyn,02:29,19:11,piatek,2.483,19.00,2,AUTOBUS
+1001,AUTOBUS,1856,167,Lopianowa,Radojewo,04:21,19:11,piatek,4.350,19.00,4,AUTOBUS
+1002,AUTOBUS,1020,193,Wiedenska,Os.Sobieskiego,00:53,19:11,piatek,0.883,19.00,0,AUTOBUS
+1003,AUTOBUS,1627,178,Hulewiczow,Rondo Srodka,00:29,19:11,piatek,0.483,19.00,0,AUTOBUS
+1004,AUTOBUS,1849,185,Szymanowskiego,Rondo Srodka,03:52,19:11,piatek,3.867,19.00,3,AUTOBUS
+1005,AUTOBUS,1017,169,Szymanowskiego,Rondo Srodka,00:08,19:11,piatek,0.133,19.00,0,AUTOBUS
+1006,AUTOBUS,9104,902,Os.Marysienki,Suchy Las/Teren Aktywnej Edukacji i Sportu,01:58,19:11,piatek,1.967,19.00,1,AUTOBUS
+1007,AUTOBUS,1876,190,Os.Jagielly,Bobrzanska,00:14,19:11,piatek,0.233,19.00,0,AUTOBUS
+1008,TRAMWAJ,913,16,Szymanowskiego,Aleje Marcinkowskiego,00:09,19:11,piatek,0.150,19.00,0,MODERTRANS
+1009,TRAMWAJ,522,14,Aleje Solidarnosci,Gorczyn PKM,00:14,19:11,piatek,0.233,19.00,0,SOLARIS
+1010,TRAMWAJ,413,5,Gorczyn PKM,Gorczyn PKM,03:26,21:00,piatek,3.433,21.00,3,TATRA
+1011,AUTOBUS,1276,182,Gorczyn PKM,Gorczyn PKM,-00:10,21:00,piatek,-0.167,21.00,0,AUTOBUS
+1012,TRAMWAJ,427,8,Sielska,Gorczyn PKM,22:24,21:00,piatek,1.600,21.00,1,MODERTRANS
+1013,TRAMWAJ,620,7,Arciszewskiego,Ogrody,-01:46,21:00,piatek,-1.767,21.00,-1,MODERTRANS
+1014,TRAMWAJ,432,11,Glogowska/Hetmanska,Unii Lubelskiej,00:04,21:00,piatek,0.067,21.00,0,MODERTRANS
+1015,AUTOBUS,1005,179,Dmowskiego,Debiec PKM,-00:29,21:00,piatek,-0.483,21.00,0,AUTOBUS
+1016,TRAMWAJ,552,14,Rynek Lazarski,Gorczyn PKM,-00:35,21:01,piatek,-0.583,21.00,0,SOLARIS
+1017,TRAMWAJ,542,6,Baltyk,Milostowo,-00:36,21:01,piatek,-0.600,21.00,0,SOLARIS
+1018,AUTOBUS,1257,164,Uniwersytet Przyrodniczy,Puszkina,04:39,21:01,piatek,4.650,21.00,4,AUTOBUS
+1019,TRAMWAJ,422,11,Bonin,Piatkowska,02:21,21:01,piatek,2.350,21.00,2,MODERTRANS
+1020,AUTOBUS,1287,190,Slowianska,Bobrzanska,-00:07,21:01,piatek,-0.117,21.00,0,AUTOBUS
+1021,AUTOBUS,1002,160,Garbary PKM,Garbary PKM,07:12,21:01,piatek,7.200,21.00,7,AUTOBUS
+1022,TRAMWAJ,551,6,Rondo Srodka,Milostowo,02:02,21:01,piatek,2.033,21.00,2,SOLARIS
+1023,AUTOBUS,1663,184,Rondo Srodka,Termy Maltanskie,06:50,21:01,piatek,6.833,21.00,6,AUTOBUS
+1024,TRAMWAJ,510,13,Politechnika,Aleje Marcinkowskiego,-00:13,21:01,piatek,-0.217,21.00,0,SIEMENS
+1025,AUTOBUS,1669,152,Rondo Rataje,Darzybor,00:23,21:01,piatek,0.383,21.00,0,AUTOBUS
+1026,AUTOBUS,1854,190,Rondo Rataje,Os.Sobieskiego,02:02,21:01,piatek,2.033,21.00,2,AUTOBUS
+1027,TRAMWAJ,627,7,Rondo Rataje,Polabska,-01:08,21:01,piatek,-1.133,21.00,-1,MODERTRANS
+1028,AUTOBUS,1646,162,Rondo Rataje,Rondo Rataje,01:03,21:01,piatek,1.050,21.00,1,AUTOBUS
+1029,TRAMWAJ,526,12,Os.Piastowskie,Staroleka PKM,-00:55,21:01,piatek,-0.917,21.00,0,SOLARIS
+1030,TRAMWAJ,603,6,Polwiejska,Junikowo,02:11,21:01,piatek,2.183,21.00,2,MODERTRANS
+1031,TRAMWAJ,612,18,Serafitek,Franowo,-01:35,21:01,piatek,-1.583,21.00,-1,MODERTRANS
+1032,TRAMWAJ,507,9,HCP,Debiec PKM,02:25,21:01,piatek,2.417,21.00,2,SIEMENS
+1033,AUTOBUS,1705,174,Os.Bohaterow II Wojny Swiatowej,Unii Lubelskiej,02:55,21:02,piatek,2.917,21.00,2,AUTOBUS
+1034,TRAMWAJ,521,14,Rondo Staroleka,Gorczyn PKM,01:22,21:02,piatek,1.367,21.00,1,SOLARIS
+1035,TRAMWAJ,400,1,Rondo Staroleka,Franowo,-00:22,21:02,piatek,-0.367,21.00,0,TATRA
+1036,TRAMWAJ,558,12,Rondo Staroleka,Os.Sobieskiego,-00:33,21:02,piatek,-0.550,21.00,0,SOLARIS
+1037,AUTOBUS,1772,194,Staroleka PKM,Staroleka PKM,-01:17,21:02,piatek,-1.283,21.00,-1,AUTOBUS
+1038,AUTOBUS,1886,158,Zeglarska,Sypniewo,00:02,21:02,piatek,0.033,21.00,0,AUTOBUS
+1039,AUTOBUS,1502,194,Radomska,Unii Lubelskiej,-00:22,21:02,piatek,-0.367,21.00,0,AUTOBUS
+1040,AUTOBUS,1402,189,Rondo Minikowo,Staroleka PKM,01:23,21:02,piatek,1.383,21.00,1,AUTOBUS
+1041,AUTOBUS,1401,189,Forteczna,Staroleka PKM,01:47,21:02,piatek,1.783,21.00,1,AUTOBUS
+1042,AUTOBUS,1656,181,Os.Tysiaclecia,Krzywoustego,00:57,21:02,piatek,0.950,21.00,0,AUTOBUS
+1043,TRAMWAJ,933,3,Zniwna,Blazeja,01:10,21:02,piatek,1.167,21.00,1,MODERTRANS
+1044,TRAMWAJ,927,10,Armii Poznan,Debiec PKM,-00:27,21:02,piatek,-0.450,21.00,0,MODERTRANS
+1045,TRAMWAJ,917,16,Aleje Solidarnosci,Os.Sobieskiego,00:18,21:02,piatek,0.300,21.00,0,MODERTRANS
+1046,TRAMWAJ,549,12,Most Teatralny,Staroleka PKM,00:04,21:02,piatek,0.067,21.00,0,SOLARIS
+1047,AUTOBUS,1888,171,Slowianska,Os.Wichrowe Wzgorze,-01:42,21:02,piatek,-1.700,21.00,-1,AUTOBUS
+1048,AUTOBUS,1287,190,Ozimina,Bobrzanska,-00:38,21:02,piatek,-0.633,21.00,0,AUTOBUS
+918,AUTOBUS,1866,168,Urbanowska,Poznan Glowny,-01:14,19:05,piatek,-1.233,19.00,-1,AUTOBUS
+1050,AUTOBUS,1015,193,Os.Winiary,Gorczyn PKM,00:56,21:03,piatek,0.933,21.00,0,AUTOBUS
+1051,TRAMWAJ,422,11,Os.Winiary,Piatkowska,02:23,21:03,piatek,2.383,21.00,2,MODERTRANS
+1052,AUTOBUS,1481,146,Kurpinskiego,Boranta,02:12,21:03,piatek,2.200,21.00,2,AUTOBUS
+1053,AUTOBUS,1014,169,Kurpinskiego,Os.Kopernika,02:57,21:03,piatek,2.950,21.00,2,AUTOBUS
+1054,TRAMWAJ,519,14,Szymanowskiego,Os.Sobieskiego,02:38,21:03,piatek,2.633,21.00,2,SOLARIS
+1055,TRAMWAJ,434,15,Szymanowskiego,Budziszynska,-00:10,21:03,piatek,-0.167,21.00,0,MODERTRANS
+1056,AUTOBUS,1648,185,Szeligowskiego,Rondo Srodka,01:02,21:03,piatek,1.033,21.00,1,AUTOBUS
+1057,AUTOBUS,1919,198,UAM Kampus,Os.Sobieskiego,01:21,21:03,piatek,1.350,21.00,1,AUTOBUS
+1058,AUTOBUS,1655,178,Legowskiego Wiadukt,Szarych Szeregow,04:59,21:03,piatek,4.983,21.00,4,AUTOBUS
+1059,AUTOBUS,1647,183,Bialczanska,Rondo Srodka,00:40,21:03,piatek,0.667,21.00,0,AUTOBUS
+637,AUTOBUS,1878,168,Rondo Kaponiera,Poznan Glowny,-01:51,07:44,piatek,-1.850,7.00,-1,AUTOBUS
+1061,AUTOBUS,1503,160,Kosowska,Garbary PKM,00:09,21:03,piatek,0.150,21.00,0,AUTOBUS
+1062,AUTOBUS,1258,164,Hezjoda,Kacza,00:24,21:03,piatek,0.400,21.00,0,AUTOBUS
+1063,AUTOBUS,8318,837,Literacka,Ogrody,01:59,21:03,piatek,1.983,21.00,1,AUTOBUS
+1064,AUTOBUS,8316,834,Buzanska,Zydowo/Petla,01:20,21:03,piatek,1.333,21.00,1,AUTOBUS
+1065,AUTOBUS,1835,169,Opalenicka,Urzad Wojewodzki,01:06,21:03,piatek,1.100,21.00,1,AUTOBUS
+1066,TRAMWAJ,555,15,Grochowska,Budziszynska,02:20,21:03,piatek,2.333,21.00,2,SOLARIS
+1067,TRAMWAJ,410,1,Grochowska,Junikowo,00:11,21:03,piatek,0.183,21.00,0,TATRA
+1068,TRAMWAJ,614,7,Arciszewskiego,Polabska,-01:27,21:03,piatek,-1.450,21.00,-1,MODERTRANS
+1069,AUTOBUS,1020,193,Kordeckiego,Os.Sobieskiego,-00:15,21:04,piatek,-0.250,21.00,0,AUTOBUS
+1070,AUTOBUS,6064,614,Cieszynska,Lubon/Kreta,05:07,21:04,piatek,5.117,21.00,5,AUTOBUS
+1071,AUTOBUS,1492,149,Jesionowa,Gorczyn PKM,00:28,21:04,piatek,0.467,21.00,0,AUTOBUS
+1072,TRAMWAJ,416,2,Sw.Czeslawa,Ogrody,-00:24,21:04,piatek,-0.400,21.00,0,MODERTRANS
+1073,TRAMWAJ,507,9,Wspolna,Debiec PKM,03:46,21:04,piatek,3.767,21.00,3,SIEMENS
+1074,TRAMWAJ,433,8,Pl.Wielkopolski,Gorczyn PKM,-00:28,21:04,piatek,-0.467,21.00,0,MODERTRANS
+1075,TRAMWAJ,936,3,Wlodarska,Budziszynska,00:17,21:04,piatek,0.283,21.00,0,MODERTRANS
+1076,TRAMWAJ,936,3,Wielkopolska,Blazeja,03:55,22:21,piatek,3.917,22.00,3,MODERTRANS
