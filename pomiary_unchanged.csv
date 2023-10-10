@@ -1,0 +1,831 @@
+L.P,Rodzaj pojazdu,Nr boczny,Linia,Następny przystanek,Przystanek końcowy,Opóźnienie/Przyspieszenie,Godzina odczytu,Dzień tygodnia,Opóźnienie (float),Godzina (int),Opóźnienie(int)
+1,TRAMWAJ,423,17,Fredry,Zawady,01:59,14:43,środa,"1,983","14,00",1
+2,TRAMWAJ,264,8,Most Teatralny,Górczyn PKM,00:37,14:44,środa,"0,617","14,00",0
+3,TRAMWAJ,620,6,Most Dworcowy,Miłostowo,-00:51:00,14:44,środa,"-0,850","14,00",0
+4,TRAMWAJ,542,12,Poznań Główny,Starołęka PKM,00:44,14:45,środa,"0,733","14,00",0
+5,TRAMWAJ,918,10,Wierzbięcice,Dębiec PKM,01:59,14:45,środa,"1,983","14,00",1
+6,TRAMWAJ,162,6,Most Dworcowy,Junikowo,01:59,14:46,środa,"1,983","14,00",1
+7,TRAMWAJ,550,12,AWF,Os. Sobieskiego,03:58,14:46,środa,"3,967","14,00",3
+8,TRAMWAJ,558,9,Łąkowa,Dębiec PKM,00:54,14:46,środa,"0,900","14,00",0
+9,TRAMWAJ,226,7,Rondo Rataje,Połabska,03:23,14:47,środa,"3,383","14,00",3
+10,TRAMWAJ,290,5,Rondo Rataje,Unii Lubelskiej,-00:29:00,14:47,środa,"-0,483","14,00",0
+11,TRAMWAJ,553,6,Rondo Rataje,Junikowo,03:01,14:47,środa,"3,017","14,00",3
+12,TRAMWAJ,428,8,Rondo Śródka,Miłostowo,-00:16:00,14:48,środa,"-0,267","14,00",0
+13,TRAMWAJ,545,13,Kórnicka,Starołęka PKM,01:53,14:48,środa,"1,883","14,00",1
+14,TRAMWAJ,436,5,Wagrowska,Unii Lubelskiej,02:20,14:49,środa,"2,333","14,00",2
+15,TRAMWAJ,441,1,Żegrze III,Franowo,12:45,14:49,środa,"12,750","14,00",12
+16,TRAMWAJ,424,11,Unii Lubelskiej,Unii Lubelskiej,03:23,14:50,środa,"3,383","14,00",3
+17,TRAMWAJ,555,13,Rondo Starołęka,Starołęka PKM,06:01,14:50,środa,"6,017","14,00",6
+18,TRAMWAJ,218,2,Rynek Wildecki,Ogrody,00:51,14:51,środa,"0,850","14,00",0
+19,TRAMWAJ,402,1,Hetmańska Wiadukt,Franowo,02:02,14:51,środa,"2,033","14,00",2
+20,AUTOBUS,1018,176,Krzyżowa,Garbary PKM,01:00,14:51,środa,"1,000","14,00",1
+21,TRAMWAJ,616,7,Rolna,Połabska,-00:14:00,14:52,środa,"-0,233","14,00",0
+22,TRAMWAJ,918,10,Pamiątkowa,Dębiec PKM,02:28,14:52,środa,"2,467","14,00",2
+23,TRAMWAJ,264,8,Głogowska/Hetmańska,Górczyn PKM,01:06,14:53,środa,"1,100","14,00",1
+24,TRAMWAJ,522,9,Traugutta,Aleje Marcinkowskiego,-00:20:00,14:53,środa,"-0,333","14,00",0
+25,AUTOBUS,1907,171,Robocza,Os.Wichrowe Wzgórze,04:02,14:53,środa,"4,033","14,00",4
+26,TRAMWAJ,925,3,Rondo Nowaka-Jeziorańskiego,Błażeja,-01:02:00,14:54,środa,"-1,033","14,00",-1
+27,AUTOBUS,1503,169,Opalenicka,Os.Sobieskiego,-00:13:00,14:54,środa,"-0,217","14,00",0
+28,AUTOBUS,1253,159,Swoboda,Port Lotniczy Ławica,-00:52:00,14:55,środa,"-0,867","14,00",0
+29,AUTOBUS,1639,169,Opalenicka,Os.Kopernika,00:41,14:55,środa,"0,683","14,00",0
+30,TRAMWAJ,224,18,Żeromskiego,Ogrody,09:52,14:56,środa,"9,867","14,00",9
+31,AUTOBUS,1829,191,Szpitalna,Os.Kopernika,01:15,14:56,środa,"1,250","14,00",1
+32,AUTOBUS,7015,729,Swoboda,Dopiewo/Dworzec Kolejowy,00:19,14:56,środa,"0,317","14,00",0
+33,TRAMWAJ,432,2,Żeromskiego,Ogrody,-00:46:00,14:57,środa,"-0,767","14,00",0
+34,TRAMWAJ,612,18,Rynek Jeżycki,Ogrody,04:54,14:57,środa,"4,900","14,00",4
+35,TRAMWAJ,927,7,Żeromskiego,Ogrody,01:07,14:57,środa,"1,117","14,00",1
+36,TRAMWAJ,609,7,Most Teatralny,Połabska,08:35,14:58,środa,"8,583","14,00",8
+37,TRAMWAJ,938,10,Most Teatralny,Dębiec PKM,00:43,14:58,środa,"0,717","14,00",0
+38,TRAMWAJ,228,11,Wielkopolska,Unii Lubelskiej,00:42,14:59,środa,"0,700","14,00",0
+39,TRAMWAJ,519,15,Most Teatralny,Budziszyńska,01:41,14:59,środa,"1,683","14,00",1
+40,TRAMWAJ,917,16,Most Teatralny,Aleje Marcinkowskiego,-01:28:00,14:59,środa,"-1,467","14,00",-1
+41,TRAMWAJ,933,10,Wielkopolska,Błażeja,01:51,14:59,środa,"1,850","14,00",1
+42,TRAMWAJ,459,7,Wielkopolska,Ogrody,00:09,15:00,środa,"0,150","15,00",0
+43,AUTOBUS,1878,168,Urząd Marszałkowski,Strzeszyn PKM,01:03,15:00,środa,"1,050","15,00",1
+44,TRAMWAJ,538,14,Most Teatralny,Górczyn PKM,-00:15:00,15:01,środa,"-0,250","15,00",0
+45,AUTOBUS,1258,182,Śląska,Górczyn PKM,02:03,15:01,środa,"2,050","15,00",2
+46,AUTOBUS,1643,160,Klin,Garbary PKM,-00:40:00,15:01,środa,"-0,667","15,00",0
+47,TRAMWAJ,430,2,Stare Zoo,Dębiec PKM,00:49,15:02,środa,"0,817","15,00",0
+48,AUTOBUS,1257,164,Jeżycka,Puszkina,00:02,15:02,środa,"0,033","15,00",0
+49,TRAMWAJ,168,15,Bałtyk,Os.Sobieskiego,00:26,15:03,środa,"0,433","15,00",0
+50,TRAMWAJ,546,12,Poznań Główny,Starołęka PKM,-00:22:00,15:03,środa,"-0,367","15,00",0
+51,AUTOBUS,1002,145,Dworzec Zachodni,Dworzec Zachodni,00:03,15:03,środa,"0,050","15,00",0
+52,TRAMWAJ,128,7,Arciszewskiego,Ogrody,07:55,15:04,środa,"7,917","15,00",7
+53,TRAMWAJ,421,11,Głogowska/Hetmańska,Unii Lubelskiej,02:13,15:04,środa,"2,217","15,00",2
+54,TRAMWAJ,530,5,Krauthofera,Górczyn PKM,06:03,15:04,środa,"6,050","15,00",6
+55,TRAMWAJ,431,8,Rynek Łazarski,Górczyn PKM,03:44,15:05,środa,"3,733","15,00",3
+56,TRAMWAJ,553,6,Wojskowa,Junikowo,06:16,15:05,środa,"6,267","15,00",6
+57,AUTOBUS,1289,164,Wyspiańskiego,Puszkina,00:13,15:05,środa,"0,217","15,00",0
+58,TRAMWAJ,218,2,Rynej Jeżycki,Ogrody,03:05,15:06,środa,"3,083","15,00",3
+59,TRAMWAJ,921,3,Wojskowa,Budziszyńska,-00:43:00,15:06,środa,"-0,717","15,00",0
+60,AUTOBUS,1261,164,Matejki,Kacza,00:28,15:06,środa,"0,467","15,00",0
+61,TRAMWAJ,112,15,Matejki,Budziszyńska,00:38,15:07,środa,"0,633","15,00",0
+62,TRAMWAJ,916,16,Zamek,Os.Sobieskiego,01:13,15:07,środa,"1,217","15,00",1
+63,AUTOBUS,1836,163,Rondo Kaponiera,Górczyn PKM,01:06,15:07,środa,"1,100","15,00",1
+64,TRAMWAJ,459,7,Pl. Ratajskiego,Ogrody,00:29,15:08,środa,"0,483","15,00",0
+65,AUTOBUS,1452,168,Zamek,Poznań Główny,06:14,15:08,środa,"6,233","15,00",6
+66,TRAMWAJ,419,8,Pl. Ratajskiego,Górczyn PKM,00:10,15:09,środa,"0,167","15,00",0
+67,TRAMWAJ,539,13,Pl. Bernardyński,Starołęka PKM,01:34,15:09,środa,"1,567","15,00",1
+68,AUTOBUS,1907,171,Urząd Marszałkowski,Os. Wichrowe Wzgórze,04:26,15:09,środa,"4,433","15,00",4
+69,AUTOBUS,1858,167,Małe Garbary,Rondo Śródka,01:28,15:10,środa,"1,467","15,00",1
+70,AUTOBUS,6138,603,Wielka,Garbary PKM,12:29,15:10,środa,"12,483","15,00",12
+71,TRAMWAJ,455,17,Katedra,Zawady,03:00,15:11,środa,"3,000","15,00",3
+72,AUTOBUS,1259,163,Małe Garbary,Garbary PKM,00:31,15:11,środa,"0,517","15,00",0
+73,AUTOBUS,1862,190,Wielka,Os.Sobieskiego,05:08,15:11,środa,"5,133","15,00",5
+74,TRAMWAJ,505,13,Wrocławska,Aleje Marcinkowskiego,03:14,15:12,środa,"3,233","15,00",3
+75,AUTOBUS,1705,174,Pl.Bernardyński,Unii Lubelskiej,01:12,15:12,środa,"1,200","15,00",1
+76,TRAMWAJ,531,6,AWF,Miłostowo,00:14,15:13,środa,"0,233","15,00",0
+77,AUTOBUS,1713,174,Os.Stare Żegrze,Unii Lubelskiej,01:09,15:13,środa,"1,150","15,00",1
+78,AUTOBUS,6057,603,Droga Dębińska,Łęczyca/Dworcowa,-00:08:00,15:13,środa,"-0,133","15,00",0
+79,TRAMWAJ,527,5,Os.Rzeczypospolitej,Unii Lubelskiej,02:11,15:14,środa,"2,183","15,00",2
+80,AUTOBUS,1648,184,Os.Bohaterów II Wojny Światowej,Nowe Zoo,00:39,15:14,środa,"0,650","15,00",0
+81,TRAMWAJ,546,12,Os.Piastowskie,Starołęka PKM,-00:16:00,15:15,środa,"-0,267","15,00",0
+82,TRAMWAJ,629,18,Wioślarska,Ogrody,02:21,15:15,środa,"2,350","15,00",2
+83,AUTOBUS,1663,181,Os.Oświecenia,Krzywoustego,01:53,15:15,środa,"1,883","15,00",1
+84,TRAMWAJ,539,13,Rondo Rataje,Starołęka PKM,01:50,15:16,środa,"1,833","15,00",1
+85,TRAMWAJ,603,7,Rondo Rataje,Ogrody,04:10,15:16,środa,"4,167","15,00",4
+86,TRAMWAJ,436,5,AWF,Górczyn PKM,02:12,15:17,środa,"2,200","15,00",2
+87,TRAMWAJ,531,6,Rondo Rataje,Miłostowo,-00:40:00,15:17,środa,"-0,667","15,00",0
+88,AUTOBUS,1880,190,Serafitek,Bobrzańska,08:00,15:17,środa,"8,000","15,00",8
+89,TRAMWAJ,517,6,Wierzbięcice,Miłostowo,-01:27:00,15:18,środa,"-1,450","15,00",-1
+90,TRAMWAJ,522,9,Półwiejska,Dębiec PKM,00:30,15:18,środa,"0,500","15,00",0
+91,TRAMWAJ,917,16,Rondo Kaponiera,Os.Sobieskiego,-00:42:00,15:18,środa,"-0,700","15,00",0
+92,TRAMWAJ,432,17,Most Teatralny,Zawady,00:29,15:19,środa,"0,483","15,00",0
+93,AUTOBUS,1456,170,Dojazd Biocentrum,Połabska,01:48,15:19,środa,"1,800","15,00",1
+94,AUTOBUS,1846,182,Uniwersytet Przyrodniczy,Górczyn PKM,02:19,15:19,środa,"2,317","15,00",2
+95,AUTOBUS,1257,164,Strzeszyn Grecki,Puszkina,01:17,15:20,środa,"1,283","15,00",1
+96,AUTOBUS,1461,170,Tołstoja,Puszkina,01:48,15:20,środa,"1,800","15,00",1
+97,AUTOBUS,1687,183,Truskawiecka,Szarych Szeregów,-02:21:00,15:20,środa,"-2,350","15,00",-2
+98,AUTOBUS,1458,146,Białczańska,Stary Strzeszyn,-00:31:00,15:21,środa,"-0,517","15,00",0
+99,AUTOBUS,1824,168,Tułodzieckiej,Poznań Główny,00:10,15:21,środa,"0,167","15,00",0
+100,AUTOBUS,1276,190,Wiedeńska,Os.Sobieskiego,10:58,15:22,środa,"10,967","15,00",10
+101,TRAMWAJ,934,3,Naramowice,Budziszyńska,00:14,15:23,środa,"0,233","15,00",0
+102,AUTOBUS,1483,146,Bronisza,Stary Strzeszyn,00:48,15:23,środa,"0,800","15,00",0
+103,AUTOBUS,1882,198,UAM Wydział Fizyki,UAM Os.Różany Potok,03:22,15:23,środa,"3,367","15,00",3
+104,TRAMWAJ,925,3,Os.Łokietka,Błażeja,04:33,15:24,środa,"4,550","15,00",4
+105,AUTOBUS,1008,169,Łużycka,Os.Sobieskiego,01:05,15:24,środa,"1,083","15,00",1
+106,AUTOBUS,1271,182,Os.Kosmonautów,Os.Wichrowe Wzgórze,04:52,15:25,środa,"4,867","15,00",4
+107,AUTOBUS,1685,169,Os.Łokietka,Os.Kopernika,06:32,15:25,środa,"6,533","15,00",6
+108,AUTOBUS,1888,322,Serbska,Czerwonak/Cmentarz,-00:40:00,15:25,środa,"-0,667","15,00",0
+109,TRAMWAJ,531,6,Św.Michała,Miłostowo,01:33,15:26,środa,"1,550","15,00",1
+110,TRAMWAJ,609,7,Murawa,Ogrody,00:13,15:26,środa,"0,217","15,00",0
+111,TRAMWAJ,930,10,Kmieca,Błażeja,02:12,15:26,środa,"2,200","15,00",2
+112,TRAMWAJ,455,17,Rondo Śródka,Ogrody,00:57,15:27,środa,"0,950","15,00",0
+113,TRAMWAJ,610,18,Rondo Rataje,Ogrody,03:23,15:27,środa,"3,383","15,00",3
+114,AUTOBUS,1660,157,Rondo Śródka,Rondo Śródka,02:48,15:27,środa,"2,800","15,00",2
+115,AUTOBUS,1657,181,Rondo Rataje,Rondo Rataje,01:21,15:28,środa,"1,350","15,00",1
+116,AUTOBUS,1849,196,Rondo Rataje,Rondo Rataje,11:20,15:28,środa,"11,333","15,00",11
+117,TRAMWAJ,525,6,Rondo Rataje,Junikowo,04:28,15:29,środa,"4,467","15,00",4
+118,TRAMWAJ,552,13,Rondo Rataje,Aleje Marcinkowskiego,01:52,15:29,środa,"1,867","15,00",1
+119,TRAMWAJ,290,5,Wioślarska,Górczyn PKM,01:23,15:30,środa,"1,383","15,00",1
+120,TRAMWAJ,545,13,Rondo Rataje,Aleje Marcinkowskiego,-00:08:00,15:30,środa,"-0,133","15,00",0
+121,TRAMWAJ,628,7,Rondo Rataje,Połabska,07:08,15:30,środa,"7,133","15,00",7
+122,TRAMWAJ,927,18,Rondo Rataje,Franowo,-00:32:00,15:30,środa,"-0,533","15,00",0
+123,TRAMWAJ,116,1,Rondo Starołęka,Franowo,00:48,15:31,środa,"0,800","15,00",0
+124,TRAMWAJ,511,12,Starołęka Mała,Starołęka PKM,00:56,15:31,środa,"0,933","15,00",0
+125,TRAMWAJ,625,18,Rondo Starołęka,Franowo,06:33,15:31,środa,"6,550","15,00",6
+126,TRAMWAJ,98,1,Rondo Starołęka,Junikowo,00:43,15:32,środa,"0,717","15,00",0
+127,TRAMWAJ,624,18,Rondo Starołęka,Ogrody,03:07,15:32,środa,"3,117","15,00",3
+128,TRAMWAJ,608,18,Żegrze II,Ogrody,01:01,15:33,środa,"1,017","15,00",1
+129,AUTOBUS,1758,152,Os.Orła Białego II,Rondo Rataje,-00:08:00,15:33,środa,"-0,133","15,00",0
+130,AUTOBUS,1769,152,Os.Orła Białego,Darzybór,03:52,15:33,środa,"3,867","15,00",3
+131,TRAMWAJ,402,1,Os.Czecha,Junikowo,00:33,15:34,środa,"0,550","15,00",0
+132,TRAMWAJ,408,1,Szwedzka,Franowo,02:29,15:34,środa,"2,483","15,00",2
+133,AUTOBUS,1690,162,Orle Gniazdo,Rondo Rataje,-00:17:00,15:34,środa,"-0,283","15,00",0
+134,AUTOBUS,1880,190,Orle Gniazdo,Os.Sobieskiego,01:14,15:34,środa,"1,233","15,00",1
+135,AUTOBUS,1645,166,Szwajcarska Szpital,Zieliniec,03:25,15:35,środa,"3,417","15,00",3
+136,AUTOBUS,1663,181,Szwedzka,Krzywoustego,03:29,15:35,środa,"3,483","15,00",3
+137,TRAMWAJ,620,6,Rondo Śródka,Junikowo,-01:10:00,15:36,środa,"-1,167","15,00",-1
+138,AUTOBUS,1661,157,Kopiec Wolności,Rondo Śródka,-00:51:00,15:36,środa,"-0,850","15,00",0
+139,AUTOBUS,1869,320,Koronkarska,Rondo Śróda,00:10,15:36,środa,"0,167","15,00",0
+140,TRAMWAJ,218,17,Pl.Wielkopolski,Zawady,02:34,15:37,środa,"2,567","15,00",2
+141,TRAMWAJ,424,11,Nad Wierzbakiem,Piątkowska,02:28,15:37,środa,"2,467","15,00",2
+142,AUTOBUS,6124,603,Mostowa,Garbary PKM,01:10,15:37,środa,"1,167","15,00",1
+143,AUTOBUS,1282,193,Os.Winiary,Os.Sobieskiego,04:35,15:38,środa,"4,583","15,00",4
+144,AUTOBUS,1461,170,Wrzoska Szpitale,Połabska,-01:00:00,15:38,środa,"-1,000","15,00",-1
+145,AUTOBUS,1484,191,Niestachowska,Os.Kopernika,05:16,15:38,środa,"5,267","15,00",5
+146,TRAMWAJ,417,2,Żeromskiego,Ogrody,00:09,15:39,środa,"0,150","15,00",0
+147,AUTOBUS,1264,163,Polna Szpital,Garbary PKM,04:59,15:39,środa,"4,983","15,00",4
+148,AUTOBUS,1272,177,Szpitalna,Junikowo,02:37,15:39,środa,"2,617","15,00",2
+149,AUTOBUS,1887,182,Szpitalna,Os.Wichrowe Wzgórze,02:28,15:39,środa,"2,467","15,00",2
+150,AUTOBUS,1639,169,Naramowice,Os.Sobieskiego,-01:09:00,16:18,środa,"-1,150","16,00",-1
+151,TRAMWAJ,938,10,Jasna Rola,Dębiec PKM,00:06,16:18,środa,"0,100","16,00",0
+152,AUTOBUS,1903,190,Wilczak,Bobrzańska,-01:28:00,16:19,środa,"-1,467","16,00",-1
+153,AUTOBUS,1638,185,Serbska,Rondo Śródka,03:14,16:19,środa,"3,233","16,00",3
+154,AUTOBUS,1642,178,Rondo Solidarności,Szarych Szeregów,00:37,16:19,środa,"0,617","16,00",0
+155,AUTOBUS,1482,191,Aleje Solidarności,Os.Kopernika,01:20,16:20,środa,"1,333","16,00",1
+156,TRAMWAJ,156,15,Lechicka Poznań Plaza,Budziszyńska,-00:07:00,16:20,środa,"-0,117","16,00",0
+157,AUTOBUS,1280,190,Os.Chrobrego,Os.Sobieskiego,12:55,16:20,środa,"12,917","16,00",12
+158,AUTOBUS,1644,185,Wojciechowskiego,Rondo Śródka,01:54,16:21,środa,"1,900","16,00",1
+159,AUTOBUS,1862,190,Suszki,Bobrzańska,00:57,16:21,środa,"0,950","16,00",0
+160,AUTOBUS,1880,190,Włościańska,Os.Sobieskiego,02:00,16:21,środa,"2,000","16,00",2
+161,TRAMWAJ,228,11,Lutycka Szpital,Piątkowska,-00:44:00,16:22,środa,"-0,733","16,00",0
+162,AUTOBUS,1633,183,Aleje Solidarności,Rondo Śródka,04:37,16:22,środa,"4,617","16,00",4
+163,TRAMWAJ,156,15,Słowiańska,Budziszyńska,00:07,16:22,środa,"0,117","16,00",0
+164,TRAMWAJ,543,14,Aleje Solidarności,Os.Sobieskiego,01:26,16:22,środa,"1,433","16,00",1
+165,TRAMWAJ,138,15,Słowiańska,Os.Sobieskiego,06:28,16:23,środa,"6,467","16,00",6
+166,TRAMWAJ,450,11,Wielkopolska,Piątkowska,01:55,16:23,środa,"1,917","16,00",1
+167,TRAMWAJ,613,7,Poznańska,Połabska,03:26,16:23,środa,"3,433","16,00",3
+168,TRAMWAJ,914,16,Rondo Kaponiera,Aleje Marcinkowskiego,01:45,16:24,środa,"1,750","16,00",1
+169,TRAMWAJ,516,14,Dworzec Zachodni,Górczyn PKM,-00:13:00,16:24,środa,"-0,217","16,00",0
+170,TRAMWAJ,928,3,Bałtyk,Budziszyńska,00:23,16:24,środa,"0,383","16,00",0
+171,AUTOBUS,1821,168,Poznań Główny,Poznań Główny,00:35,16:25,środa,"0,583","16,00",0
+172,TRAMWAJ,432,2,Uniwersytet Ekonomiczny,Dębiec PKM,00:49,16:25,środa,"0,817","16,00",0
+173,TRAMWAJ,88,11,Most Dworcowy,Unii Lubelskiej,02:01,16:25,środa,"2,017","16,00",2
+174,TRAMWAJ,148,18,Most Teatralny,Ogrody,06:00,16:26,środa,"6,000","16,00",6
+175,TRAMWAJ,198,12,Aleje Solidarności,Os.Sobieskiego,-00:53:00,16:26,środa,"-0,883","16,00",0
+176,TRAMWAJ,920,16,Aleje Solidarności,Os.Sobieskiego,-00:15:00,16:27,środa,"-0,250","16,00",0
+177,AUTOBUS,1455,170,Os.Zwycięstwa,Połabsa,-01:13:00,16:27,środa,"-1,217","16,00",-1
+178,TRAMWAJ,138,15,Lechicka Poznań Plaza,Os.Sobieskiego,05:23,16:27,środa,"5,383","16,00",5
+179,TRAMWAJ,533,14,Lechicka Poznań Plaza,Górczyn PKM,00:28,16:28,środa,"0,467","16,00",0
+180,TRAMWAJ,916,16,Aleje Solidarności,Aleje Marcinkowskiego,02:40,16:28,środa,"2,667","16,00",2
+181,AUTOBUS,8317,832,Os.Sobieskiego Szkoła,Os.Sobieskiego,08:50,16:28,środa,"8,833","16,00",8
+182,TRAMWAJ,937,10,Traugutta,Dębiec PKM,04:33,16:45,środa,"4,550","16,00",4
+183,TRAMWAJ,434,11,Traugutta,Unii Lubelskiej,-01:14:00,16:45,środa,"-1,233","16,00",-1
+184,TRAMWAJ,620,6,Most Dworcowy,Miłostowo,00:11,16:45,środa,"0,183","16,00",0
+185,TRAMWAJ,162,6,Most Dworcowy,Junikowo,00:56,16:46,środa,"0,933","16,00",0
+186,TRAMWAJ,927,18,Most Dworcowy,Ogrody,01:44,16:46,środa,"1,733","16,00",1
+187,AUTOBUS,1919,171,Zamek,Os.Wichrowe Wzgórze,-00:04:00,16:46,środa,"-0,067","16,00",0
+188,TRAMWAJ,182,17,Fredry,Ogrody,03:08,16:46,środa,"3,133","16,00",3
+189,TRAMWAJ,923,10,Most Teatralny,Błażeja,01:25,16:47,środa,"1,417","16,00",1
+190,TRAMWAJ,448,8,Rondo Kaponiera,Miłostowo,01:21,16:47,środa,"1,350","16,00",1
+191,TRAMWAJ,168,12,Most Teatralny,Os.Sobieskiego,04:38,16:48,środa,"4,633","16,00",4
+192,TRAMWAJ,511,15,Bałtyk,Budziszyńska,-01:40:00,16:48,środa,"-1,667","16,00",-1
+193,TRAMWAJ,226,18,Most Dworcowy,Franowo,01:04,16:48,środa,"1,067","16,00",1
+194,AUTOBUS,1863,159,Szylinga,Port Lotniczy Ławica,01:26,16:49,środa,"1,433","16,00",1
+195,TRAMWAJ,940,3,Rondo Kaponiera,Błażeja,-00:47:00,16:49,środa,"-0,783","16,00",0
+196,TRAMWAJ,190,8,Most Dworcowy,Górczyn PKM,04:56,16:49,środa,"4,933","16,00",4
+197,TRAMWAJ,456,5,Poznań Główny,Unii Lubelskiej,-00:13:00,16:50,środa,"-0,217","16,00",0
+198,TRAMWAJ,605,6,Rondo Nowaka-Jeziorańskiego,Miłostowo,-00:29:00,16:50,środa,"-0,483","16,00",0
+199,TRAMWAJ,446,1,Grochowska,Junikowo,02:23,16:50,środa,"2,383","16,00",2
+200,AUTOBUS,1029,145,Marcelińska,Dworzec Zachodni,01:55,16:51,środa,"1,917","16,00",1
+201,AUTOBUS,1478,148,Swoboda,Rondo Kaponiera,-02:10:00,16:51,środa,"-2,167","16,00",-2
+202,AUTOBUS,1282,193,Jasna,Górczyn PKM,-00:04:00,16:51,środa,"-0,067","16,00",0
+203,AUTOBUS,8325,834,Ogrody,Ogrody,07:25,16:52,środa,"7,417","16,00",7
+204,AUTOBUS,1492,121,Polska,Meissnera,-00:47:00,16:52,środa,"-0,783","16,00",0
+205,AUTOBUS,7015,729,Ogrody,Ogrody,-00:32:00,16:52,środa,"-0,533","16,00",0
+206,AUTOBUS,1482,191,Szpitalna,Os.Kopernika,12:37,16:52,środa,"12,617","16,00",12
+207,AUTOBUS,1287,182,Promienista,Górczyn PKM,00:09,16:53,środa,"0,150","16,00",0
+208,TRAMWAJ,400,5,Sielska,Górczyn PKM,02:06,16:53,środa,"2,100","16,00",2
+209,TRAMWAJ,513,9,Dębiec PKM,Dębiec PKM,04:08,16:54,środa,"4,133","16,00",4
+210,TRAMWAJ,628,7,Rolna,Ogrody,03:05,16:54,środa,"3,083","16,00",3
+211,AUTOBUS,1712,174,Os.Bohaterów II Wojny Światowej,Unii Lubelskiej,15:44,16:54,środa,"15,733","16,00",15
+212,AUTOBUS,1702,174,Os.Bohaterów II Wojny Światowej,Unii Lubelskiej,01:24,16:55,środa,"1,400","16,00",1
+213,TRAMWAJ,312,12,Os.Piastowskie,Os.Sobieskiego,00:45,16:55,środa,"0,750","16,00",0
+214,AUTOBUS,1648,184,Wioślarska,Rondo Rataje,03:10,16:55,środa,"3,167","16,00",3
+215,AUTOBUS,1672,166,Rondo Rataje,Zieliniec,00:57,16:55,środa,"0,950","16,00",0
+216,TRAMWAJ,552,13,Rondo Rataje,Starołęka PKM,01:53,16:56,środa,"1,883","16,00",1
+217,TRAMWAJ,544,13,Most św.Rocha,Aleje Marcinkowskiego,-00:07:00,16:56,środa,"-0,117","16,00",0
+218,TRAMWAJ,545,13,Kórnicka,Starołęka PKM,01:29,16:57,środa,"1,483","16,00",1
+219,AUTOBUS,1688,184,Rondo Śródka,Nowe Zoo,08:13,16:57,środa,"8,217","16,00",8
+220,TRAMWAJ,614,6,Rondo Śródka,Junikowo,-00:58:00,16:57,środa,"-0,967","16,00",0
+221,TRAMWAJ,604,6,Termalna,Miłostowo,02:32,16:58,środa,"2,533","16,00",2
+222,AUTOBUS,1638,185,Zawady,Os.Sobieskiego,-00:48:00,16:58,środa,"-0,800","16,00",0
+223,AUTOBUS,1633,183,Smolna,Szarych Szeregów,01:17,16:58,środa,"1,283","16,00",1
+224,AUTOBUS,1885,322,Chemiczna,Czerwonak/Cmentarz,07:10,16:59,środa,"7,167","16,00",7
+225,AUTOBUS,1690,162,Torowa Wiadukt,Rondo Rataje,02:16,16:59,środa,"2,267","16,00",2
+226,AUTOBUS,1646,181,Wiatraczna,Krzywoustego,01:32,16:59,środa,"1,533","16,00",1
+227,AUTOBUS,1658,166,Piłsudskiego,Rondo Rataje,04:31,17:00,środa,"4,517","17,00",4
+228,TRAMWAJ,312,12,Rondo Rataje,Os.Sobieskiego,01:49,17:00,środa,"1,817","17,00",1
+229,TRAMWAJ,522,9,Łąkowa,Aleje Marcinkowskiego,-00:30:00,17:03,środa,"-0,500","17,00",0
+230,TRAMWAJ,510,9,Aleje Marcinkowskiego,Aleje Marcinkowskiego,-01:31:00,18:25,środa,"-1,517","18,00",-1
+231,TRAMWAJ,136,7,Pl.Ratajskiego,Połabska,-00:06:00,18:25,środa,"-0,100","18,00",0
+232,AUTOBUS,1643,160,Solna,Garbary PKM,-00:14:00,18:25,środa,"-0,233","18,00",0
+233,AUTOBUS,1452,168,Libelta,Poznań Główny,01:26,18:26,środa,"1,433","18,00",1
+234,TRAMWAJ,925,3,Żniwna,Błażeja,-01:11:00,18:26,środa,"-1,183","18,00",-1
+235,AUTOBUS,1861,322,Trójpole,Piątkowska,00:22,18:26,środa,"0,367","18,00",0
+236,AUTOBUS,1846,182,Os.Słowiańskie,Os.Wichrowe Wzgórze,06:02,18:27,środa,"6,033","18,00",6
+237,TRAMWAJ,920,16,Słowiańska,Aleje Marcinkowskiego,-00:50:00,18:27,środa,"-0,833","18,00",0
+238,AUTOBUS,1480,191,Os.Słowiańskie,Os.Kopernika,03:16,18:27,środa,"3,267","18,00",3
+239,TRAMWAJ,533,14,Słowiańska,Os.Sobieskiego,-01:24:00,18:28,środa,"-1,400","18,00",-1
+240,TRAMWAJ,421,11,Wielkopolska,Unii Lubelskiej,00:31,18:28,środa,"0,517","18,00",0
+241,AUTOBUS,1821,160,Nad Wierzbakiem,Stary Strzeszyn,-01:05:00,18:28,środa,"-1,083","18,00",-1
+242,AUTOBUS,1251,164,Kościelna,Kacza,02:38,18:29,środa,"2,633","18,00",2
+243,AUTOBUS,1816,159,Szylinga,Port Lotniczy Ławica,-00:43:00,18:29,środa,"-0,717","18,00",0
+244,TRAMWAJ,134,14,Rynek Łazarski,Górczyn PKM,01:06,18:29,środa,"1,100","18,00",1
+245,TRAMWAJ,416,11,Rynek Łazarski,Piątkowska,00:15,18:30,środa,"0,250","18,00",0
+246,TRAMWAJ,98,1,Arciszewskiego,Franowo,-00:06:00,18:30,środa,"-0,100","18,00",0
+247,TRAMWAJ,608,7,Rondo Nowaka-Jeziorańskiego,Ogrody,-01:08:00,18:30,środa,"-1,133","18,00",-1
+248,TRAMWAJ,604,6,Rondo Nowaka-Jeziorańskiego,Miłostowo,-00:21:00,18:30,środa,"-0,350","18,00",0
+249,TRAMWAJ,407,15,Grochowska,Budziszyńska,04:19,18:31,środa,"4,317","18,00",4
+250,TRAMWAJ,921,3,Grochowska,Junikowo,-00:07:00,18:31,środa,"-0,117","18,00",0
+251,AUTOBUS,1819,182,Promienista,Górczyn PKM,-00:56:00,18:31,środa,"-0,933","18,00",0
+252,AUTOBUS,1820,163,Ściegiennego,Garbary PKM,-00:13:00,18:31,środa,"-0,217","18,00",0
+253,AUTOBUS,1003,175,Rakoniewicka,Dębiec PKM,00:30,18:32,środa,"0,500","18,00",0
+254,AUTOBUS,1011,149,Kotowicza,Dębiec PKM,01:01,18:32,środa,"1,017","18,00",1
+255,AUTOBUS,7004,701,Świerczewo,Komorniki/Jeziorna,-01:45:00,18:32,środa,"-1,750","18,00",-1
+256,AUTOBUS,1404,180,Fabianowo,Górczyn PKM,-01:36:00,18:33,środa,"-1,600","18,00",-1
+257,AUTOBUS,7010,710,Ostatnia,Górczyn PKM,02:40,18:33,środa,"2,667","18,00",2
+258,AUTOBUS,1405,180,Rudnicze,Sycowska Centrum Handlowe,01:23,18:33,środa,"1,383","18,00",1
+259,AUTOBUS,7007,729,Złotowska Działki,Dopiewo/Dworzec Kolejowy,-00:23:00,18:34,środa,"-0,383","18,00",0
+260,AUTOBUS,1477,148,Perzycka,Ławica,01:51,18:34,środa,"1,850","18,00",1
+261,AUTOBUS,1863,159,Port Lotniczy Ławica,Port Lotniczy Ławica,04:27,18:35,środa,"4,450","18,00",4
+262,AUTOBUS,1267,177,Leśnych Skrzatów,Rondo Kaponiera,-00:01:00,18:35,środa,"-0,017","18,00",0
+263,AUTOBUS,1838,191,Rycerska,Os.Kopernika,04:38,18:35,środa,"4,633","18,00",4
+264,TRAMWAJ,517,6,Węgorka,Junikowo,-00:43:00,18:35,środa,"-0,717","18,00",0
+265,AUTOBUS,1257,164,Ściegiennego,Puszkina,-00:52:00,18:36,środa,"-0,867","18,00",0
+266,TRAMWAJ,134,14,Górczyn PKM,Górczyn PKM,-00:02:00,18:36,środa,"-0,033","18,00",0
+267,TRAMWAJ,454,11,Głogowska/Hetmańska,Piątkowska,-01:25:00,18:36,środa,"-1,417","18,00",-1
+268,TRAMWAJ,264,8,Rynek Łazarski,Miłostowo,00:17,18:37,środa,"0,283","18,00",0
+269,TRAMWAJ,558,9,Wspólna,Dębiec PKM,-01:35:00,18:37,środa,"-1,583","18,00",-1
+270,AUTOBUS,1907,171,IPN,Os.Dębina,01:28,18:37,środa,"1,467","18,00",1
+271,TRAMWAJ,508,13,Starołęka PKM,Starołęka PKM,-01:01:00,18:37,środa,"-1,017","18,00",-1
+272,AUTOBUS,1762,189,Pińczowska,Starołęka PKM,-00:33:00,18:38,środa,"-0,550","18,00",0
+273,AUTOBUS,1406,194,Zaklikowska,Unii Lubelskiej,00:06,18:38,środa,"0,100","18,00",0
+274,AUTOBUS,1764,194,Czernichowska,Starołęka PKM,-00:45:00,18:38,środa,"-0,750","18,00",0
+275,AUTOBUS,1842,158,Dziedzicka,Starołęka PKM,00:36,18:39,środa,"0,600","18,00",0
+276,AUTOBUS,1690,162,Ostrowska,Rondo Rataje,03:09,18:39,środa,"3,150","18,00",3
+277,AUTOBUS,4313,431,Os.Lecha I ,Rondo Rataje,03:30,18:39,środa,"3,500","18,00",3
+278,AUTOBUS,1656,152,Inflancka,Rondo Rataje,02:26,18:40,środa,"2,433","18,00",2
+279,AUTOBUS,1704,174,Os.Armii Krajowej,Os.Sobieskiego,02:02,18:40,środa,"2,033","18,00",2
+280,TRAMWAJ,548,13,Wioślarska,Aleje Marcinkowskiego,-00:39:00,18:40,środa,"-0,650","18,00",0
+281,TRAMWAJ,505,13,Os.Piastowskie,Aleje Marcinkowskiego,00:38,19:11,środa,"0,633","19,00",0
+282,AUTOBUS,1757,152,Os.Stare Żegrze,Darzybór,02:36,19:11,środa,"2,600","19,00",2
+283,AUTOBUS,1712,174,Sarbinowska,Unii Lubelskiej,-01:21:00,19:12,środa,"-1,350","19,00",-1
+284,AUTOBUS,1764,189,Falista,Starołęka PKM,-00:26:00,19:12,środa,"-0,433","19,00",0
+285,TRAMWAJ,456,5,Rondo Starołęka,Górczyn PKM,01:24,19:12,środa,"1,400","19,00",1
+286,TRAMWAJ,927,7,Rondo Starołęka,Ogrody,-00:53:00,19:13,środa,"-0,883","19,00",0
+287,TRAMWAJ,558,9,Rondo Starołęka,Franowo,-01:04:00,19:13,środa,"-1,067","19,00",-1
+288,TRAMWAJ,522,9,Rondo Starołęka,Franowo,04:58,19:13,środa,"4,967","19,00",4
+289,TRAMWAJ,605,6,Rondo Żegrze ,Franowo,04:28,19:14,środa,"4,467","19,00",4
+290,TRAMWAJ,450,11,Rondo Żegrze ,Unii Lubelskiej,00:15,19:14,środa,"0,250","19,00",0
+291,TRAMWAJ,545,13,Rondo Żegrze,Franowo,04:12,19:15,środa,"4,200","19,00",4
+292,TRAMWAJ,98,1,Rondo Żegrze,Głogowska/Hetmańska,-01:03:00,19:15,środa,"-1,050","19,00",-1
+293,AUTOBUS,1632,162,Inflancka,Rondo Rataje,00:34,19:15,środa,"0,567","19,00",0
+294,AUTOBUS,1903,190,Orle Gniazdo,Bobrzańska,01:52,19:16,środa,"1,867","19,00",1
+295,TRAMWAJ,431,8,Termalna,Miłostowo,03:23,19:16,środa,"3,383","19,00",3
+296,AUTOBUS,1869,320,Koronkarska,Rondo Śródka,00:07,19:17,środa,"0,117","19,00",0
+297,TRAMWAJ,442,17,Małe Garbary,Ogrody,00:24,19:18,środa,"0,400","19,00",0
+298,TRAMWAJ,615,7,Katedra,Ogrody,-00:27:00,19:18,środa,"-0,450","19,00",0
+299,AUTOBUS,1676,160,Solna,Stary Strzeszyn,00:12,19:18,środa,"0,200","19,00",0
+300,TRAMWAJ,510,9,Aleje Marcinkowskiego,Aleje Marcinkowskiego,-01:47:00,19:19,środa,"-1,783","19,00",-1
+301,TRAMWAJ,927,7,Pl.Wielkopolski,Franowo,-01:26:00,22:55,środa,"-1,433","22,00",-1
+302,TRAMWAJ,457,14,Słowiańska,Os.Sobieskiego,02:02,22:56,środa,"2,033","22,00",2
+303,AUTOBUS,1863,159,Poznań Główny,Poznań Główny,02:23,22:56,środa,"2,383","22,00",2
+304,AUTOBUS,1816,218,Most Dworcowy,Franowo,-03:35:00,22:57,środa,"-3,583","22,00",-3
+305,AUTOBUS,1836,163,Solna,Garbary PKM,00:34,22:57,środa,"0,567","22,00",0
+306,TRAMWAJ,936,3,Wielkopolska,Franowo,00:27,22:57,środa,"0,450","22,00",0
+307,TRAMWAJ,433,11,Wielkopolska,Starołęka PKM,-00:05:00,22:58,środa,"-0,083","22,00",0
+308,TRAMWAJ,911,16,Most Dworcowy,Głogowska/Hetmańska,-00:32:00,22:58,środa,"-0,533","22,00",0
+309,TRAMWAJ,430,2,Wierzbięcice,Starołęka PKM,-00:37:00,22:58,środa,"-0,617","22,00",0
+310,TRAMWAJ,447,12,Dworzec Zachodni,Os.Sobieskiego,-01:29:00,22:59,środa,"-1,483","22,00",-1
+311,TRAMWAJ,517,6,Matejki,Franowo,-00:08:00,22:59,środa,"-0,133","22,00",0
+312,AUTOBUS,1479,148,Szylinga,Rondo Kaponiera,-00:26:00,22:59,środa,"-0,433","22,00",0
+313,TRAMWAJ,417,17,Polna  ,Starołęka PKM,-00:08:00,23:00,środa,"-0,133","23,00",0
+314,AUTOBUS,1001,182,Żeromskiego,Górczyn PKM,-00:28:00,23:00,środa,"-0,467","23,00",0
+315,AUTOBUS,1269,177,Swoboda,Junikowo,00:44,23:00,środa,"0,733","23,00",0
+316,TRAMWAJ,511,15,Grochowska,Budziszyńska,-00:52:00,23:00,środa,"-0,867","23,00",0
+317,TRAMWAJ,940,3,Drzewieckiego,Franowo,-00:30:00,23:01,środa,"-0,500","23,00",0
+318,TRAMWAJ,446,1,Stadion Miejski,Głogowska/Hetmańska,-01:09:00,23:01,środa,"-1,150","23,00",-1
+319,TRAMWAJ,553,6,Grotkowska,Junikowo,00:18,23:01,środa,"0,300","23,00",0
+320,AUTOBUS,7038,716,Junikowo PKM,Junikowo,03:21,23:02,środa,"3,350","23,00",3
+321,AUTOBUS,1203,180,Wołowska,Sycowska Centrum Handlowe,00:19,23:02,środa,"0,317","23,00",0
+322,AUTOBUS,1003,175,Świerczewo,Górczyn PKM,02:06,23:02,środa,"2,100","23,00",2
+323,AUTOBUS,1688,152,Os.Orła Białego II,Darzybór,-00:16:00,23:03,środa,"-0,267","23,00",0
+324,TRAMWAJ,525,6,Żegrze III,Franowo,-00:11:00,23:03,środa,"-0,183","23,00",0
+325,TRAMWAJ,611,7,Piaśnicka Rynek,Franowo,-01:44:00,23:03,środa,"-1,733","23,00",-1
+326,AUTOBUS,1658,184,Szwajcarska Centrum Handlowe,Rondo Rataje,01:04,23:03,środa,"1,067","23,00",1
+327,TRAMWAJ,559,15,Franowo,Franowo,03:21,23:04,środa,"3,350","23,00",3
+328,AUTOBUS,1650,166,Franowo,Zieliniec,-00:11:00,23:04,środa,"-0,183","23,00",0
+329,TRAMWAJ,613,18,Szwajcarska,Franowo,-00:46:00,23:04,środa,"-0,767","23,00",0
+330,TRAMWAJ,629,18,Rondo Starołęka,Franowo,-00:01:00,23:05,środa,"-0,017","23,00",0
+331,AUTOBUS,1687,181,Piłsudskiego,Krzywoustego,00:40,23:05,środa,"0,667","23,00",0
+332,AUTOBUS,5053,501,Rondo Rataje,Rondo Rataje,01:09,23:05,środa,"1,150","23,00",1
+333,AUTOBUS,1637,196,Krzesiny Szkoła,Rondo Rataje,00:26,23:05,środa,"0,433","23,00",0
+334,AUTOBUS,6053,603,Malinowa,Łęczyca/Dworcowa,01:17,23:06,środa,"1,283","23,00",1
+335,AUTOBUS,1910,223,Rynek Łazarski,Kacza,02:29,23:06,środa,"2,483","23,00",2
+336,AUTOBUS,1270,215,Poznań Główny,Os.Dębina,04:51,23:07,środa,"4,850","23,00",4
+337,AUTOBUS,1025,169,Rondo Kaponiera,Os.Kopernika,01:05,23:07,środa,"1,083","23,00",1
+338,TRAMWAJ,551,15,Słowiańska,Franowo,-00:21:00,23:07,środa,"-0,350","23,00",0
+339,TRAMWAJ,457,14,Kurpińskiego,Głogowska/Hetmańska,-00:08:00,23:08,środa,"-0,133","23,00",0
+340,AUTOBUS,9117,905,Szymanowskiego,Os.Sobieskiego,03:30,23:08,środa,"3,500","23,00",3
+341,AUTOBUS,1901,348,UAM Kampus,Os.Sobieskiego,-00:29:00,23:08,środa,"-0,483","23,00",0
+342,AUTOBUS,1884,911,Maków Polnych,Biedrusko/Park,02:15,23:09,środa,"2,250","23,00",2
+343,AUTOBUS,1858,911,Naramowice,Rondo Śródka,05:54,23:09,środa,"5,900","23,00",5
+344,AUTOBUS,1013,169,Os.Wichrowe Wzgórze,Os.Kopernika,03:51,23:09,środa,"3,850","23,00",3
+345,AUTOBUS,1844,218,Os.Pod Lipami,Os.Sobieskiego,02:25,23:10,środa,"2,417","23,00",2
+346,TRAMWAJ,929,3,Żniwna,Franowo,-01:17:00,23:10,środa,"-1,283","23,00",-1
+347,TRAMWAJ,539,14,Rondo Kaponiera,Górczyn PKM,01:24,12:42,czwartek,"1,400","12,00",1
+348,TRAMWAJ,534,15,Most Teatralny,Os.Sobieskiego,00:08,12:42,czwartek,"0,133","12,00",0
+349,TRAMWAJ,915,16,Most Teatralny,Aleje Marcinkowskiego,-01:10:00,12:43,czwartek,"-1,167","12,00",-1
+350,TRAMWAJ,616,18,Most Teatralny,Franowo,00:11,12:43,czwartek,"0,183","12,00",0
+351,AUTOBUS,1859,159,Szylinga,Port Lotniczy Ławica,-00:57:00,12:43,czwartek,"-0,950","12,00",0
+352,TRAMWAJ,442,11,Rondo Kaponiera,Piątkowska,00:49,12:43,czwartek,"0,817","12,00",0
+353,AUTOBUS,1506,169,Bałtyk,Os.Kopernika,-00:28:00,12:44,czwartek,"-0,467","12,00",0
+354,TRAMWAJ,551,12,Rondo Kaponiera,Os.Sobieskiego,-01:08:00,12:44,czwartek,"-1,133","12,00",-1
+355,TRAMWAJ,630,8,Dworzec Zachodni,Miłostowo,-01:16:00,12:45,czwartek,"-1,267","12,00",-1
+356,AUTOBUS,1261,164,Matejki,Kacza,-01:49:00,12:45,czwartek,"-1,817","12,00",-1
+357,AUTOBUS,1268,177,Rondo Kaponiera,Rondo Kaponiera,00:14,12:45,czwartek,"0,233","12,00",0
+358,AUTOBUS,1822,163,Polna Szpital,Górczyn PKM,02:41,12:46,czwartek,"2,683","12,00",2
+359,AUTOBUS,1479,148,Szpitalna,Ławica,03:00,12:46,czwartek,"3,000","12,00",3
+360,TRAMWAJ,606,7,Bukowska,Połabska,00:05,12:46,czwartek,"0,083","12,00",0
+361,AUTOBUS,1814,191,Św.Wawrzyńca,Os.Kopernika,00:29,12:47,czwartek,"0,483","12,00",0
+362,AUTOBUS,1289,164,Nad Wierzbakiem,Puszkina,01:46,12:47,czwartek,"1,767","12,00",1
+363,TRAMWAJ,429,11,Poznańska,Unii Lubelskiej,-01:09:00,12:47,czwartek,"-1,150","12,00",-1
+364,AUTOBUS,1907,177,Urząd Marszałkowski,Os.Wichrowe Wzgórze,-00:44:00,12:47,czwartek,"-0,733","12,00",0
+365,AUTOBUS,1255,163,Libelta,Górczyn PKM,00:16,12:48,czwartek,"0,267","12,00",0
+366,TRAMWAJ,522,13,Aleje Marcinkowskiego,Aleje Marcinkowskiego,00:56,12:48,czwartek,"0,933","12,00",0
+367,AUTOBUS,1021,176,AWF,Os.Dębina,00:59,12:48,czwartek,"0,983","12,00",0
+368,AUTOBUS,1880,190,Pl.Bernardyński,Bobrzańska,03:30,12:49,czwartek,"3,500","12,00",3
+369,AUTOBUS,1862,190,Wielka,Os.Sobieskiego,-00:30:00,12:49,czwartek,"-0,500","12,00",0
+370,AUTOBUS,1012,160,Solna,Stary Strzeszyn,00:45,12:49,czwartek,"0,750","12,00",0
+371,TRAMWAJ,615,7,Katedra,Połabska,00:45,12:49,czwartek,"0,750","12,00",0
+372,TRAMWAJ,430,8,Św.Michała,Miłostowo,00:13,12:50,czwartek,"0,217","12,00",0
+373,TRAMWAJ,418,8,Krańcowa,Górczyn PKM,02:15,12:50,czwartek,"2,250","12,00",2
+374,AUTOBUS,1682,157,Bożeny,Rondo Śródka,00:21,12:50,czwartek,"0,350","12,00",0
+375,AUTOBUS,1660,166,Antoninek PKM,Zieliniec,02:17,12:51,czwartek,"2,283","12,00",2
+376,AUTOBUS,1671,157,Browarna,Mogileńska,-00:52:00,12:51,czwartek,"-0,867","12,00",0
+377,AUTOBUS,1769,152,Piwna,Rondo Rataje,02:14,12:51,czwartek,"2,233","12,00",2
+378,AUTOBUS,1645,166,Franowo,Rondo Rataje,02:42,12:51,czwartek,"2,700","12,00",2
+379,AUTOBUS,1656,152,Szwajcarska Szpital,Darzybór,03:39,12:52,czwartek,"3,650","12,00",3
+380,AUTOBUS,1690,196,Os.Czecha,Rondo Rataje,01:44,12:52,czwartek,"1,733","12,00",1
+381,TRAMWAJ,454,5,Rondo Starołęka,Górczyn PKM,00:11,12:58,czwartek,"0,183","12,00",0
+382,TRAMWAJ,546,12,Bystra,Starołęka PKM,03:31,12:59,czwartek,"3,517","12,00",3
+383,TRAMWAJ,548,13,Rondo Starołęka,Starołęka PKM,-00:05:00,12:59,czwartek,"-0,083","12,00",0
+384,AUTOBUS,1703,174,Os.Rzeczypospolitej,Os.Sobieskiego,02:00,12:59,czwartek,"2,000","12,00",2
+385,TRAMWAJ,443,12,Os.Piastowskie,Os.Sobieskiego,01:42,13:00,czwartek,"1,700","13,00",1
+386,AUTOBUS,1629,166,Piłsudskiego,Zieliniec,-00:20:00,13:06,czwartek,"-0,333","13,00",0
+387,AUTOBUS,1758,152,Inflancka,Darzybór,01:10,13:07,czwartek,"1,167","13,00",1
+388,AUTOBUS,1280,190,Os.Jagiellońskie,Os.Sobieskiego,-00:12:00,13:07,czwartek,"-0,200","13,00",0
+389,AUTOBUS,5053,502,Rondo Rataje,Rondo Rataje,-01:08:00,13:07,czwartek,"-1,133","13,00",-1
+390,AUTOBUS,1703,174,Serafitek,Os.Sobieskiego,03:19,13:07,czwartek,"3,317","13,00",3
+391,TRAMWAJ,629,6,AWF,Junikowo,-01:10:00,13:08,czwartek,"-1,167","13,00",-1
+392,TRAMWAJ,553,6,Baraniaka,Miłostowo,01:19,13:08,czwartek,"1,317","13,00",1
+393,AUTOBUS,1681,157,Baraniaka,Mogileńska,00:25,13:08,czwartek,"0,417","13,00",0
+394,AUTOBUS,1652,183,Rondo Śródka,Rondo Śródka,-01:25:00,13:09,czwartek,"-1,417","13,00",-1
+395,AUTOBUS,1636,185,Koronkarska,Rondo Śródka,03:03,13:09,czwartek,"3,050","13,00",3
+396,AUTOBUS,1626,178,Chemiczna,Szarych Szeregów,00:15,13:10,czwartek,"0,250","13,00",0
+397,TRAMWAJ,934,10,Serbska,Błażeja,00:44,13:10,czwartek,"0,733","13,00",0
+398,AUTOBUS,1647,169,Os.Wichrowe Wzgórze,Os.Kopernika,02:46,13:10,czwartek,"2,767","13,00",2
+399,TRAMWAJ,932,3,Os.Łokietka,Błażeja,05:43,13:10,czwartek,"5,717","13,00",5
+400,AUTOBUS,1480,191,Umultowska,Os.Kopernika,-01:24:00,13:11,czwartek,"-1,400","13,00",-1
+401,AUTOBUS,1458,146,Kurpińskiego,Stary Strzeszyn,-00:46:00,13:11,czwartek,"-0,767","13,00",0
+402,AUTOBUS,1683,185,Wojciechowskiego,Os.Sobieskiego,-00:15:00,13:11,czwartek,"-0,250","13,00",0
+403,AUTOBUS,1202,193,Suszki,Górczyn PKM,01:14,13:12,czwartek,"1,233","13,00",1
+404,AUTOBUS,1008,169,Os.Chrobrego,Os.Kopernika,02:05,13:12,czwartek,"2,083","13,00",2
+405,AUTOBUS,1501,169,Wieża RTV,Os.Sobieskiego,00:21,13:12,czwartek,"0,350","13,00",0
+406,AUTOBUS,1642,178,Stróżyńskiego,Szarych Szeregów,02:37,13:13,czwartek,"2,617","13,00",2
+407,AUTOBUS,1648,185,Wieża RTV,Rondo Śródka,01:02,13:13,czwartek,"1,033","13,00",1
+408,AUTOBUS,1276,190,Wiedeńska,Bobrzańska,00:29,13:13,czwartek,"0,483","13,00",0
+409,AUTOBUS,1012,160,Kosowska,Stary Strzeszyn,02:35,13:14,czwartek,"2,583","13,00",2
+410,AUTOBUS,1453,146,Instytut Technologiczno-Przyrodniczy,Boranta,00:17,13:14,czwartek,"0,283","13,00",0
+411,AUTOBUS,1486,156,Łupowska,Ogrody,01:42,13:15,czwartek,"1,700","13,00",1
+412,AUTOBUS,1687,183,Lutycka I,Szarych Szeregów,-00:50:00,13:15,czwartek,"-0,833","13,00",0
+413,TRAMWAJ,442,11,Uniwersytet Przyrodniczy,Unii Lubelskiej,-01:15:00,13:16,czwartek,"-1,250","13,00",-1
+414,AUTOBUS,1257,164,Golęcińska,Puszkina,06:21,13:16,czwartek,"6,350","13,00",6
+415,AUTOBUS,1289,164,Wojska Polskiego,Kacza,00:10,13:16,czwartek,"0,167","13,00",0
+416,AUTOBUS,1819,182,Wojska Polskiego,Os.Wichrowe Wzgórze,01:28,13:16,czwartek,"1,467","13,00",1
+417,AUTOBUS,1846,182,Uniwersytet Przyrodniczy,Górczyn PKM,00:06,13:17,czwartek,"0,100","13,00",0
+418,AUTOBUS,1407,124,Stary Strzeszyn,Safony,00:53,13:17,czwartek,"0,883","13,00",0
+419,AUTOBUS,1459,170,Literacka,Puszkina,01:39,13:17,czwartek,"1,650","13,00",1
+420,AUTOBUS,1634,169,Ściegiennego,Os.Kopernika,00:23,13:18,czwartek,"0,383","13,00",0
+421,TRAMWAJ,418,8,Sielska,Górczyn PKM,01:46,13:18,czwartek,"1,767","13,00",1
+422,TRAMWAJ,433,11,Kolejowa,Unii Lubelskiej,00:37,13:18,czwartek,"0,617","13,00",0
+423,AUTOBUS,1253,164,Chociszewskiego,Puszkina,04:06,13:18,czwartek,"4,100","13,00",4
+424,AUTOBUS,1031,179,Palacza,Kacza,02:34,13:19,czwartek,"2,567","13,00",2
+425,AUTOBUS,1634,169,Ściegiennego,Os.Kopernika,00:53,13:19,czwartek,"0,883","13,00",0
+426,TRAMWAJ,413,1,Węgorka,Junikowo,02:42,13:20,czwartek,"2,700","13,00",2
+427,TRAMWAJ,88,1,Budziszyńska,Junikowo,05:34,13:20,czwartek,"5,567","13,00",5
+428,TRAMWAJ,559,6,Cmentarna,Junikowo,01:23,13:20,czwartek,"1,383","13,00",1
+429,AUTOBUS,1262,177,Malwowa I,Rondo Kaponiera,01:27,13:21,czwartek,"1,450","13,00",1
+430,AUTOBUS,1268,177,Malwowa I,Junikowo,00:14,13:21,czwartek,"0,233","13,00",0
+431,AUTOBUS,1863,159,Kopciuszka,Port Lotniczy Ławica,03:03,13:21,czwartek,"3,050","13,00",3
+432,TRAMWAJ,162,7,Żeromskiego,Ogrody,02:25,13:21,czwartek,"2,417","13,00",2
+433,TRAMWAJ,112,17,Żeromskiego,Ogrody,-00:37:00,13:22,czwartek,"-0,617","13,00",0
+434,TRAMWAJ,336,2,Polna,Ogrody,03:59,13:22,czwartek,"3,983","13,00",3
+435,TRAMWAJ,613,18,Rynek Jeżycki,Franowo,-00:34:00,13:22,czwartek,"-0,567","13,00",0
+436,TRAMWAJ,916,16,Rondo Kaponiera,Aleje Marcinkowskiego,00:37,13:23,czwartek,"0,617","13,00",0
+437,TRAMWAJ,535,14,Most Teatralny,Górczyn PKM,-00:01:00,13:23,czwartek,"-0,017","13,00",0
+438,TRAMWAJ,442,11,Most Teatralny,Unii Lubelskiej,-00:07:00,13:23,czwartek,"-0,117","13,00",0
+439,AUTOBUS,1014,160,Nowowiejskiego,Stary Strzeszyn,01:30,13:24,czwartek,"1,500","13,00",1
+440,AUTOBUS,1647,169,Urząd Marszałkowski,Os.Kopernika,02:16,13:24,czwartek,"2,267","13,00",2
+441,AUTOBUS,1286,163,Małe Garbary,Garbary PKM,01:48,13:24,czwartek,"1,800","13,00",1
+442,AUTOBUS,1007,176,Grochowe Łąki,Os.Dębina,00:39,13:24,czwartek,"0,650","13,00",0
+443,AUTOBUS,1280,190,Winogrady,Os.Sobieskiego,-01:00:00,13:25,czwartek,"-1,000","13,00",-1
+444,AUTOBUS,1873,167,Wilczak,Radojewo,-01:41:00,13:25,czwartek,"-1,683","13,00",-1
+445,AUTOBUS,1703,174,Wójtowska,Os.Sobieskiego,02:47,13:25,czwartek,"2,783","13,00",2
+446,TRAMWAJ,431,7,Połabska,Połabska,02:34,13:26,czwartek,"2,567","13,00",2
+447,AUTOBUS,1633,183,Połabska,Szarych Szeregów,-00:32:00,13:26,czwartek,"-0,533","13,00",0
+448,TRAMWAJ,929,10,Naramowice,Błażeja,-00:08:00,13:26,czwartek,"-0,133","13,00",0
+449,AUTOBUS,1483,146,Bronisza,Stary Strzeszyn,00:26,13:27,czwartek,"0,433","13,00",0
+450,AUTOBUS,1765,188,UAM Os.Różany Potok,Os.Sobieskiego,11:53,13:27,czwartek,"11,883","13,00",11
+451,AUTOBUS,1867,198,UAM Wydział Geografii,UAM Os.Różany Potok,-01:30:00,13:27,czwartek,"-1,500","13,00",-1
+452,AUTOBUS,1712,174,Os.Batorego,Unii Lubelskiej,-00:32:00,13:28,czwartek,"-0,533","13,00",0
+453,TRAMWAJ,530,14,Kurpińskiego,Os.Sobieskiego,02:59,13:28,czwartek,"2,983","13,00",2
+454,TRAMWAJ,917,16,Szymanowskiego,Os.Sobieskiego,01:40,13:29,czwartek,"1,667","13,00",1
+455,AUTOBUS,1638,185,Kurpińskiego,Os.Sobieskiego,-01:34:00,13:29,czwartek,"-1,567","13,00",-1
+456,TRAMWAJ,116,12,Lechicka Poznań Plaza,Starołęka PKM,00:52,13:31,czwartek,"0,867","13,00",0
+457,AUTOBUS,1873,167,Naramowice,Radojewo,-00:36:00,13:32,czwartek,"-0,600","13,00",0
+458,TRAMWAJ,544,6,Kórnicka,Junikowo,01:35,13:32,czwartek,"1,583","13,00",1
+459,TRAMWAJ,619,7,Baraniaka,Połabska,02:20,13:32,czwartek,"2,333","13,00",2
+460,TRAMWAJ,128,8,Rondo Śródka,Miłostowo,04:44,13:32,czwartek,"4,733","13,00",4
+461,TRAMWAJ,630,8,Rondo Śródka,Górczyn PKM,00:31,13:33,czwartek,"0,517","13,00",0
+462,AUTOBUS,1652,183,Zawady,Szarych Szeregów,-00:20:00,13:33,czwartek,"-0,333","13,00",0
+463,TRAMWAJ,550,13,Rondo Rataje,Aleje Marcinkowskiego,01:04,13:33,czwartek,"1,067","13,00",1
+464,AUTOBUS,1713,174,Rondo Rataje,Os.Sobieskiego,01:22,13:33,czwartek,"1,367","13,00",1
+465,AUTOBUS,1680,184,Rondo Rataje,Rondo Rataje,04:44,13:34,czwartek,"4,733","13,00",4
+466,TRAMWAJ,516,13,Rondo Rataje,Aleje Marcinkowskiego,-00:08:00,13:34,czwartek,"-0,133","13,00",0
+467,TRAMWAJ,206,18,Os.Piastowskie,Franowo,03:13,13:34,czwartek,"3,217","13,00",3
+468,TRAMWAJ,541,12,Os.Piastowskie,Os.Sobieskiego,00:09,13:35,czwartek,"0,150","13,00",0
+469,TRAMWAJ,415,5,Rondo Starołęka,Górczyn PKM,00:41,13:35,czwartek,"0,683","13,00",0
+470,TRAMWAJ,614,18,Rondo Żegrze,Ogrody,00:19,13:35,czwartek,"0,317","13,00",0
+471,AUTOBUS,1656,152,Os.Stare Żegrze,Rondo Rataje,01:57,13:36,czwartek,"1,950","13,00",1
+472,TRAMWAJ,402,1,Żegrze II ,Junikowo,00:25,13:37,czwartek,"0,417","13,00",0
+473,AUTOBUS,1660,166,Inflancka,Rondo Rataje,04:12,13:37,czwartek,"4,200","13,00",4
+474,AUTOBUS,1689,181,Orle Gniazdo,Krzywoustego,02:34,13:37,czwartek,"2,567","13,00",2
+475,AUTOBUS,1631,154,Os.Czecha,Spławie,04:23,13:37,czwartek,"4,383","13,00",4
+476,TRAMWAJ,616,18,Szwedzka,Ogrody,00:42,13:37,czwartek,"0,700","13,00",0
+477,AUTOBUS,1685,181,Szwajcarska Szpital,Rondo Rataje,02:09,13:38,czwartek,"2,150","13,00",2
+478,AUTOBUS,1857,162,Strzyżowska,Rondo Rataje,08:03,13:38,czwartek,"8,050","13,00",8
+479,AUTOBUS,1401,189,Szydłowiecka,Starołęka PKM,00:52,13:38,czwartek,"0,867","13,00",0
+480,TRAMWAJ,429,11,Rondo Starołęka,Piątkowska,-00:03:00,13:39,czwartek,"-0,050","13,00",0
+481,TRAMWAJ,522,13,Os.Rzeczypospolitej,Aleje Marcinkowskiego,02:11,13:39,czwartek,"2,183","13,00",2
+482,TRAMWAJ,605,7,Os.Piastowskie,Połabska,02:46,13:39,czwartek,"2,767","13,00",2
+483,TRAMWAJ,415,5,Wioślarska,Górczyn PKM,01:23,13:39,czwartek,"1,383","13,00",1
+484,AUTOBUS,1645,166,Os.Oświecenia,Zieliniec,02:11,13:40,czwartek,"2,183","13,00",2
+485,AUTOBUS,1656,152,Piłsudskiego,Rondo Rataje,-00:08:00,13:40,czwartek,"-0,133","13,00",0
+486,AUTOBUS,1769,152,Os.Stare Żegrze,Darzybór,04:14,13:40,czwartek,"4,233","13,00",4
+487,AUTOBUS,1710,174,Os.Stare Żegrze,Unii Lubelskiej,-00:57:00,13:41,czwartek,"-0,950","13,00",0
+488,TRAMWAJ,505,9,Dębiec PKM,Dębiec PKM,01:29,13:41,czwartek,"1,483","13,00",1
+489,AUTOBUS,1909,171,IPN,Os.Wichrowe Wzgórze,-00:41:00,13:42,czwartek,"-0,683","13,00",0
+490,AUTOBUS,1007,176,Piastowska,Os.Dębina,-00:18:00,13:42,czwartek,"-0,300","13,00",0
+491,TRAMWAJ,98,2,Wspólna,Dębiec PKM,-02:07:00,13:42,czwartek,"-2,117","13,00",-2
+492,TRAMWAJ,442,11,Traugutta,Unii Lubelskiej,00:58,13:42,czwartek,"0,967","13,00",0
+493,TRAMWAJ,519,14,Park Wilsona,Os.Sobieskiego,01:28,13:43,czwartek,"1,467","13,00",1
+494,AUTOBUS,1289,164,Arciszewskiego,Kacza,01:18,13:43,czwartek,"1,300","13,00",1
+495,AUTOBUS,1258,182,Arciszewskiego,Os.Wichrowe Wzgórze,01:59,13:43,czwartek,"1,983","13,00",1
+496,AUTOBUS,1846,182,Kordeckiego,Górczyn PKM,02:06,13:43,czwartek,"2,100","13,00",2
+497,AUTOBUS,1634,169,Ściegiennego,Os.Sobieskiego,-00:28:00,13:44,czwartek,"-0,467","13,00",0
+498,AUTOBUS,7034,705,Ostatnia,Konarzewo/Pętla,-00:19:00,13:44,czwartek,"-0,317","13,00",0
+499,AUTOBUS,1019,149,Kępińska,Górczyn PKM,-00:15:00,13:44,czwartek,"-0,250","13,00",0
+500,AUTOBUS,6057,611,Będzińska,Sycowska Centrum Handlowe,01:11,13:44,czwartek,"1,183","13,00",1
+501,AUTOBUS,1659,154,Brneńska,Rondo Rataje,00:55,16:39,czwartek,"0,917","16,00",0
+502,AUTOBUS,1260,190,Brneńska,Os.Sobieskiego,02:35,16:39,czwartek,"2,583","16,00",2
+503,AUTOBUS,1632,181,Wiatraczna,Krzywoustego,01:37,16:40,czwartek,"1,617","16,00",1
+504,AUTOBUS,1857,196,Wiatraczna,Rondo Rataje,09:53,16:40,czwartek,"9,883","16,00",9
+505,AUTOBUS,1709,174,Os.Armii Krajowej,Os.Sobieskiego,01:42,16:40,czwartek,"1,700","16,00",1
+506,AUTOBUS,1686,184,Os.Orła Białego II,Nowe Zoo,-00:01:00,16:41,czwartek,"-0,017","16,00",0
+507,AUTOBUS,1672,184,Os.Stare Żegrze,Rondo Rataje,18:11,16:41,czwartek,"18,183","16,00",18
+508,TRAMWAJ,532,13,Rondo Starołęka,Starołęka PKM,03:10,16:41,czwartek,"3,167","16,00",3
+509,TRAMWAJ,410,5,Os.Rzeczypospolitej,Unii Lubelskiej,00:11,16:41,czwartek,"0,183","16,00",0
+510,TRAMWAJ,182,18,Rondo Rataje,Franowo,02:34,16:42,czwartek,"2,567","16,00",2
+511,TRAMWAJ,541,12,Serafitek,Os.Sobieskiego,02:16,16:42,czwartek,"2,267","16,00",2
+512,AUTOBUS,1872,190,Serafitek,Bobrzańska,03:01,16:42,czwartek,"3,017","16,00",3
+513,AUTOBUS,1704,174,Most św.Rocha,Os.Sobieskiego,02:39,16:42,czwartek,"2,650","16,00",2
+514,TRAMWAJ,550,13,Pl.Bernardyński,Aleje Marcinkowskiego,00:30,16:43,czwartek,"0,500","16,00",0
+515,AUTOBUS,1007,176,Grobla,Os.Dębina,00:24,16:43,czwartek,"0,400","16,00",0
+516,TRAMWAJ,627,7,Pl.Wielkopolski,Połabska,08:00,16:43,czwartek,"8,000","16,00",8
+517,TRAMWAJ,920,16,Ratajczaka,Os.Sobieskiego,00:01,16:43,czwartek,"0,017","16,00",0
+518,TRAMWAJ,449,17,Pl.Ratajskiego,Zawady,-00:20:00,16:44,czwartek,"-0,333","16,00",0
+519,TRAMWAJ,336,17,Most Teatralny,Ogrody,-00:13:00,16:44,czwartek,"-0,217","16,00",0
+520,TRAMWAJ,916,16,Rondo Kaponiera,Aleje Marcinkowskiego,00:57,16:44,czwartek,"0,950","16,00",0
+521,AUTOBUS,1820,163,Rondo Kaponiera,Garbary PKM,04:30,16:44,czwartek,"4,500","16,00",4
+522,TRAMWAJ,931,3,Matejki,Budziszyńska,00:40,16:45,czwartek,"0,667","16,00",0
+523,TRAMWAJ,399,12,Poznań Główny,Starołęka PKM,01:16,16:45,czwartek,"1,267","16,00",1
+524,TRAMWAJ,519,14,Park Wilsona,Górczyn PKM,-00:58:00,16:45,czwartek,"-0,967","16,00",0
+525,TRAMWAJ,553,6,Bałtyk,Miłostowo,01:12,16:45,czwartek,"1,200","16,00",1
+526,AUTOBUS,1279,164,Matejki,Kacza,10:36,16:46,czwartek,"10,600","16,00",10
+527,TRAMWAJ,455,5,Park Wilsona,Unii Lubelskiej,01:52,16:46,czwartek,"1,867","16,00",1
+528,TRAMWAJ,513,9,Traugutta,Dębiec PKM,01:59,16:46,czwartek,"1,983","16,00",1
+529,TRAMWAJ,88,1,Traugutta,Junikowo,00:14,16:46,czwartek,"0,233","16,00",0
+530,TRAMWAJ,457,2,Pamiątkowa,Ogrody,-00:32:00,16:47,czwartek,"-0,533","16,00",0
+531,TRAMWAJ,926,10,Wierzbięcice,Błażeja,-00:20:00,16:47,czwartek,"-0,333","16,00",0
+532,AUTOBUS,1913,171,Niedziałkowskiego,Os.Dębina,03:59,16:47,czwartek,"3,983","16,00",3
+533,TRAMWAJ,548,13,Most św.Rocha,Starołęka PKM,-00:36:00,16:48,czwartek,"-0,600","16,00",0
+534,AUTOBUS,1893,167,Małe Garbary,Radojewo,03:01,16:48,czwartek,"3,017","16,00",3
+535,TRAMWAJ,218,6,Rondo Śródka,Junikowo,00:59,16:48,czwartek,"0,983","16,00",0
+536,TRAMWAJ,549,6,Rondo Śródka,Miłostowo,05:42,16:48,czwartek,"5,700","16,00",5
+537,TRAMWAJ,630,8,Termalna,Górczyn PKM,-00:06:00,16:49,czwartek,"-0,100","16,00",0
+538,AUTOBUS,1628,184,Termalna,Rondo Rataje,03:00,16:49,czwartek,"3,000","16,00",3
+539,AUTOBUS,1758,152,Kobylepole,Darzybór,04:07,16:49,czwartek,"4,117","16,00",4
+540,AUTOBUS,1876,425,Kobylepole,Franowo,01:40,16:50,czwartek,"1,667","16,00",1
+541,TRAMWAJ,603,1,Szwedzka,Junikowo,-00:19:00,16:50,czwartek,"-0,317","16,00",0
+542,AUTOBUS,1660,166,Kurlandzka,Rondo Rataje,04:00,16:50,czwartek,"4,000","16,00",4
+543,AUTOBUS,1637,162,Os.Tysiąclecia,Rondo Rataje,04:13,16:50,czwartek,"4,217","16,00",4
+544,AUTOBUS,1661,154,Os.Czecha,Rondo Rataje,-02:13:00,16:51,czwartek,"-2,217","16,00",-2
+545,AUTOBUS,5024,511,Strzyżowska,Rondo Rataje,02:45,16:51,czwartek,"2,750","16,00",2
+546,AUTOBUS,4315,431,Rodawska,Kleszczewo/Park,00:43,16:51,czwartek,"0,717","16,00",0
+547,AUTOBUS,1887,196,Spławska,Rondo Rataje,06:28,16:51,czwartek,"6,467","16,00",6
+548,AUTOBUS,5097,501,Os.Jagiellońskie,Rondo Rataje,-01:20:00,16:52,czwartek,"-1,333","16,00",-1
+549,TRAMWAJ,525,13,Starołęka Mała,Aleje Marcinkowskiego,-00:04:00,16:52,czwartek,"-0,067","16,00",0
+550,TRAMWAJ,502,14,HCP,Górczyn PKM,00:07,16:52,czwartek,"0,117","16,00",0
+551,AUTOBUS,1010,149,Dębiec PKM,Dębiec PKM,01:34,16:53,czwartek,"1,567","16,00",1
+552,AUTOBUS,1001,176,Łozowa,Garbary PKM,-00:21:00,16:53,czwartek,"-0,350","16,00",0
+553,AUTOBUS,1024,176,Os.Dębina,Os.Dębina,02:49,16:53,czwartek,"2,817","16,00",2
+554,AUTOBUS,1009,175,Korfantego,Górczyn PKM,01:17,16:53,czwartek,"1,283","16,00",1
+555,AUTOBUS,1003,175,Świerczewo,Dębiec PKM,00:53,16:54,czwartek,"0,883","16,00",0
+556,AUTOBUS,6054,616,Ostatnia,Górczyn PKM,05:15,16:54,czwartek,"5,250","16,00",5
+557,AUTOBUS,1127,179,Os.Kopernika,Dębiec PKM,06:58,16:54,czwartek,"6,967","16,00",6
+558,AUTOBUS,1202,193,Trębacka,Os.Sobieskiego,09:33,16:55,czwartek,"9,550","16,00",9
+559,AUTOBUS,1285,193,Stadion Miejski,Os.Sobieskiego,19:44,16:55,czwartek,"19,733","16,00",19
+560,AUTOBUS,1029,145,Jugosłowiańska,Kacza,02:07,16:55,czwartek,"2,117","16,00",2
+561,TRAMWAJ,450,1,Węgorka,Junikowo,04:03,16:55,czwartek,"4,050","16,00",4
+562,AUTOBUS,1277,163,Marszałkowska,Garbary PKM,01:36,16:56,czwartek,"1,600","16,00",1
+563,AUTOBUS,1480,191,Swoboda,Os.Sobieskiego,-00:15:00,16:56,czwartek,"-0,250","16,00",0
+564,AUTOBUS,1269,177,Jasna,Junikowo,00:58,16:56,czwartek,"0,967","16,00",0
+565,AUTOBUS,1203,193,Os.Kopernika,Górczyn PKM,06:16,16:57,czwartek,"6,267","16,00",6
+566,AUTOBUS,8048,812,Bużańska,Grzebienisko/Pętla,-00:43:00,16:57,czwartek,"-0,717","16,00",0
+567,AUTOBUS,1475,186,Polska,Kiekrz,00:48,16:57,czwartek,"0,800","16,00",0
+568,AUTOBUS,1688,160,Lubieńska,Garbary PKM,12:21,16:58,czwartek,"12,350","16,00",12
+569,AUTOBUS,1626,178,Łęgowskiego,Szarych Szeregów,03:07,16:58,czwartek,"3,117","16,00",3
+570,TRAMWAJ,932,3,Ostroroga,Budziszyńska,00:06,16:59,czwartek,"0,100","16,00",0
+571,AUTOBUS,1027,145,Rondo Nowaka-Jeziorańskiego,Kacza,00:42,16:59,czwartek,"0,700","16,00",0
+572,AUTOBUS,1492,121,Piękna,Ogrody,00:29,17:00,czwartek,"0,483","17,00",0
+573,TRAMWAJ,98,2,Żeromskiego,Ogrody,02:41,17:00,czwartek,"2,683","17,00",2
+574,TRAMWAJ,915,16,Most Teatralny,Aleje Marcinkowskiego,-01:04:00,17:00,czwartek,"-1,067","17,00",-1
+575,TRAMWAJ,126,14,Most Teatralny,Górczyn PKM,00:34,17:00,czwartek,"0,567","17,00",0
+576,TRAMWAJ,920,16,Lechicka Poznań Plaza,Os.Sobieskiego,03:20,17:01,czwartek,"3,333","17,00",3
+577,AUTOBUS,1115,170,Aleje Solidarności,Puszkina,00:31,17:01,czwartek,"0,517","17,00",0
+578,TRAMWAJ,546,15,Słowiańska,Budziszyńska,00:23,17:01,czwartek,"0,383","17,00",0
+579,AUTOBUS,1908,190,Os.Chrobrego,Os.Sobieskiego,09:39,17:02,czwartek,"9,650","17,00",9
+580,AUTOBUS,1458,146,Stoińskiego,Stary Strzeszyn,-01:43:00,17:02,czwartek,"-1,717","17,00",-1
+581,AUTOBUS,1713,174,Stoińskiego,Unii Lubelskiej,00:07,17:02,czwartek,"0,117","17,00",0
+582,AUTOBUS,1015,169,Naramowice,Os.Sobieskiego,01:52,17:03,czwartek,"1,867","17,00",1
+583,AUTOBUS,1630,178,Chemiczna,Rondo Śródka,02:07,17:03,czwartek,"2,117","17,00",2
+584,TRAMWAJ,544,6,Łomżyńska,Miłostowo,05:06,17:03,czwartek,"5,100","17,00",5
+585,AUTOBUS,1686,184,Chartowo,Nowe Zoo,00:56,17:04,czwartek,"0,933","17,00",0
+586,TRAMWAJ,617,18,Rondo Żegrze,Ogrody,-00:28:00,17:04,czwartek,"-0,467","17,00",0
+587,TRAMWAJ,144,18,Rondo Rataje,Ogrody,00:13,17:04,czwartek,"0,217","17,00",0
+588,AUTOBUS,1650,152,Rondo Rataje,Rondo Rataje,-00:02:00,17:05,czwartek,"-0,033","17,00",0
+589,AUTOBUS,1710,174,Rondo Rataje,Os.Sobieskiego,02:26,17:05,czwartek,"2,433","17,00",2
+590,TRAMWAJ,525,13,Rondo Rataje,Aleje Marcinkowskiego,03:13,17:05,czwartek,"3,217","17,00",3
+591,TRAMWAJ,615,7,Rondo Rataje,Połabska,01:57,17:05,czwartek,"1,950","17,00",1
+592,AUTOBUS,1857,196,Rondo Rataje,Rondo Rataje,01:47,17:06,czwartek,"1,783","17,00",1
+593,TRAMWAJ,629,6,Rondo Rataje,Junikowo,01:27,17:06,czwartek,"1,450","17,00",1
+594,TRAMWAJ,522,13,Rondo Rataje,Starołęka PKM,-02:05:00,17:06,czwartek,"-2,083","17,00",-2
+595,TRAMWAJ,601,6,Rondo Rataje,Miłostowo,-00:52:00,17:06,czwartek,"-0,867","17,00",0
+596,TRAMWAJ,534,12,Rondo Rataje,Os.Sobieskiego,-00:35:00,17:07,czwartek,"-0,583","17,00",0
+597,TRAMWAJ,504,13,Rondo Rataje,Aleje Marcinkowskiego,01:39,17:07,czwartek,"1,650","17,00",1
+598,TRAMWAJ,518,9,Aleje Marcinkowskiego,Aleje Marcinkowskiego,-00:16:00,17:07,czwartek,"-0,267","17,00",0
+599,TRAMWAJ,915,16,Aleje Marcinkowskiego,Aleje Marcinkowskiego,-00:34:00,17:08,czwartek,"-0,567","17,00",0
+600,AUTOBUS,1506,169,Urząd Wojewódzki,Os.Sobieskiego,-01:12:00,17:08,czwartek,"-1,200","17,00",-1
+601,AUTOBUS,1763,184,Rondo Śródka,Rondo Rataje,00:45,07:30,piątek,"0,750","7,00",0
+602,TRAMWAJ,425,17,Rondo Śródka,Zawady,-00:19:00,07:30,piątek,"-0,317","7,00",0
+603,TRAMWAJ,608,6,Krańcowa,Miłostowo,03:18,07:31,piątek,"3,300","7,00",3
+604,TRAMWAJ,915,6,Most Teatralny,Aleje Marcinkowskiego,-00:45:00,07:31,piątek,"-0,750","7,00",0
+605,TRAMWAJ,424,11,Most Teatralny,Unii Lubelskiej,00:03,07:32,piątek,"0,050","7,00",0
+606,TRAMWAJ,456,17,Fredry,Zawady,-00:19:00,07:32,piątek,"-0,317","7,00",0
+607,AUTOBUS,1874,171,Urząd Wojewódzki,Os.Wichrowe Wzgórze,00:54,07:32,piątek,"0,900","7,00",0
+608,TRAMWAJ,604,6,Poznań Główny,Miłostowo,05:29,07:33,piątek,"5,483","7,00",5
+609,TRAMWAJ,134,5,Dworzec Zachodni,Górczyn PKM,02:07,07:33,piątek,"2,117","7,00",2
+610,TRAMWAJ,527,6,Most Dworcowy,Junikowo,00:05,07:33,piątek,"0,083","7,00",0
+611,TRAMWAJ,630,8,Most Dworcowy,Miłostowo,00:58,07:33,piątek,"0,967","7,00",0
+612,TRAMWAJ,916,10,Rondo Kaponiera,Błażeja,-00:06:00,07:34,piątek,"-0,100","7,00",0
+613,AUTOBUS,1871,159,Szylinga,Port Lotniczy Ławica,00:54,07:34,piątek,"0,900","7,00",0
+614,TRAMWAJ,558,9,Pl.Wiosny Ludów,Aleje Marcinkowskiego,00:14,07:34,piątek,"0,233","7,00",0
+615,TRAMWAJ,530,12,Półwiejska,Os.Sobieskiego,-00:16:00,07:34,piątek,"-0,267","7,00",0
+616,TRAMWAJ,402,5,Serafitek,Górczyn PKM,02:06,07:35,piątek,"2,100","7,00",2
+617,TRAMWAJ,555,13,Wioślarska,Starołęka PKM,00:02,07:35,piątek,"0,033","7,00",0
+618,AUTOBUS,4317,431,Rondo Rataje,Rondo Rataje,13:26,07:35,piątek,"13,433","7,00",13
+619,AUTOBUS,1629,166,Rondo Rataje,Zielniec,00:43,07:36,piątek,"0,717","7,00",0
+620,TRAMWAJ,142,18,Rondo Rataje,Ogrody,02:37,07:36,piątek,"2,617","7,00",2
+621,TRAMWAJ,551,13,Rondo Rataje,Starołęka PKM,00:09,07:36,piątek,"0,150","7,00",0
+622,AUTOBUS,1872,190,Os.Jagiellońskie,Os.Sobieskiego,01:32,07:37,piątek,"1,533","7,00",1
+623,AUTOBUS,1690,162,Os.Oświecenia,Rondo Rataje,07:03,07:37,piątek,"7,050","7,00",7
+624,AUTOBUS,1645,166,Inflancka,Rondo Rataje,05:01,07:37,piątek,"5,017","7,00",5
+625,AUTOBUS,1689,181,Wiatraczna,Krzywoustego,-00:30:00,07:37,piątek,"-0,500","7,00",0
+626,AUTOBUS,1659,154,Wiatraczna,Rondo Rataje,01:31,07:38,piątek,"1,517","7,00",1
+627,AUTOBUS,1857,196,Torowa Wiadukt,Rondo Rataje,02:07,07:38,piątek,"2,117","7,00",2
+628,TRAMWAJ,310,1,Żegrze III,Franowo,02:13,07:38,piątek,"2,217","7,00",2
+629,TRAMWAJ,224,7,Rondo Starołęka,Połabska,02:14,07:39,piątek,"2,233","7,00",2
+630,TRAMWAJ,455,18,Rondo Starołęka,Franowo,02:59,07:39,piątek,"2,983","7,00",2
+631,TRAMWAJ,312,12,Rondo Starołęka,Starołęka PKM,00:17,07:39,piątek,"0,283","7,00",0
+632,TRAMWAJ,603,6,Poznań Główny,Miłostowo,01:59,07:40,piątek,"1,983","7,00",1
+633,TRAMWAJ,607,18,Wierzbięcice,Franowo,-01:50:00,07:40,piątek,"-1,833","7,00",-1
+634,TRAMWAJ,934,10,Most Dworcowy,Błażeja,00:30,07:41,piątek,"0,500","7,00",0
+635,TRAMWAJ,933,3,Rondo Kaponiera,Błażeja,03:10,07:44,piątek,"3,167","7,00",3
+636,TRAMWAJ,525,14,Dworzec Zachodni,Górczyn PKM,-00:24:00,07:44,piątek,"-0,400","7,00",0
+637,AUTOBUS,1878,168,Rondo Kaponiera,Poznań Główny,-01:51:00,07:44,piątek,"-1,850","7,00",-1
+638,TRAMWAJ,552,15,Bałtyk,Os.Sobieskiego,02:31,07:44,piątek,"2,517","7,00",2
+639,TRAMWAJ,611,6,Poznań Główny,Junikowo,01:44,07:45,piątek,"1,733","7,00",1
+640,TRAMWAJ,549,5,Półwiejska,Unii Lubelskiej,02:15,07:45,piątek,"2,250","7,00",2
+641,TRAMWAJ,546,13,Politechnika,Starołęka PKM,01:24,07:45,piątek,"1,400","7,00",1
+642,TRAMWAJ,532,13,Politechnika,Aleje Marcinkowskiego,01:28,07:45,piątek,"1,467","7,00",1
+643,AUTOBUS,1637,196,Piłsudskiego,Rondo Rataje,00:28,07:46,piątek,"0,467","7,00",0
+644,TRAMWAJ,166,5,Os.Piastowskie,Górczyn PKM,00:04,07:47,piątek,"0,067","7,00",0
+645,TRAMWAJ,610,7,Rondo Starołęka,Ogrody,-00:05:00,07:47,piątek,"-0,083","7,00",0
+646,TRAMWAJ,504,9,Rynek Wildecki,Aleje Marcinkowskiego,00:17,07:47,piątek,"0,283","7,00",0
+647,TRAMWAJ,935,10,Most Dworcowy,Dębiec PKM,-00:49:00,07:48,piątek,"-0,817","7,00",0
+648,TRAMWAJ,420,8,Most Teatralny,Miłostowo,00:48,07:48,piątek,"0,800","7,00",0
+649,TRAMWAJ,244,17,Rynek Jeżycki,Ogrody,01:57,07:48,piątek,"1,950","7,00",1
+650,TRAMWAJ,613,7,Poznańska,Połabska,-01:34:00,07:49,piątek,"-1,567","7,00",-1
+651,TRAMWAJ,543,14,Słowiańska,Os.Sobieskiego,00:35,07:49,piątek,"0,583","7,00",0
+652,TRAMWAJ,911,3,Most Teatralny,Budziszyńska,00:18,07:50,piątek,"0,300","7,00",0
+653,TRAMWAJ,526,15,Matejki,Os.Sobieskiego,02:05,07:50,piątek,"2,083","7,00",2
+654,TRAMWAJ,522,6,Rondo Nowaka-Jeziorańskiego,Miłostowo,-00:22:00,07:50,piątek,"-0,367","7,00",0
+655,AUTOBUS,1277,163,Ściegiennego,Górczyn PKM,04:23,07:51,piątek,"4,383","7,00",4
+656,AUTOBUS,1282,193,Stadion Miejski,Os.Sobieskiego,01:51,07:51,piątek,"1,850","7,00",1
+657,AUTOBUS,1492,121,Ogrody,Ogrody,01:58,07:53,piątek,"1,967","7,00",1
+658,TRAMWAJ,126,17,Żeromskiego,Zawady,-00:14:00,07:54,piątek,"-0,233","7,00",0
+659,AUTOBUS,1829,191,Żeromskiego,Os.Kopernika,04:34,07:54,piątek,"4,567","7,00",4
+660,AUTOBUS,1286,182,Niestachowska,Górczyn PKM,01:24,07:54,piątek,"1,400","7,00",1
+661,TRAMWAJ,448,2,Polna,Ogrody,-00:28:00,07:55,piątek,"-0,467","7,00",0
+662,TRAMWAJ,940,10,Rondo Kaponiera,Błażeja,00:57,07:55,piątek,"0,950","7,00",0
+663,AUTOBUS,1706,174,Opieńskiego,Os.Sobieskiego,03:15,07:55,piątek,"3,250","7,00",3
+664,AUTOBUS,1886,198,Os.Batorego,UAM Os.Różany Potok,01:20,07:56,piątek,"1,333","7,00",1
+665,AUTOBUS,9101,905,Szymanowskiego,Os.Sobieskiego,04:08,07:56,piątek,"4,133","7,00",4
+666,AUTOBUS,9107,907,Mateckiego,Chludowo/Szkoła,04:05,07:57,piątek,"4,083","7,00",4
+667,AUTOBUS,1453,146,Mateckiego,Boranta,02:26,07:57,piątek,"2,433","7,00",2
+668,AUTOBUS,1253,164,Literacka,Kacza,01:06,07:57,piątek,"1,100","7,00",1
+669,AUTOBUS,1461,170,Literacka,Puszkina,01:48,07:58,piątek,"1,800","7,00",1
+670,AUTOBUS,1476,156,Ogrody,Ogrody,04:24,07:58,piątek,"4,400","7,00",4
+671,AUTOBUS,1814,191,Nad Wierzbakiem,Os.Kopernika,02:15,07:58,piątek,"2,250","7,00",2
+672,AUTOBUS,1893,167,Serbska,Rondo Śródka,01:41,07:59,piątek,"1,683","7,00",1
+673,AUTOBUS,1637,196,Torowa Wiadukt,Rondo Rataje,-01:11:00,07:59,piątek,"-1,183","7,00",-1
+674,AUTOBUS,1665,154,Ługańska,Rondo Rataje,01:28,07:59,piątek,"1,467","7,00",1
+675,AUTOBUS,1005,179,Opolska,Dębiec PKM,-00:36:00,08:00,piątek,"-0,600","8,00",0
+676,AUTOBUS,1675,173,Gnieźnieńska,Rondo Śródka,01:40,08:01,piątek,"1,667","8,00",1
+677,AUTOBUS,1652,183,Chemiczna,Szarych Szeregów,02:24,08:01,piątek,"2,400","8,00",2
+678,TRAMWAJ,218,8,Rondo Śródka,Górczyn PKM,00:00,08:01,piątek,"0,000","8,00",0
+679,TRAMWAJ,629,7,Katedra,Połabska,00:30,08:01,piątek,"0,500","8,00",0
+680,AUTOBUS,1702,174,Małe Garbary,Os.Sobieskiego,02:00,08:02,piątek,"2,000","8,00",2
+681,AUTOBUS,1873,190,Wielka,Os.Sobieskiego,-01:08:00,08:02,piątek,"-1,133","8,00",-1
+682,TRAMWAJ,542,13,Wrocławska,Aleje Marcinkowskiego,-00:09:00,08:02,piątek,"-0,150","8,00",0
+683,TRAMWAJ,522,6,AWF,Miłostowo,-00:37:00,08:02,piątek,"-0,617","8,00",0
+684,TRAMWAJ,198,18,Wierzbięcice,Ogrody,01:22,08:03,piątek,"1,367","8,00",1
+685,TRAMWAJ,226,2,Św.Czesława,Ogrody,00:52,08:03,piątek,"0,867","8,00",0
+686,TRAMWAJ,457,2,Rynek Wildecki,Dębiec PKM,01:07,08:03,piątek,"1,117","8,00",1
+687,TRAMWAJ,502,9,Kosińskiego,Dębiec PKM,02:17,08:03,piątek,"2,283","8,00",2
+688,TRAMWAJ,936,10,Kosińskiego,Błażeja,-00:05:00,08:04,piątek,"-0,083","8,00",0
+689,TRAMWAJ,432,11,Traugutta,Piątkowska,00:13,08:04,piątek,"0,217","8,00",0
+690,TRAMWAJ,935,10,Wspólna,Dębiec PKM,-00:37:00,08:04,piątek,"-0,617","8,00",0
+691,AUTOBUS,1001,176,IPN,Garbary PKM,02:29,08:04,piątek,"2,483","8,00",2
+692,AUTOBUS,1018,176,Piastowska,Os.Dębina,06:27,08:05,piątek,"6,450","8,00",6
+693,TRAMWAJ,551,13,Rondo Starołęka,Aleje Marcinkowskiego,-00:09:00,08:05,piątek,"-0,150","8,00",0
+694,TRAMWAJ,445,1,Rondo Starołęka,Junikowo,03:17,08:05,piątek,"3,283","8,00",3
+695,TRAMWAJ,168,5,Os.Rzeczypospolitej,Górczyn PKM,00:14,08:05,piątek,"0,233","8,00",0
+696,TRAMWAJ,545,12,Os.Rzeczypospolitej,Starołęka PKM,-00:21:00,08:06,piątek,"-0,350","8,00",0
+697,AUTOBUS,1769,152,Rondo Rataje,Rondo Rataje,01:40,08:06,piątek,"1,667","8,00",1
+698,TRAMWAJ,505,13,Politechnika,Aleje Marcinkowskiego,01:38,08:06,piątek,"1,633","8,00",1
+699,AUTOBUS,1757,184,Baraniaka,Termy Maltańskie,-00:04:00,08:06,piątek,"-0,067","8,00",0
+700,TRAMWAJ,162,6,Rondo Śródka,Junikowo,00:01,08:07,piątek,"0,017","8,00",0
+701,TRAMWAJ,526,15,Most Teatralny,Junikowo,-00:33:00,17:51,sobota,"-0,550","17,00",0
+702,TRAMWAJ,613,7,Fredry,Ogrody,-00:44:00,17:51,sobota,"-0,733","17,00",0
+703,TRAMWAJ,938,3,Rondo Nowaka-Jeziorańskiego,Błażeja,01:58,17:52,sobota,"1,967","17,00",1
+704,AUTOBUS,1281,191,Stadion Miejski,Os.Kopernika,00:51,17:52,sobota,"0,850","17,00",0
+705,TRAMWAJ,928,3,Rondo Skubiszewskiego,Junikowo,01:06,17:52,sobota,"1,100","17,00",1
+706,AUTOBUS,1003,149,Kępińska,Dębiec PKM,01:15,17:53,sobota,"1,250","17,00",1
+707,AUTOBUS,1022,179,Opolska,Dębiec PKM,10:48,17:53,sobota,"10,800","17,00",10
+708,TRAMWAJ,436,2,Dębiec PKM,Dębiec PKM,-01:02:00,17:53,sobota,"-1,033","17,00",-1
+709,AUTOBUS,1019,176,IPN,Os.Dębina,00:15,17:53,sobota,"0,250","17,00",0
+710,TRAMWAJ,505,9,Rynek Wildecki,Dębiec PKM,00:17,17:54,sobota,"0,283","17,00",0
+711,TRAMWAJ,915,16,Zamek,Os.Sobieskiego,-00:29:00,17:54,sobota,"-0,483","17,00",0
+712,AUTOBUS,1702,169,Urząd Marszałkowski,Os.Sobieskiego,03:43,17:54,sobota,"3,717","17,00",3
+713,AUTOBUS,1637,168,Słowiańska,Strzeszyn PKM,-00:35:00,17:54,sobota,"-0,583","17,00",0
+714,AUTOBUS,1274,182,Maczka,Górczyn PKM,00:18,17:55,sobota,"0,300","17,00",0
+715,AUTOBUS,1277,191,Os.Słowiańskie,Os.Kopernika,06:41,17:55,sobota,"6,683","17,00",6
+716,AUTOBUS,1408,170,Dojazd,Puszkina,00:35,17:55,sobota,"0,583","17,00",0
+717,AUTOBUS,1763,178,Stróżyńskiego,Szarych Szeregów,-00:53:00,17:55,sobota,"-0,883","17,00",0
+718,TRAMWAJ,459,15,Kurpińskiego,Os.Sobieskiego,00:29,17:56,sobota,"0,483","17,00",0
+719,TRAMWAJ,935,10,Włodarsa,Dębiec PKM,01:03,17:56,sobota,"1,050","17,00",1
+720,AUTOBUS,1681,185,Bałtycka,Rondo Śródka,03:52,17:56,sobota,"3,867","17,00",3
+721,TRAMWAJ,434,8,Termalna,Górczyn PKM,00:17,17:56,sobota,"0,283","17,00",0
+722,AUTOBUS,1765,157,Dymka,Mogileńska,00:51,17:57,sobota,"0,850","17,00",0
+723,AUTOBUS,1655,167,Rondo Śródka,Rondo Śródka,01:52,17:57,sobota,"1,867","17,00",1
+724,TRAMWAJ,453,17,Małe Garbary,Ogrody,00:38,17:58,sobota,"0,633","17,00",0
+725,AUTOBUS,1707,174,Małe Garbary,Os.Sobieskiego,01:11,17:58,sobota,"1,183","17,00",1
+726,AUTOBUS,1912,171,Armii Poznań,Os.Wichrowe Wzgórze,-02:57:00,17:58,sobota,"-2,950","17,00",-2
+727,TRAMWAJ,919,16,Most Teatralny,Aleje Marcinkowskiego,-01:19:00,17:58,sobota,"-1,317","17,00",-1
+728,AUTOBUS,1288,164,Śląska,Puszkina,00:26,17:59,sobota,"0,433","17,00",0
+729,TRAMWAJ,425,2,Polna,Ogrody,01:29,17:59,sobota,"1,483","17,00",1
+730,TRAMWAJ,454,17,Polna,Zawady,-00:09:00,17:59,sobota,"-0,150","17,00",0
+731,TRAMWAJ,399,1,Piaśnicka Rynek,Junikowo,01:32,17:59,sobota,"1,533","17,00",1
+732,TRAMWAJ,627,18,Żegrze II,Franowo,02:44,18:00,sobota,"2,733","18,00",2
+733,AUTOBUS,1669,184,Os.Bohaterów II Wojny Światowej,Rondo Rataje,07:42,18:00,sobota,"7,700","18,00",7
+734,TRAMWAJ,550,12,Rondo Starołęka,Os.Sobieskiego,00:01,18:00,sobota,"0,017","18,00",0
+735,TRAMWAJ,447,2,Pamiątkowa,Ogrody,-01:05:00,18:01,sobota,"-1,083","18,00",-1
+736,AUTOBUS,1024,145,Ułańska,Kacza,01:46,18:01,sobota,"1,767","18,00",1
+737,AUTOBUS,1680,154,Szczepankowo,Spławie,-00:56:00,18:01,sobota,"-0,933","18,00",0
+738,AUTOBUS,1650,162,Rodawska,Rondo Rataje,00:37,18:02,sobota,"0,617","18,00",0
+739,AUTOBUS,1877,190,Bobrzańska,Bobrzańska,08:33,18:02,sobota,"8,550","18,00",8
+740,AUTOBUS,1686,152,Żelazna,Darzybór,00:04,18:02,sobota,"0,067","18,00",0
+741,AUTOBUS,1764,157,Żelazna,Rondo Śródka,-00:39:00,18:03,sobota,"-0,650","18,00",0
+742,AUTOBUS,1675,183,Hlonda,Rondo Śródka,00:35,19:31,sobota,"0,583","19,00",0
+743,AUTOBUS,1870,190,Winogrady,Rondo Śródka,02:37,19:31,sobota,"2,617","19,00",2
+744,TRAMWAJ,441,17,Małe Garbary,Zawady,00:55,19:32,sobota,"0,917","19,00",0
+745,TRAMWAJ,508,9,Różana,Dębiec PKM,00:32,19:32,sobota,"0,533","19,00",0
+746,TRAMWAJ,924,10,Pamiątkowa,Błażeja,-01:19:00,19:32,sobota,"-1,317","19,00",-1
+747,TRAMWAJ,504,13,Bystra,Starołęka PKM,-00:55:00,19:33,sobota,"-0,917","19,00",0
+748,AUTOBUS,1670,154,Os.Jagiellońskie,Rondo Rataje,05:14,19:33,sobota,"5,233","19,00",5
+749,AUTOBUS,1686,162,Wiatraczna,Rondo Rataje,01:36,19:34,sobota,"1,600","19,00",1
+750,AUTOBUS,1874,190,Bobrzańska,Bobrzańska,02:49,19:34,sobota,"2,817","19,00",2
+751,TRAMWAJ,525,6,Rondo Rataje,Junikowo,-00:21:00,19:34,sobota,"-0,350","19,00",0
+752,TRAMWAJ,911,16,Rondo Kaponiera,Os.Sobieskiego,-00:25:00,19:35,sobota,"-0,417","19,00",0
+753,TRAMWAJ,548,14,Most Teatralny,Górczyn PKM,-00:29:00,19:35,sobota,"-0,483","19,00",0
+754,AUTOBUS,1289,164,Jeżycka,Kacza,02:32,19:35,sobota,"2,533","19,00",2
+755,AUTOBUS,1681,185,Rynek Wschodni,Rondo Śródka,05:50,19:36,sobota,"5,833","19,00",5
+756,AUTOBUS,1652,178,Chemiczna,Szarych Szeregów,-00:16:00,19:37,sobota,"-0,267","19,00",0
+757,AUTOBUS,1673,173,Bogucin Bałtycka,Janikowo,00:55,19:38,sobota,"0,917","19,00",0
+758,AUTOBUS,1879,158,Ożarowska,Sypniewo,00:17,19:39,sobota,"0,283","19,00",0
+759,AUTOBUS,1772,194,Staszowska,Starołęka PKM,00:27,19:40,sobota,"0,450","19,00",0
+760,AUTOBUS,1017,179,Drużynowa,Dębiec PKM,06:39,19:40,sobota,"6,650","19,00",6
+761,AUTOBUS,1460,156,Kołobrzeska,Ogrody,-00:23:00,19:41,sobota,"-0,383","19,00",0
+762,AUTOBUS,1278,177,Malechowska,Junikowo,00:14,19:42,sobota,"0,233","19,00",0
+763,AUTOBUS,1260,182,Palacza,Os.Wichrowe Wzgórze,01:55,19:42,sobota,"1,917","19,00",1
+764,TRAMWAJ,508,9,Dębiec PKM,Dębiec PKM,00:34,19:43,sobota,"0,567","19,00",0
+765,TRAMWAJ,459,15,Kurpińskiego,Budziszyńska,00:31,19:43,sobota,"0,517","19,00",0
+766,TRAMWAJ,421,11,Os.Winiary,Pamiątkow,03:11,19:43,sobota,"3,183","19,00",3
+767,TRAMWAJ,935,10,Armii Poznań,Dębiec PKM,01:22,19:44,sobota,"1,367","19,00",1
+768,TRAMWAJ,434,8,Małe Garbary,Górczyn PKM,00:22,19:44,sobota,"0,367","19,00",0
+769,AUTOBUS,1689,181,Piłsudskiego,Rondo Rataje,02:28,19:45,sobota,"2,467","19,00",2
+770,AUTOBUS,1650,196,Inflancka,Rondo Rataje,-00:49:00,19:46,sobota,"-0,817","19,00",0
+771,AUTOBUS,1670,154,Os.Jagiellońskie,Spławie,00:51,19:48,sobota,"0,850","19,00",0
+772,TRAMWAJ,446,7,Rondo Rataje,Ogrody,01:12,19:48,sobota,"1,200","19,00",1
+773,TRAMWAJ,429,18,Os.Rzeczypospolitej,Franowo,-01:32:00,19:48,sobota,"-1,533","19,00",-1
+774,TRAMWAJ,413,1,Rondo Starołęka,Junikowo,01:15,19:49,sobota,"1,250","19,00",1
+775,TRAMWAJ,551,14,Park Wilsona,Os.Sobieskiego,01:14,19:49,sobota,"1,233","19,00",1
+776,AUTOBUS,1867,159,Polna Szpital,Port Lotniczy Ławica,00:47,19:50,sobota,"0,783","19,00",0
+777,AUTOBUS,1014,160,Nad Wierzbakiem,Stary Strzeszyn,03:56,19:51,sobota,"3,933","19,00",3
+778,AUTOBUS,1646,183,Połabska,Rondo Śródka,01:00,19:51,sobota,"1,000","19,00",1
+779,AUTOBUS,1274,182,Os.Słowiańskie,Górczyn PKM,-00:34:00,19:52,sobota,"-0,567","19,00",0
+780,AUTOBUS,1673,173,Studzienna,Rondo Śródka,00:38,19:56,sobota,"0,633","19,00",0
+781,TRAMWAJ,913,16,Słowiańska,Aleje Marcinkowskiego,-01:26:00,16:55,niedziela,"-1,433","16,00",-1
+782,TRAMWAJ,424,2,Kraszewskiego,Dębiec PKM,01:28,16:56,niedziela,"1,467","16,00",1
+783,AUTOBUS,1655,154,Torowa Wiadukt,Spławie,00:00,16:56,niedziela,"0,000","16,00",0
+784,AUTOBUS,1685,184,Os.Rusa,Rondo Rataje,02:17,17:03,niedziela,"2,283","17,00",2
+785,TRAMWAJ,518,6,Termalna,Miłostowo,-01:02:00,17:03,niedziela,"-1,033","17,00",-1
+786,AUTOBUS,1673,173,Studzienna,Janikowo,01:22,17:03,niedziela,"1,367","17,00",1
+787,AUTOBUS,1646,167,Rondo Śródka,Rondo Śródka,-01:15:00,17:04,niedziela,"-1,250","17,00",-1
+788,TRAMWAJ,441,11,Wielkopolska,Piątkowska,02:57,17:04,niedziela,"2,950","17,00",2
+789,AUTOBUS,1259,191,Kościelna Tunel,Os.Sobieskiego,-00:05:00,17:04,niedziela,"-0,083","17,00",0
+790,TRAMWAJ,556,15,Bałtyk,Os.Sobieskiego,00:10,17:04,niedziela,"0,167","17,00",0
+791,AUTOBUS,1257,164,Sczanieckiej,Puszkina,-00:28:00,17:05,niedziela,"-0,467","17,00",0
+792,AUTOBUS,1027,179,Drużynowa,Dębiec PKM,-00:19:00,17:05,niedziela,"-0,317","17,00",0
+793,AUTOBUS,1893,158,Starołęka Wielka,Sypniewo,-00:36:00,17:05,niedziela,"-0,600","17,00",0
+794,TRAMWAJ,507,13,Starołęka Mała,Aleje Marcinkowskiego,-00:28:00,17:06,niedziela,"-0,467","17,00",0
+795,TRAMWAJ,459,1,Rondo Starołęka,Junikowo,00:03,17:06,niedziela,"0,050","17,00",0
+796,AUTOBUS,5052,501,Os.Lecha I,Błażejewo/Os.Przylesie,02:08,17:06,niedziela,"2,133","17,00",2
+797,AUTOBUS,1687,185,Serbska,Rondo Śródka,00:46,17:07,niedziela,"0,767","17,00",0
+798,AUTOBUS,1689,178,Os.Wichrowe Wzgórze,Rondo Śródka,00:49,17:07,niedziela,"0,817","17,00",0
+799,AUTOBUS,1254,164,Hezjoda,Puszkina,-00:31:00,17:08,niedziela,"-0,517","17,00",0
+800,AUTOBUS,7008,729,Swoboda,Dopiewo/Dworzec Kolejowy,00:43,17:08,niedziela,"0,717","17,00",0
+801,AUTOBUS,1859,182,Szpitalna,Os.Wichrowe Wzgórze,-00:27:00,17:08,niedziela,"-0,450","17,00",0
+802,AUTOBUS,1480,156,Polska,Krzyżowniki,01:29,17:08,niedziela,"1,483","17,00",1
+803,TRAMWAJ,433,1,Rondo Nowaka-Jeziorańskiego,Franowo,00:52,17:09,niedziela,"0,867","17,00",0
+804,AUTOBUS,1002,149,Ostatnia,Dębiec PKM,-00:04:00,17:09,niedziela,"-0,067","17,00",0
+805,AUTOBUS,6063,611,Dębiec PKM,Dębiec PKM,01:06,17:09,niedziela,"1,100","17,00",1
+806,AUTOBUS,1903,171,Łozowa,Os.Wichrowe Wzgórze,00:35,17:10,niedziela,"0,583","17,00",0
+807,AUTOBUS,1019,176,Rolna,Os.Dębina,02:18,17:10,niedziela,"2,300","17,00",2
+808,TRAMWAJ,521,6,Rondo Śródka,Junikowo,00:44,17:10,niedziela,"0,733","17,00",0
+809,AUTOBUS,1660,184,Chartowo,Nowe Zoo,00:29,17:10,niedziela,"0,483","17,00",0
+810,AUTOBUS,1680,152,Dymka,Rondo Rataje,00:07,17:11,niedziela,"0,117","17,00",0
+811,TRAMWAJ,613,18,Rondo Starołęka,Franowo,-01:07:00,17:11,niedziela,"-1,117","17,00",-1
+812,TRAMWAJ,513,9,Półwiejska,Aleje Marcinkowskiego,-00:55:00,17:11,niedziela,"-0,917","17,00",0
+813,TRAMWAJ,430,2,Rondo Kaponiera,Ogrody,-01:24:00,17:11,niedziela,"-1,400","17,00",-1
+814,TRAMWAJ,556,15,Słowiańska,Os.Sobieskiego,01:07,17:12,niedziela,"1,117","17,00",1
+815,TRAMWAJ,441,11,Bonin,Piątkowska,03:00,17:12,niedziela,"3,000","17,00",3
+816,AUTOBUS,1675,183,Wrzoska Szpitale,Szarych Szeregów,-01:17:00,17:12,niedziela,"-1,283","17,00",-1
+817,AUTOBUS,1762,173,Główna,Rondo Śródka,-00:03:00,17:12,niedziela,"-0,050","17,00",0
+818,TRAMWAJ,518,6,Miłostowo,Miłostowo,-01:03:00,17:13,niedziela,"-1,050","17,00",-1
+819,AUTOBUS,1765,157,Światopełka,Rondo Śródka,-00:15:00,17:13,niedziela,"-0,250","17,00",0
+820,AUTOBUS,1654,196,Krzesiny Wiadukt,Rondo Rataje,00:03,17:13,niedziela,"0,050","17,00",0
+821,AUTOBUS,1639,152,Ślężańska,Darzybór,-00:35:00,17:13,niedziela,"-0,583","17,00",0
+822,TRAMWAJ,447,5,Rondo Rataje,Unii Lubelskiej,01:44,17:14,niedziela,"1,733","17,00",1
+823,AUTOBUS,1893,158,Głuszyna Szkoła,Sypniewo,-00:09:00,17:14,niedziela,"-0,150","17,00",0
+824,TRAMWAJ,446,14,Most Teatralny,Górczyn PKM,-01:09:00,17:15,niedziela,"-1,150","17,00",-1
+825,AUTOBUS,1264,164,Nad Wierzbakiem,Kacza,02:52,17:15,niedziela,"2,867","17,00",2
+826,TRAMWAJ,434,11,Sołacz,Głogowska/Hetmańska,-00:09:00,17:15,niedziela,"-0,150","17,00",0
+827,TRAMWAJ,621,7,Most Teatralny,Połabska,-00:45:00,17:15,niedziela,"-0,750","17,00",0
+828,TRAMWAJ,526,12,Wierzbięcice,Os.Sobieskiego,01:15,17:16,niedziela,"1,250","17,00",1
+829,TRAMWAJ,931,10,Św.Czesława,Błażeja,-01:09:00,17:16,niedziela,"-1,150","17,00",-1
+830,TRAMWAJ,429,8,Dworzec Zachodni,Górczyn PKM,02:19,17:16,niedziela,"2,317","17,00",2
